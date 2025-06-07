@@ -1,0 +1,13 @@
+name = "Anti Entity Grief"
+filename = "antientitygrief-1.0.7-1.20.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q8G7ff3j/versions/2ah1yXCE/antientitygrief-1.0.7-1.20.jar"
+hash-format = "sha512"
+hash = "a580e8feb6187fa055ce955e938a2adaa16baaaaa2b171d1c1be3d1f8bbc869ba9ab0bf573a39f28fb7ec29ddf9a029e75f40607d428379ca4f14b640b0efbc0"
+
+[update]
+[update.modrinth]
+mod-id = "Q8G7ff3j"
+version = "2ah1yXCE"

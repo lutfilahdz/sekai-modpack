@@ -1,0 +1,3 @@
+allowCaveModeOnServer:false
+registerStatusEffects:false
+everyoneTracksEveryone:true

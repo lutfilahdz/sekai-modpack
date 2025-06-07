@@ -1,0 +1,8 @@
+name = "config/genshinstrument-client.toml (client)"
+filename = "genshinstrument-client.toml"
+side = "client"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-packwiz/main/client-files/config/genshinstrument-client.toml"
+hash-format = "sha512"
+hash = "d2ccc6111eda1de2e06fcf415bd6d6b9152b545ea4eb651ce63fe44e8a1be442689edddf30cd1fac24af6db0ab35a9081dd7cae8448a7da198968986e7f6bc76"

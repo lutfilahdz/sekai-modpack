@@ -1,0 +1,8 @@
+name = "unsup.ini (client)"
+filename = "unsup.ini"
+side = "client"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-packwiz/main/client-files/unsup.ini"
+hash-format = "sha512"
+hash = "50fee1620ca8d8aa51ccd009e25afdd3443d58304c5df76aa3eeff0889a3b5b490bf265a10ad6098602438411dbcad0e7bda79b5ed0db04737b12d13fecd0a25"

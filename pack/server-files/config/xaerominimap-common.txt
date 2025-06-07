@@ -1,0 +1,4 @@
+allowCaveModeOnServer:false
+allowRadarOnServer:false
+registerStatusEffects:false
+everyoneTracksEveryone:true

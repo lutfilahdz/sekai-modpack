@@ -1,0 +1,6 @@
+enableVsync:false
+darkMojangStudiosBackground:true
+gamma:1.0
+maxFps:260
+skipMultiplayerWarning:true
+joinedFirstServer:true

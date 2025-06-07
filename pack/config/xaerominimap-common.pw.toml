@@ -1,0 +1,8 @@
+name = "config/xaerominimap-common.txt (server)"
+filename = "xaerominimap-common.txt"
+side = "server"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-packwiz/main/server-files/config/xaerominimap-common.txt"
+hash-format = "sha512"
+hash = "6b1b2868db377051436bbc4371829b3e02a5ab0c1cf8990ccf82f704d31d296c7cc6768c435800b2f5442f1705d3fc3d35aced1aead52c6028666e851f718849"

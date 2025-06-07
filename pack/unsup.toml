@@ -1,0 +1,185 @@
+[flavor_groups.package]
+name = "Mod Package"
+description = "Choose the mod package that best suits your needs in Sekai Survival.\nEach package is designed to enhance your gaming experience with different levels of optimization and features."
+side = "both"
+[[flavor_groups.package.choices]]
+id = "package_complete"
+name = "Complete"
+description = "Complete package with optimization and additional quality of life features for the best gaming experience.\nJust install and play without any hassle!"
+[[flavor_groups.package.choices]]
+id = "package_performance"
+name = "Performance"
+description = "Basic package enhanced with performance-focused mods.\nPerfect for players who don't have their own optimization mods."
+[[flavor_groups.package.choices]]
+id = "package_basic"
+name = "Basic"
+description = "Basic essential mods required for server compatibility.\nIdeal for players who already have their own additional mods."
+
+[flavor_groups.rendering]
+name = "Rendering"
+description = "Choose your rendering setup. Sodium is a modern rendering engine that greatly improves performance. Iris allows you to use shaders for enhanced visual effects."
+side = "client"
+[[flavor_groups.rendering.choices]]
+id = "rendering_iris"
+name = "Sodium + Iris"
+description = "Performance optimization with Sodium and its addons, plus shader support through Iris for enhanced visual effects."
+[[flavor_groups.rendering.choices]]
+id = "rendering_sodium"
+name = "Sodium Only"
+description = "Performance optimization with Sodium and additional features like improved graphics settings and visual tweaks."
+[[flavor_groups.rendering.choices]]
+id = "rendering_off"
+name = "None"
+description = "No rendering enhancements."
+
+[flavor_groups.xaero]
+name = "Xaero's Maps"
+description = "Choose whether to use Xaero's Minimap and World Map, providing detailed navigation and map features for better exploration."
+side = "both"
+choices = ["xaero_off", "xaero_on"]
+
+[flavor_groups.distant_horizons]
+name = "Distant Horizons"
+description = "Choose whether to enable Distant Horizons, a mod that renders distant terrain for better view distances with minimal performance impact."
+side = "both"
+choices = ["distant_horizons_off", "distant_horizons_on"]
+
+[metafile.continuity]
+flavors = "package_complete"
+[metafile.entitytexturefeatures]
+flavors = "package_complete"
+[metafile.entity-model-features]
+flavors = "package_complete"
+[metafile.animatica]
+flavors = "package_complete"
+[metafile.cit-resewn]
+flavors = "package_complete"
+[metafile.sound-physics-remastered]
+flavors = "package_complete"
+[metafile.ambientsounds]
+flavors = "package_complete"
+[metafile.immersivethunder]
+flavors = "package_complete"
+[metafile.presence-footsteps]
+flavors = "package_complete"
+[metafile.coolrain]
+flavors = "package_complete"
+[metafile.dripsounds]
+flavors = "package_complete"
+[metafile.jei]
+flavors = "package_complete"
+[metafile.justenoughbreeding]
+flavors = "package_complete"
+[metafile.just-enough-professions-jep]
+flavors = "package_complete"
+[metafile.just-enough-effect-descriptions-jeed]
+flavors = "package_complete"
+[metafile.just-enough-beacons-reforged]
+flavors = "package_complete"
+[metafile.mouse-tweaks]
+flavors = "package_complete"
+[metafile.controlling]
+flavors = "package_complete"
+[metafile.better-third-person]
+flavors = "package_complete"
+[metafile.cameraoverhaul]
+flavors = "package_complete"
+[metafile.morechathistory]
+flavors = "package_complete"
+[metafile.modelfix]
+flavors = "package_complete"
+[metafile.lambdynamiclights]
+flavors = "package_complete"
+[metafile.jade]
+flavors = "package_complete"
+[metafile.jade-addons-fabric]
+flavors = "package_complete"
+[metafile.your-reputation]
+flavors = "package_complete"
+[metafile.appleskin]
+flavors = "package_complete"
+[metafile.tooltiprareness]
+flavors = "package_complete"
+[metafile.enchantment-descriptions]
+flavors = "package_complete"
+[metafile.effect-descriptions]
+flavors = "package_complete"
+[metafile.foodeffecttooltips]
+flavors = "package_complete"
+[metafile.shulkerboxtooltip]
+flavors = "package_complete"
+[metafile.durability-tooltip]
+flavors = "package_complete"
+[metafile.held-item-info]
+flavors = "package_complete"
+[metafile.pick-up-notifier]
+flavors = "package_complete"
+[metafile.item-highlighter]
+flavors = "package_complete"
+[metafile.item-borders]
+flavors = "package_complete"
+[metafile.status-effect-bars]
+flavors = "package_complete"
+[metafile.stendhal]
+flavors = "package_complete"
+[metafile.better-mount-hud]
+flavors = "package_complete"
+[metafile.better-ping-display-fabric]
+flavors = "package_complete"
+[metafile.boat-item-view]
+flavors = "package_complete"
+[metafile.craftpresence]
+flavors = "package_complete"
+[metafile.swingthrough]
+flavors = "package_complete"
+[metafile.accurate-block-placement-reborn]
+flavors = "package_complete"
+[metafile.eating-animation]
+flavors = "package_complete"
+[metafile.lithium]
+flavors = ["package_complete", "package_performance"]
+[metafile.ferrite-core]
+flavors = ["package_complete", "package_performance"]
+[metafile.entityculling]
+flavors = ["package_complete", "package_performance"]
+[metafile.ebe]
+flavors = ["package_complete", "package_performance"]
+[metafile.immediatelyfast]
+flavors = ["package_complete", "package_performance"]
+[metafile.c2me-fabric]
+flavors = ["package_complete", "package_performance"]
+[metafile.noisium]
+flavors = ["package_complete", "package_performance"]
+[metafile.modernfix]
+flavors = ["package_complete", "package_performance"]
+[metafile.badoptimizations]
+flavors = ["package_complete", "package_performance"]
+[metafile.moreculling]
+flavors = ["package_complete", "package_performance"]
+[metafile.vmp-fabric]
+flavors = ["package_complete", "package_performance"]
+[metafile.threadtweak]
+flavors = ["package_complete", "package_performance"]
+
+[metafile.iris]
+flavors = "rendering_iris"
+[metafile.iris-flw-compat]
+flavors = "rendering_iris"
+[metafile.sodium]
+flavors = ["rendering_iris", "rendering_sodium"]
+[metafile.indium]
+flavors = ["rendering_iris", "rendering_sodium"]
+[metafile.sodium-extra]
+flavors = ["rendering_iris", "rendering_sodium"]
+[metafile.sodium-shadowy-path-blocks]
+flavors = ["rendering_iris", "rendering_sodium"]
+[metafile.reeses-sodium-options]
+flavors = ["rendering_iris", "rendering_sodium"]
+
+[metafile.xaeros-minimap]
+flavors = "xaero_on"
+[metafile.xaeros-world-map]
+flavors = "xaero_on"
+
+[metafile.distanthorizons]
+flavors = "distant_horizons_on"

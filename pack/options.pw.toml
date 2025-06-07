@@ -1,0 +1,8 @@
+name = "options.txt (client)"
+filename = "options.txt"
+side = "client"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-packwiz/main/client-files/options.txt"
+hash-format = "sha512"
+hash = "ba3f92b1194c401293d548653bbf19f7764df961b58250619f1a34808b5a2d0a043a9c526556ca36fafc75118ba6e249a2684e1cfa6d32db459b51a7d2d4f2c1"

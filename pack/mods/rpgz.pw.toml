@@ -1,0 +1,13 @@
+name = "RpgZ"
+filename = "rpgz-0.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pWpEhhT7/versions/HVFJeuv7/rpgz-0.6.0.jar"
+hash-format = "sha512"
+hash = "bd0fc2cc8bb8ad33742d777e56546273dfe1293724f4f68948486c9b573e1ced474e464fa354e48b621fbe3b52d74176f76b5d343c1872918b6df9964753621e"
+
+[update]
+[update.modrinth]
+mod-id = "pWpEhhT7"
+version = "HVFJeuv7"

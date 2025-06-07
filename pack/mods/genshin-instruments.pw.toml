@@ -1,0 +1,13 @@
+name = "Genshin Instruments"
+filename = "genshinstrument-fabric-1.20-1.20.1-5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UUD6Qkij/versions/8PJLSO5u/genshinstrument-fabric-1.20-1.20.1-5.0.jar"
+hash-format = "sha512"
+hash = "b7a3b06f778036fef290270c7f48fca6ac8a2e566009a4997539c3b963f8d4bde07f4a4c7820d9281d390e4a905cdf4bb96102aa7d28daa6c11c5b17647c1472"
+
+[update]
+[update.modrinth]
+mod-id = "UUD6Qkij"
+version = "8PJLSO5u"

@@ -1,0 +1,13 @@
+name = "Danger Close"
+filename = "danger_close-merged-1.20.1-3.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VtVhdIEA/versions/WtYmyCHY/danger_close-merged-1.20.1-3.1.3.jar"
+hash-format = "sha512"
+hash = "a3acc1e9db121afc4b5b381580be2726270380a43814f004672d7a10869c103413bb4ad59fe77e00aa0f25bae73aa1a4e6951a1ec3bfd12b3e8bb83012934f1c"
+
+[update]
+[update.modrinth]
+mod-id = "VtVhdIEA"
+version = "WtYmyCHY"

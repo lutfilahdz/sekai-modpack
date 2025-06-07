@@ -1,0 +1,4 @@
+[general]
+	DisclaimerShow = false
+[extra_player_render]
+	DisablePlayerRender = true
