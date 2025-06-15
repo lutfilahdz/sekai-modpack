@@ -111,18 +111,8 @@ hash = "a2de85ebe9629568398185b5b9554bcc0c54e322b214d78368485a6074a66279"
 metafile = true
 
 [[files]]
-file = "mods/birds-boids-addon.pw.toml"
-hash = "caabc02086bb50b541689fff07e517f2838f1283265a4711be1f087898c2e714"
-metafile = true
-
-[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "d6878871a07870b33821beed20118368e779c17574062d5d771eb38b9403e875"
-metafile = true
-
-[[files]]
-file = "mods/boids.pw.toml"
-hash = "deb918a0a34f477a92966092d3d6186cd4ca51f02bf22e409507b5fd320322ad"
 metafile = true
 
 [[files]]
