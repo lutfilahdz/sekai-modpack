@@ -796,6 +796,16 @@ hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
 
 [[files]]
+file = "mods/pandalib.pw.toml"
+hash = "89808a9a38f169f22e790cf991ea0cf36b2102b3ed297d6babb6a2ef4e334a3d"
+metafile = true
+
+[[files]]
+file = "mods/pandas-falling-trees.pw.toml"
+hash = "ea51b10b741a1f3d5a6ae9873a40099596e3883bfd765b8038b15b7335fdca4a"
+metafile = true
+
+[[files]]
 file = "mods/passable-foliage.pw.toml"
 hash = "d2f38114e14bd2d44c9a25bea37791ad899345cfe73828858c0ac61ffe28f2e3"
 metafile = true
@@ -973,6 +983,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "72c0e1d4d8eb05e6c82c8959885ee5f08b8c7ede63b438e22a7422246679cc46"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "d4973af17081ec2f1d5aabad778331459612fc95617cda5fbcafa79ea9384c43"
 metafile = true
 
 [[files]]
