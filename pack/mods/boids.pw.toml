@@ -1,0 +1,13 @@
+name = "Boids"
+filename = "Boids-1.2.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/2OckSy74/versions/14pDAJuk/Boids-1.2.2.jar"
+hash-format = "sha512"
+hash = "6dad511e8cc523d82ab64005664a65ebc1b3c4ab594c4c6da5966d59a825a7ab2157f4ca8cef2fc6bef2bbcf0130300a046b80f0f0390a2c9cdc6f6b26ed60d3"
+
+[update]
+[update.modrinth]
+mod-id = "2OckSy74"
+version = "14pDAJuk"

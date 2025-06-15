@@ -111,8 +111,18 @@ hash = "a2de85ebe9629568398185b5b9554bcc0c54e322b214d78368485a6074a66279"
 metafile = true
 
 [[files]]
+file = "mods/birds-boids-addon.pw.toml"
+hash = "caabc02086bb50b541689fff07e517f2838f1283265a4711be1f087898c2e714"
+metafile = true
+
+[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "d6878871a07870b33821beed20118368e779c17574062d5d771eb38b9403e875"
+metafile = true
+
+[[files]]
+file = "mods/boids.pw.toml"
+hash = "deb918a0a34f477a92966092d3d6186cd4ca51f02bf22e409507b5fd320322ad"
 metafile = true
 
 [[files]]
@@ -716,6 +726,11 @@ hash = "78ae1714c3eb76e7696a37b25f375b65136b758c737bf4af0d6d4bc5e44e282f"
 metafile = true
 
 [[files]]
+file = "mods/mobs-attempt-parkour.pw.toml"
+hash = "184c352827597c6136bf4783845f0f8434f4b3cdb578db6527e65580f05dd36f"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "435267c3230ba1439f50fa32c3ed3993a4123f870681451aa95acdde5d52622e"
 metafile = true
@@ -913,6 +928,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "d2fbb82f0d2b6112b8b941bb25d7a3bd00deeb6cff220a13feb1248f42ef64d7"
+metafile = true
+
+[[files]]
+file = "mods/staminaz.pw.toml"
+hash = "c783d1ceb3ad89bf82df0826881dbb805a9a8af69416889a261369b5fc52094b"
 metafile = true
 
 [[files]]
