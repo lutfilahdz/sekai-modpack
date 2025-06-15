@@ -1,0 +1,8 @@
+name = "config/tide.toml (server)"
+filename = "tide.toml"
+side = "server"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-packwiz/main/server-files/config/tide.toml"
+hash-format = "sha512"
+hash = "e43774f5d30fef315218debfef805082940facaf2baa3442d501510c9c5338ad8e50b10f70ccb43f973b0cb6cc38fd23e41d4c91a9aaa9541baab5b72025d5d2"
