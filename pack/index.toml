@@ -11,6 +11,11 @@ hash = "acff99d8a44be9a4131bad20ec8ab378aff56d52a7b922dbc9354dd77cedd390"
 metafile = true
 
 [[files]]
+file = "config/tide.pw.toml"
+hash = "6d0a0daa9f846721f83b30ca34a744d33506c539f1b1787279b2dcc6481aba23"
+metafile = true
+
+[[files]]
 file = "config/universal-graves/models/default.pw.toml"
 hash = "fe73f0b8b93b38be3932ef50df06aa18a0e3fa09b6167b22b220218e4bcd0eae"
 metafile = true
@@ -431,11 +436,6 @@ hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
 
 [[files]]
-file = "mods/fishing-real.pw.toml"
-hash = "df919122cd5a7485059cd9ccdaddd82467a076a718978c128f1642a5c5f83d6c"
-metafile = true
-
-[[files]]
 file = "mods/foodeffecttooltips.pw.toml"
 hash = "abdc7611032f8df479bd8c689242f5e6eac355823fe2ee3bfda6224e363d3774"
 metafile = true
@@ -716,6 +716,11 @@ hash = "78ae1714c3eb76e7696a37b25f375b65136b758c737bf4af0d6d4bc5e44e282f"
 metafile = true
 
 [[files]]
+file = "mods/mobs-attempt-parkour.pw.toml"
+hash = "184c352827597c6136bf4783845f0f8434f4b3cdb578db6527e65580f05dd36f"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "435267c3230ba1439f50fa32c3ed3993a4123f870681451aa95acdde5d52622e"
 metafile = true
@@ -793,6 +798,16 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
+file = "mods/pandalib.pw.toml"
+hash = "89808a9a38f169f22e790cf991ea0cf36b2102b3ed297d6babb6a2ef4e334a3d"
+metafile = true
+
+[[files]]
+file = "mods/pandas-falling-trees.pw.toml"
+hash = "ea51b10b741a1f3d5a6ae9873a40099596e3883bfd765b8038b15b7335fdca4a"
 metafile = true
 
 [[files]]
@@ -906,6 +921,11 @@ hash = "d2fbb82f0d2b6112b8b941bb25d7a3bd00deeb6cff220a13feb1248f42ef64d7"
 metafile = true
 
 [[files]]
+file = "mods/staminaz.pw.toml"
+hash = "c783d1ceb3ad89bf82df0826881dbb805a9a8af69416889a261369b5fc52094b"
+metafile = true
+
+[[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "e0047e26d3d4a5a290dc150e9a7c5c5f64cde9e6a0538eaa6f6060374349700f"
 metafile = true
@@ -956,6 +976,11 @@ hash = "9afc7aa9f96e76f806891d8ee5d6be77d06a370328323462f689541d0e9c8b02"
 metafile = true
 
 [[files]]
+file = "mods/tide.pw.toml"
+hash = "05d46b3f54d0cc85bbc3fd627caac574a81c10faabdd816b0b44b34564efcb00"
+metafile = true
+
+[[files]]
 file = "mods/timeoutout.pw.toml"
 hash = "e7d7d775847e0dba0303056d4ad11ffda536b7851b443e5d5799afb23ecefa5f"
 metafile = true
@@ -973,6 +998,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "72c0e1d4d8eb05e6c82c8959885ee5f08b8c7ede63b438e22a7422246679cc46"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "d4973af17081ec2f1d5aabad778331459612fc95617cda5fbcafa79ea9384c43"
 metafile = true
 
 [[files]]
