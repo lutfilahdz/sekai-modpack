@@ -11,9 +11,8 @@ hash = "acff99d8a44be9a4131bad20ec8ab378aff56d52a7b922dbc9354dd77cedd390"
 metafile = true
 
 [[files]]
-file = "config/tide.pw.toml"
-hash = "6d0a0daa9f846721f83b30ca34a744d33506c539f1b1787279b2dcc6481aba23"
-metafile = true
+file = "config/tide.toml"
+hash = "05699d5cd8811906d6c666ebb15bc635ca5c7436a779d27777419d119c7630b4"
 
 [[files]]
 file = "config/universal-graves/models/default.pw.toml"
