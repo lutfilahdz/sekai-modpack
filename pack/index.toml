@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/craftpresence.pw.toml"
+hash = "2c57183fdcb5349142dbe9da4332eeb821e5eca9f053ef0c146d77fd345b8b70"
+metafile = true
+
+[[files]]
 file = "config/genshinstrument-client.pw.toml"
 hash = "5567d21d09fe15424d2fdfc3b46999f5735e6fbe8570c95168cab86fda0245d6"
 metafile = true
@@ -11,9 +16,8 @@ hash = "acff99d8a44be9a4131bad20ec8ab378aff56d52a7b922dbc9354dd77cedd390"
 metafile = true
 
 [[files]]
-file = "config/tide.pw.toml"
-hash = "6d0a0daa9f846721f83b30ca34a744d33506c539f1b1787279b2dcc6481aba23"
-metafile = true
+file = "config/tide.toml"
+hash = "c2d27c9f937eb4e7dd8a0f13213ac8d52c4f3e1aeae4c1095703e1fdecdcd0e6"
 
 [[files]]
 file = "config/universal-graves/models/default.pw.toml"

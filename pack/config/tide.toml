@@ -1,0 +1,7 @@
+[general]
+giveJournal = false
+rodDurabilityMultiplier = 0.5
+crateWeight = 3
+crateQuality = 0.5
+[minigame]
+minigameDifficulty = 1.5
