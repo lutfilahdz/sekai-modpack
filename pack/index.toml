@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/craftpresence.pw.toml"
-hash = "2c57183fdcb5349142dbe9da4332eeb821e5eca9f053ef0c146d77fd345b8b70"
+hash = "138c13e753b15feae87016905206d8807d106aa48416cae491f04a9cec1aac73"
 metafile = true
 
 [[files]]
