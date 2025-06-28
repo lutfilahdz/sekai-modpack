@@ -5,4 +5,4 @@ side = "server"
 [download]
 url = "https://lutfilahdz.github.io/sekai-packwiz/main/server-files/config/carryon-common.json"
 hash-format = "sha512"
-hash = "67c05c3ada5a2a164a1fb53bdadc76d672cedd7d715091303e92ce3b674723243ae9f821a671fb1ef2212ec0dcc47d6c8c9585cf3abe11a9fa9ebad6c2440140"
+hash = "0c47202ec2adabd3357b70348f1425311667df61994256931c9e847e69928f66ca3ac73b1c1a03ff13b62374b862440a7f8964018085c4278ea1be43156e85f2"
