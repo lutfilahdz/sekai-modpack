@@ -1,0 +1,8 @@
+name = "config/enhanced_bes.properties (client)"
+filename = "enhanced_bes.properties"
+side = "client"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-packwiz/main/client-files/config/enhanced_bes.properties"
+hash-format = "sha512"
+hash = "d82141c11b6baeba3718d9628f8f85b8e7b23a82c5728f5a86040f119982f1a136fb41466cb27380b28da5c2549572d929e706ce747b8c0425384d12fb21c92f"
