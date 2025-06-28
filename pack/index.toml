@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/carryon-common.pw.toml"
-hash = "6742e4995bc9f9b98037c5558ce553e5ce0cd197f5fcd1becbea8e904b8591e5"
+hash = "11b8b237299d140e3cfc325565eea9fda010512a3bfaf319b99a567099f10b7d"
 metafile = true
 
 [[files]]
