@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://lutfilahdz.github.io/sekai-packwiz/main/client-files/config/craftpresence.json"
 hash-format = "sha512"
-hash = "ece1023bb5cdb8258a1eb31041e965016f67dec5fc639e1b175e0c6c40700cc83da3b8a14849ed5562f58951e2f2ce036c1bda7cd0011c1cb6ddc883cc10e770"
+hash = "c1a4a5f3a92a86716496901e9c5f475591438f86b786c5313b956a1af135bb10faf6be7aded2ed236ac6a0ba2e5da8593450182b2454dc53b2f66393754fb3c7"
