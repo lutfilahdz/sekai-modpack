@@ -456,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/fire-arrows-ignite-fire.pw.toml"
-hash = "48de7d7e187937477fbca965457255de8037eb1a6a96e5259430cf22bf051cba"
+hash = "a19ed801ca93fe00090e4d74595e1cc7f0890fb0ce3085e88987aa67aaec6526"
 metafile = true
 
 [[files]]
@@ -1026,7 +1026,7 @@ metafile = true
 
 [[files]]
 file = "mods/torch-hit.pw.toml"
-hash = "9e31fc7168287356f4854761b267e3161fa590f18b7b9c002b3022d5b25d9d37"
+hash = "e27699c3ebdfd4ce63e90e162d5c918485b0f59735b98b44ba13d50ab595e1a4"
 metafile = true
 
 [[files]]

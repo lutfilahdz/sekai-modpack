@@ -1,6 +1,6 @@
 name = "Fire Arrows Ignite Fire"
 filename = "firearrows-fabric-1.20.1-13.2.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/NoajjpZQ/versions/SWIhIJYC/firearrows-fabric-1.20.1-13.2.jar"
