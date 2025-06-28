@@ -290,6 +290,11 @@ hash = "8f611c3cf31eb5f5b3395b99414d794029192d556fd8dfc4b49a097a67134ccf"
 metafile = true
 
 [[files]]
+file = "mods/deimos.pw.toml"
+hash = "4329b514c4d806fea68e4802aa23b0d03443933dc171e5833fe1b1ea38956178"
+metafile = true
+
+[[files]]
 file = "mods/delightful-creators.pw.toml"
 hash = "541a5b9aa01cff808c7a3347abb51beccfecca2565626964074cc59b310c0c71"
 metafile = true
@@ -437,6 +442,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
+metafile = true
+
+[[files]]
+file = "mods/fire-arrows-ignite-fire.pw.toml"
+hash = "48de7d7e187937477fbca965457255de8037eb1a6a96e5259430cf22bf051cba"
 metafile = true
 
 [[files]]
@@ -997,6 +1007,11 @@ metafile = true
 [[files]]
 file = "mods/tooltiprareness.pw.toml"
 hash = "3329b2396e69fc15a838e55c385c9805cd9b9c9732710bef942af0a6ee2c1713"
+metafile = true
+
+[[files]]
+file = "mods/torch-hit.pw.toml"
+hash = "9e31fc7168287356f4854761b267e3161fa590f18b7b9c002b3022d5b25d9d37"
 metafile = true
 
 [[files]]
