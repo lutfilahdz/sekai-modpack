@@ -6,6 +6,11 @@ hash = "138c13e753b15feae87016905206d8807d106aa48416cae491f04a9cec1aac73"
 metafile = true
 
 [[files]]
+file = "config/enhanced_bes.pw.toml"
+hash = "d31d883e8625aa09dfe0e8f6b665557cee1cc1edb54fbfdb07adcd19c694f0d2"
+metafile = true
+
+[[files]]
 file = "config/genshinstrument-client.pw.toml"
 hash = "5567d21d09fe15424d2fdfc3b46999f5735e6fbe8570c95168cab86fda0245d6"
 metafile = true
