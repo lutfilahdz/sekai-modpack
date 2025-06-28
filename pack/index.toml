@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/carryon-common.pw.toml"
+hash = "6742e4995bc9f9b98037c5558ce553e5ce0cd197f5fcd1becbea8e904b8591e5"
+metafile = true
+
+[[files]]
 file = "config/craftpresence.pw.toml"
 hash = "138c13e753b15feae87016905206d8807d106aa48416cae491f04a9cec1aac73"
 metafile = true
@@ -142,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "1486599d6e290cf30708c54ce2b8caa0447f072080625213951d50665167ec56"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "5ba003768a235ab0d811218191166f9aefa4c9a2509341fbba1efd80e18d3676"
 metafile = true
 
 [[files]]
