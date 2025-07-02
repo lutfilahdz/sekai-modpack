@@ -766,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f2d4fb902274312c42ecca4fb8dc3781d4d249ab978e9e57c89eff03c577c7c4"
+hash = "8e706e9f53a2ec62ed4c98e2b269cf1128a21419d12551b2325b7eedc587ddf5"
 metafile = true
 
 [[files]]
@@ -926,7 +926,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e874bb88bed8d779f95974bf396e7944934efb24eaa7cd5862505a3f3680cdc7"
+hash = "633c545cef2b18aa859888279ceab943f63a50409cfe6aecb85c91e530e7f7b0"
 metafile = true
 
 [[files]]
@@ -1016,7 +1016,7 @@ metafile = true
 
 [[files]]
 file = "mods/tide.pw.toml"
-hash = "05d46b3f54d0cc85bbc3fd627caac574a81c10faabdd816b0b44b34564efcb00"
+hash = "0a660c8ad55dc7406518f47816ddcf0e504ea4947d2f42e36666b0ace60bc02f"
 metafile = true
 
 [[files]]
