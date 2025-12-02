@@ -775,6 +775,11 @@ hash = "9e0de5ca33464391d73910e6cfbe90b06f21a691061003d7ad93eb34041046ad"
 metafile = true
 
 [[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "8b64ba3552679ed5a622fbffb8875d6b6a185f39ca4966fed28197a4b031b6e3"
+metafile = true
+
+[[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "8f04990971801314688649b2779333700b6408c4bc6c2abc707172bf945cdcd4"
 metafile = true
