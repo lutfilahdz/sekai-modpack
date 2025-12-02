@@ -1,6 +1,7 @@
 name = "Create Railways Navigator"
 filename = "createrailwaysnavigator-fabric-1.20.1-beta-0.8.4.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/Dq3STxps/versions/fXKmWm2r/createrailwaysnavigator-fabric-1.20.1-beta-0.8.4.jar"

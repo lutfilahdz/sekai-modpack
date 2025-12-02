@@ -1,6 +1,7 @@
 name = "WATERMeDIA"
 filename = "watermedia-2.1.25.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/G922NeHS/versions/8MrS6vpH/watermedia-2.1.25.jar"

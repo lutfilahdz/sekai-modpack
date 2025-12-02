@@ -1,13 +1,13 @@
 name = "Tide"
-filename = "tide-fabric-1.20.1-1.6.2.jar"
+filename = "tide-fabric-1.20.1-1.6.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/die1AF7i/versions/F0RjP8Vr/tide-fabric-1.20.1-1.6.2.jar"
+url = "https://cdn.modrinth.com/data/die1AF7i/versions/qLC5xfu5/tide-fabric-1.20.1-1.6.5.jar"
 hash-format = "sha512"
-hash = "8bd36ebcc651c8febda093d5f2479e36ffa600fd2c382c9af0228241209ee1a9666e22f3431fd13baafaf42f2aa2a28973515f9879cfef0bfe6e3390492e5bc0"
+hash = "c6393780b5d33fe0a0c17a6e594a1911fe56c0449b1ba252e81037f2c6f4b5f59ecbd3e0850cc18fd70c1e90263c3b1e6966461fa00cef0f6deba7e4fd8dfa9a"
 
 [update]
 [update.modrinth]
 mod-id = "die1AF7i"
-version = "F0RjP8Vr"
+version = "qLC5xfu5"
