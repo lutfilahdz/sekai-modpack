@@ -1,13 +1,13 @@
 name = "Yes Steve Model"
-filename = "yesstevemodel-fabric-1.20-2.4.1-release.jar"
+filename = "ysm-2.5.3-fabric+mc1.20.1-release.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/86xjpqqS/versions/65oFvzwY/yesstevemodel-fabric-1.20-2.4.1-release.jar"
+url = "https://cdn.modrinth.com/data/86xjpqqS/versions/2dRDUBnW/ysm-2.5.3-fabric%2Bmc1.20.1-release.jar"
 hash-format = "sha512"
-hash = "278f4d1d5f0ca33323b587a6b3e3be9bedbd3b26e46503ff9d2747a3b38656da1c1e0ddef979f2ed7c93035a02755973dac8d292b04536c76054d0f692f3243b"
+hash = "5a87bd069e76a0a3d859748a0e6b5d13f7173328c0f3ccff5032cba0fe425b02d4e701c3a5eb68a7646144eef808e7e00933c254b261de4526d97acb6272bfc9"
 
 [update]
 [update.modrinth]
 mod-id = "86xjpqqS"
-version = "65oFvzwY"
+version = "2dRDUBnW"
