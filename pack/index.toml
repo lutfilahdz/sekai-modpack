@@ -740,11 +740,6 @@ hash = "55167e582fd4841cd6c581beb53d341e94285c216e04b1d7bff0068e875be2a6"
 metafile = true
 
 [[files]]
-file = "mods/luna-slimes.pw.toml"
-hash = "b6eaf248d29b977fe551c962e6ddabd8fb37d3139871f30d2a5104a8a1024e85"
-metafile = true
-
-[[files]]
 file = "mods/mastercutter.pw.toml"
 hash = "b4612aac2548a55f1edce6ca5d772956dc4a603217de6cd526dce9b1fbb46d8d"
 metafile = true
