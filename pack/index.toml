@@ -415,6 +415,11 @@ hash = "605c081279d8e4e5c98e6a50304867214185d8b8f14434b71d388a20f4ad7d5d"
 metafile = true
 
 [[files]]
+file = "mods/escalated.pw.toml"
+hash = "b1f3c991febbaac1ea00da7bc45cc3a7a0af4bdb920334267a3095580f32825e"
+metafile = true
+
+[[files]]
 file = "mods/evenmoreinstruments.pw.toml"
 hash = "1c776568dbab390b33dbbb26311777428f2c3461af2a5d32d6c43c8f01440998"
 metafile = true
