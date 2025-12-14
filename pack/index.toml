@@ -240,6 +240,11 @@ hash = "fa27a4afae3c0329580d41893390307f2f4e71e3f3d7e06c6ee19ec44de39a53"
 metafile = true
 
 [[files]]
+file = "mods/create-pantographs-and-wires.pw.toml"
+hash = "5d45a62f15b6bd6b3aa37fd3250103849025e0281aaa56010d9283ddde3299d6"
+metafile = true
+
+[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "2840c63302d50d82eb9c82a73784bc18b3afb51c5834c088ba202277f90cb2c3"
 metafile = true
