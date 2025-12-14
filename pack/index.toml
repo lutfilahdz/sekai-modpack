@@ -26,6 +26,11 @@ hash = "acff99d8a44be9a4131bad20ec8ab378aff56d52a7b922dbc9354dd77cedd390"
 metafile = true
 
 [[files]]
+file = "config/moreculling.pw.toml"
+hash = "2f02b52477335a9e7f19d8ad740e175d74a7b4d8964aed6e768c7b154d5cba90"
+metafile = true
+
+[[files]]
 file = "config/tide.toml"
 hash = "c2d27c9f937eb4e7dd8a0f13213ac8d52c4f3e1aeae4c1095703e1fdecdcd0e6"
 
