@@ -100,6 +100,11 @@ hash = "7a266a082b54627e5f95aa154871114fded8c0a06af104e49cf08668b869cfad"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "bee459c3b3739a46717f04675ba175d8a5d26fc00a8683acd4ef5bdfb73a9066"
+metafile = true
+
+[[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "d7dcbb9489b17fbe221d3a59ab2503293b219cee29d07a08aefbe32c5f3bf160"
 metafile = true
