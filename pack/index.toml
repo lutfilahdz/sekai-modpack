@@ -280,6 +280,11 @@ hash = "916c17614ec51da73e173b7249118b473e479c370a48378bc7f91eb5e5abfa9d"
 metafile = true
 
 [[files]]
+file = "mods/create-threaded-trains.pw.toml"
+hash = "a171827ca41197cfe596f6624bdf574cbbc6532642c1f4dfd5a9d84de908e4b1"
+metafile = true
+
+[[files]]
 file = "mods/create-trimmed.pw.toml"
 hash = "b349813927154f2bc111425dbad6f3553d41203994d297b967cf6671f386fad5"
 metafile = true
