@@ -1,0 +1,13 @@
+name = "Create: Tramways"
+filename = "tramways-0.2.2-mc1.20.1-fabric-13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2CBZHBHo/versions/tSBwS8YO/tramways-0.2.2-mc1.20.1-fabric-13.jar"
+hash-format = "sha512"
+hash = "fa87f5ad167b77b8758e3e6b6db9e62fa585ecfcac3680be691e920dd297f674f0deea43a715bf4b9bdc498066df45dfe7aedb140f96dd07b3fe7fe53d75ada3"
+
+[update]
+[update.modrinth]
+mod-id = "2CBZHBHo"
+version = "tSBwS8YO"
