@@ -250,6 +250,11 @@ hash = "e569d23d25afa6f42fb1b63925f07ed7babbfc586e9ea43279d1fa39c907bb12"
 metafile = true
 
 [[files]]
+file = "mods/create-framed.pw.toml"
+hash = "66698c6cbf8fcf5ccece0b372d979084d7768dbddf6d6c75f11769987127694f"
+metafile = true
+
+[[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
 hash = "fa27a4afae3c0329580d41893390307f2f4e71e3f3d7e06c6ee19ec44de39a53"
 metafile = true
@@ -262,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/create-pantographs-and-wires.pw.toml"
 hash = "5d45a62f15b6bd6b3aa37fd3250103849025e0281aaa56010d9283ddde3299d6"
+metafile = true
+
+[[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "9fb24bae0eafc30b8272c39446f14052c94cf024706dccba661a9ddb1f0a4eae"
 metafile = true
 
 [[files]]
