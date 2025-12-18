@@ -300,6 +300,11 @@ hash = "a171827ca41197cfe596f6624bdf574cbbc6532642c1f4dfd5a9d84de908e4b1"
 metafile = true
 
 [[files]]
+file = "mods/create-trainutilities.pw.toml"
+hash = "f9784ac1511b83e0e3bf7df5b2240170d41e01b285b2b4455ef702113451aa6a"
+metafile = true
+
+[[files]]
 file = "mods/create-trimmed.pw.toml"
 hash = "b349813927154f2bc111425dbad6f3553d41203994d297b967cf6671f386fad5"
 metafile = true
@@ -607,6 +612,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "060c6baaec85f47ba4bc2c0f4b8642b9933c27d3c166eb00ef86b4bbfd7f34a3"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "96b6a9192639045bc5b2c0815ad33d1d754bf77e2f59bd96dd3bde21784d7704"
 metafile = true
 
 [[files]]
@@ -1092,6 +1102,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "72c0e1d4d8eb05e6c82c8959885ee5f08b8c7ede63b438e22a7422246679cc46"
+metafile = true
+
+[[files]]
+file = "mods/tramways.pw.toml"
+hash = "bd57f73608c24744fa596a6d191cf56bd863ccbd3e576ff220be8e84dba378b7"
 metafile = true
 
 [[files]]
