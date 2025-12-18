@@ -235,11 +235,6 @@ hash = "1b272be2b56b60336ecef056cf9f0e35a77fc8a46c8a121887c736c6cfc180ce"
 metafile = true
 
 [[files]]
-file = "mods/create-deco-additions.pw.toml"
-hash = "f7cd6a1ac16a483a1adaad11a43c549281ff0bef56d031b1aa5df330f3b58d02"
-metafile = true
-
-[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "023532063fbf310dd047a33cf1afd06b0c4baf72da4dc23e78d1d599ad5dcccd"
 metafile = true
