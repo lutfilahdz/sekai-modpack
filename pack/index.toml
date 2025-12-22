@@ -875,11 +875,6 @@ hash = "80b0b7333c6c4235d840800afc8583a1e03f5fe493dd8085bf46dbf18e48eab3"
 metafile = true
 
 [[files]]
-file = "mods/no-portals.pw.toml"
-hash = "f19eb10d9ef2510cc8e9bf7199efc503717cb6609f31a29a43698f461ae4ff20"
-metafile = true
-
-[[files]]
 file = "mods/noisium.pw.toml"
 hash = "f4b9d7acc345b8df6dd13e19b36658cbca476abdee703ee6f38c66d33e8fa763"
 metafile = true
