@@ -820,6 +820,11 @@ hash = "0f170663bb0f70d773ac5c3d24f09747253c5ba8a855b3a45fe7f1952e574b78"
 metafile = true
 
 [[files]]
+file = "mods/macaws-holidays.pw.toml"
+hash = "030e3a4ea7c6598442cf5c9b9c3a4b5748b03b2477c3d5593cd0f734862a394c"
+metafile = true
+
+[[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
 hash = "a6ffaf3b24a1312d3737417d70b20bb8b7c2d034851a24f672096380afe57dae"
 metafile = true
