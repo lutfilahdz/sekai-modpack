@@ -65,11 +65,6 @@ hash = "a2514b93ee462130af7905208c993847eda9eb7ddb4a244a34e912b445ae9b54"
 metafile = true
 
 [[files]]
-file = "mods/addonslib.pw.toml"
-hash = "2f53a5507be98c751a0ea405bb44e30aac1834de654b8f3de0e5f733997f7ffc"
-metafile = true
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "7b9bcc299b6587626d256c571fc122e6147d8d760cb7056d537c88cce5d993f9"
 metafile = true
@@ -795,66 +790,6 @@ hash = "55167e582fd4841cd6c581beb53d341e94285c216e04b1d7bff0068e875be2a6"
 metafile = true
 
 [[files]]
-file = "mods/macaws-biomes-o-plenty.pw.toml"
-hash = "e0578d5fc47f4358f96589feb619a4c771bfcb50e1604d9f619744da61c13210"
-metafile = true
-
-[[files]]
-file = "mods/macaws-bridges.pw.toml"
-hash = "ace2b470981f950cd04f22d9dbd8e57fc8a3e3059f282f36b720ed02a640da0e"
-metafile = true
-
-[[files]]
-file = "mods/macaws-doors.pw.toml"
-hash = "ea9af51413113483ba002f9827a66653b184363c68d6280009677df1fe171afa"
-metafile = true
-
-[[files]]
-file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "35c812e91d098b979ce4618ceee0ffc3adc3d857d234c99735977e0ac337d8bb"
-metafile = true
-
-[[files]]
-file = "mods/macaws-furniture.pw.toml"
-hash = "0f170663bb0f70d773ac5c3d24f09747253c5ba8a855b3a45fe7f1952e574b78"
-metafile = true
-
-[[files]]
-file = "mods/macaws-holidays.pw.toml"
-hash = "030e3a4ea7c6598442cf5c9b9c3a4b5748b03b2477c3d5593cd0f734862a394c"
-metafile = true
-
-[[files]]
-file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "a6ffaf3b24a1312d3737417d70b20bb8b7c2d034851a24f672096380afe57dae"
-metafile = true
-
-[[files]]
-file = "mods/macaws-paths-and-pavings.pw.toml"
-hash = "d89f851cbe644049a2bfc90405c6e6450011674be210912b69a80546bc418aaf"
-metafile = true
-
-[[files]]
-file = "mods/macaws-roofs.pw.toml"
-hash = "4a7a7460f802eaf18bb298e31c4925a38e5e649ff11b08c61a5f88c03b886749"
-metafile = true
-
-[[files]]
-file = "mods/macaws-stairs.pw.toml"
-hash = "c0262f9744dd166ad1264c436f355be3c1ab170487db78b42b6ebabe64f84a24"
-metafile = true
-
-[[files]]
-file = "mods/macaws-trapdoors.pw.toml"
-hash = "b186afdeb0bc341f38c57a30b90440e6b4c88f5f8417ba788a6efe1078171720"
-metafile = true
-
-[[files]]
-file = "mods/macaws-windows.pw.toml"
-hash = "cca59c22f3d72c86e6f33ab6497d7ce8a927aeff2517d7e4415602c623013bc3"
-metafile = true
-
-[[files]]
 file = "mods/mastercutter.pw.toml"
 hash = "b4612aac2548a55f1edce6ca5d772956dc4a603217de6cd526dce9b1fbb46d8d"
 metafile = true
@@ -937,6 +872,11 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight-refabricated.pw.toml"
 hash = "80b0b7333c6c4235d840800afc8583a1e03f5fe493dd8085bf46dbf18e48eab3"
+metafile = true
+
+[[files]]
+file = "mods/no-portals.pw.toml"
+hash = "f19eb10d9ef2510cc8e9bf7199efc503717cb6609f31a29a43698f461ae4ff20"
 metafile = true
 
 [[files]]
