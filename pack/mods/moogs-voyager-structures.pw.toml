@@ -1,13 +1,13 @@
 name = "MVS - Moog's Voyager Structures"
-filename = "MoogsVoyagerStructures-1.20-5.0.21.jar"
+filename = "MoogsVoyagerStructures-1.20-5.0.3.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/OQAgZMH1/versions/3jEMNi1E/MoogsVoyagerStructures-1.20-5.0.21.jar"
+url = "https://cdn.modrinth.com/data/OQAgZMH1/versions/ZqmJ0yAc/MoogsVoyagerStructures-1.20-5.0.3.jar"
 hash-format = "sha512"
-hash = "e5124101ca9eec0dd45c9092aee8a939b02bb76be2b02df07fecb0e6a3577ddce58f38f61dd361db904ad69009678f0772fdf400e1b6df708d5177ca04e391fc"
+hash = "ff4061639d18e287ec847d954d3f0cc079d5e215c81f20438231886d7110f39f32d6c516ec1473a3dfcb31cf1adec7a9f9ebe576a1d740bf137d4cbf85577b25"
 
 [update]
 [update.modrinth]
 mod-id = "OQAgZMH1"
-version = "3jEMNi1E"
+version = "ZqmJ0yAc"
