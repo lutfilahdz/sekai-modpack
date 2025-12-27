@@ -1,6 +1,7 @@
 name = "Create: Pantographs & Wires"
 filename = "pantographsandwires-fabric-1.20.1-beta-0.1.1.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/VzdCnMqW/versions/qZAQTjcX/pantographsandwires-fabric-1.20.1-beta-0.1.1.jar"
