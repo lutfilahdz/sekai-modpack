@@ -1,6 +1,7 @@
 name = "Create: New Age"
 filename = "create-new-age-fabric-1.20.1-1.1.2.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/FTeXqI9v/versions/rk63oafd/create-new-age-fabric-1.20.1-1.1.2.jar"

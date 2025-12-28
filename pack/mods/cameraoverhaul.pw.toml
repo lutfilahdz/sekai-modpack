@@ -1,13 +1,13 @@
 name = "Camera Overhaul"
-filename = "CameraOverhaul-v2.0.5-fabric+mc[1.20.0-1.20.5].jar"
+filename = "CameraOverhaul-v2.0.6-fabric+mc[1.20.0-1.20.5].jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/m0oRwcZx/versions/AOOtoo5Q/CameraOverhaul-v2.0.5-fabric%2Bmc%5B1.20.0-1.20.5%5D.jar"
+url = "https://cdn.modrinth.com/data/m0oRwcZx/versions/ZWBJA0XZ/CameraOverhaul-v2.0.6-fabric%2Bmc%5B1.20.0-1.20.5%5D.jar"
 hash-format = "sha512"
-hash = "59bc88718d9ec8c2bfd70e755dfba38d56b209c1dc8109a6babcaacbd513240bbfb0d2b20d15500c85ab4af4a27eff7c700c1aae63573415b227226c16ec0b19"
+hash = "15be9dfdad0557f2761919b2c76b8862d4032279c3b6200fdcf509e37ddf00965bc4ef6779f41b78abddc3851aadc9adc750f4246202cd391bb140ae6565acfb"
 
 [update]
 [update.modrinth]
 mod-id = "m0oRwcZx"
-version = "AOOtoo5Q"
+version = "ZWBJA0XZ"

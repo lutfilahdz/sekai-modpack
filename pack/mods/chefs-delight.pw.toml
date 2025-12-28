@@ -1,13 +1,13 @@
 name = "Chef's Delight - Farmer's Delight Villagers"
-filename = "chefs-delight-1.0.3-fabric-1.20.1.jar"
+filename = "chefs-delight-1.0.4-fabric-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pvcsfne4/versions/hV0Pl3WP/chefs-delight-1.0.3-fabric-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/pvcsfne4/versions/XYvlR0wq/chefs-delight-1.0.4-fabric-1.20.1.jar"
 hash-format = "sha512"
-hash = "a23d87995efbc17ca6fed066718e863749f3df744e7c848e5f7879947084688657c32ff0071397c01d6ff616efa652b04dfc59df2fb202a7d071838f2017096e"
+hash = "bb32aa5408deacd405803341aa84ef551c8b6da8b39b7401faba1b0c7689004f6315369aced11a545e4ed31ee44967c0c68448dc5bb46d1dc05ebc8b6fee7be2"
 
 [update]
 [update.modrinth]
 mod-id = "pvcsfne4"
-version = "hV0Pl3WP"
+version = "XYvlR0wq"
