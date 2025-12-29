@@ -415,11 +415,6 @@ hash = "0bcc0df994ebbe98efc2f87c653cd0ae0a81bb0ca47b5adacba0974c5c6406c5"
 metafile = true
 
 [[files]]
-file = "mods/durability-tooltip.pw.toml"
-hash = "5d9ebe88bd5f88c680d773a765f7d4e63f3b5a1fce2e23c4d04fc52d19cccc04"
-metafile = true
-
-[[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "5af1714d668d18cf7c500218ad61a9e904fbfce74884c5ae5364434a6c9dc43f"
 metafile = true
@@ -1092,11 +1087,6 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "babadc51e87a1fb49ecfd06611810d6863f649de12da3cc4c657117bab9b1ee0"
-metafile = true
-
-[[files]]
-file = "mods/starlight.pw.toml"
-hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
 metafile = true
 
 [[files]]
