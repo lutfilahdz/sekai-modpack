@@ -80,11 +80,6 @@ hash = "cecef5282fa2e57e290a0f40018e6e0f31ea6f2aefe195b1313484f670343853"
 metafile = true
 
 [[files]]
-file = "mods/animatica.pw.toml"
-hash = "e94fd2f80b6029f19fb0c68d5bbf443a21645af0d668c5a544e3b3f23508fb61"
-metafile = true
-
-[[files]]
 file = "mods/anti-entity-grief.pw.toml"
 hash = "ee86cfb8d9260ab49614a284a57d517bc5d7de3d09746037522adfbd55cb1a04"
 metafile = true
@@ -192,11 +187,6 @@ metafile = true
 [[files]]
 file = "mods/cherry-villages.pw.toml"
 hash = "ebd2d7b9f6991d780b9b3d1c8fd5f549ac1886ce9459d67c7f6a5aae4f1c3ad4"
-metafile = true
-
-[[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "d2e1ad62031e3700de73a87957a4acca747436a4135da695705cb5d293aa0890"
 metafile = true
 
 [[files]]
@@ -440,18 +430,8 @@ hash = "0528a78f6d137b10c2ac215ddb5b4f7f7e82538662cafa1949ef385b84fd3cbe"
 metafile = true
 
 [[files]]
-file = "mods/entity-model-features.pw.toml"
-hash = "b13f84a7fad7d6e21cef513a9c8f8206e55f0b342b4030df540e3126ad5abb2a"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "fade702bcfa866d3b4a3b1d030c31ba9764e98b1585a4a54366f4e4d8373e06c"
-metafile = true
-
-[[files]]
-file = "mods/entitytexturefeatures.pw.toml"
-hash = "605c081279d8e4e5c98e6a50304867214185d8b8f14434b71d388a20f4ad7d5d"
 metafile = true
 
 [[files]]
