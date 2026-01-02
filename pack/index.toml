@@ -11,6 +11,14 @@ hash = "138c13e753b15feae87016905206d8807d106aa48416cae491f04a9cec1aac73"
 metafile = true
 
 [[files]]
+file = "config/create-client.toml"
+hash = "4877aee40f7e40299b9756f638482fd30d3c0ef632bfbf443f8805157b5d5bf7"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "db035283717017bcfb594b0baac1139fc5792d3f51af5ba9b9dabc92b1573284"
+
+[[files]]
 file = "config/enhanced_bes.pw.toml"
 hash = "d31d883e8625aa09dfe0e8f6b665557cee1cc1edb54fbfdb07adcd19c694f0d2"
 metafile = true
@@ -27,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "config/moreculling.pw.toml"
-hash = "2f02b52477335a9e7f19d8ad740e175d74a7b4d8964aed6e768c7b154d5cba90"
+hash = "8677ddfd288d1f9969a4885aeef0a701aee613fa2ec79bc448520c458ce131e8"
 metafile = true
 
 [[files]]
