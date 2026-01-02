@@ -3,6 +3,6 @@ filename = "servers.dat"
 side = "client"
 
 [download]
-url = "https://lutfilahdz.github.io/sekai-packwiz/main/client-files/servers.dat"
+url = "https://lutfilahdz.github.io/sekai-modpack/main/client-files/servers.dat"
 hash-format = "sha512"
 hash = "62116dfb185691b90e7d6f565d2d18c5ba55d31221f8b4782663fbfeb72a207fad07c50609921fd83ae1e886fd9528d4e63bc84ec90fc2d42e96038a625a0664"

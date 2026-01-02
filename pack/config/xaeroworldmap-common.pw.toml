@@ -3,6 +3,6 @@ filename = "xaeroworldmap-common.txt"
 side = "server"
 
 [download]
-url = "https://lutfilahdz.github.io/sekai-packwiz/main/server-files/config/xaeroworldmap-common.txt"
+url = "https://lutfilahdz.github.io/sekai-modpack/main/server-files/config/xaeroworldmap-common.txt"
 hash-format = "sha512"
 hash = "8d8c62810c96afb4bfa29287fd1ef0285f3e18afd2f512d2a6c40678759a12dc07e7e42efb9118d2e624882712732396f5fe288ff12ac1486108225edd64ade2"

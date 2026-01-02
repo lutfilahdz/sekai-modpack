@@ -3,6 +3,6 @@ filename = "unsup.ini"
 side = "server"
 
 [download]
-url = "https://lutfilahdz.github.io/sekai-packwiz/main/server-files/unsup.ini"
+url = "https://lutfilahdz.github.io/sekai-modpack/main/server-files/unsup.ini"
 hash-format = "sha512"
 hash = "31e548f7c1efbe6c8c9f28311abd557ce65ed4ec41b6eece6d9ea200bba26d3c267005b6462172a3861935f0f3d4a31df10c205f32bd087a8a9e84385a84e8c0"

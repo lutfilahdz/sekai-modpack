@@ -3,6 +3,6 @@ filename = "yes_steve_model-common.toml"
 side = "client"
 
 [download]
-url = "https://lutfilahdz.github.io/sekai-packwiz/main/client-files/config/yes_steve_model-common.toml"
+url = "https://lutfilahdz.github.io/sekai-modpack/main/client-files/config/yes_steve_model-common.toml"
 hash-format = "sha512"
 hash = "2abedb199dab8fb7eaf80b9274fff1778df9bcb72a85c2937f25600901ed1542cf9e3b235b6bd62ea5035aca0f75bc1404756500391ce4c8afe84fa2d7d53784"

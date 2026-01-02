@@ -3,6 +3,6 @@ filename = "kiwi-client.yaml"
 side = "client"
 
 [download]
-url = "https://lutfilahdz.github.io/sekai-packwiz/main/client-files/config/kiwi-client.yaml"
+url = "https://lutfilahdz.github.io/sekai-modpack/main/client-files/config/kiwi-client.yaml"
 hash-format = "sha512"
 hash = "d6aa93830b62baae32760486f20d3355826c158bc4ebca8d8ce11781c75aacfb3aab47ebdc1b312d7f598d66f5872e94b9213fc0f5e4b0ea2addb9337a9d8ab7"
