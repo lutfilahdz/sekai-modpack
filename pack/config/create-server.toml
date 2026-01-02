@@ -1,0 +1,17 @@
+[trains]
+	maxTrackPlacementLength = 128
+	manualTrainSpeedModifier = 1
+	[trains.trainStats]
+        # 130 km/h = 36.1111 m/s
+		trainTopSpeed = 36.1111
+        # 65 km/h = 18.0556 m/s
+		trainTurningTopSpeed = 18.0556
+        # 3 km/h = 0.833 m/s
+		trainAcceleration = 0.83
+	[trains.poweredTrainStats]
+        # 360 km/h = 100 m/s
+		poweredTrainTopSpeed = 100.0
+        # 300 km/h = 83.3333 m/s
+		poweredTrainTurningTopSpeed = 83.3333
+        # 2.6 km/h × 0.27778 = 0.72 m/s
+		poweredTrainAcceleration = 0.72
