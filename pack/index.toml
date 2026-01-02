@@ -80,11 +80,6 @@ hash = "cecef5282fa2e57e290a0f40018e6e0f31ea6f2aefe195b1313484f670343853"
 metafile = true
 
 [[files]]
-file = "mods/animatica.pw.toml"
-hash = "e94fd2f80b6029f19fb0c68d5bbf443a21645af0d668c5a544e3b3f23508fb61"
-metafile = true
-
-[[files]]
 file = "mods/anti-entity-grief.pw.toml"
 hash = "ee86cfb8d9260ab49614a284a57d517bc5d7de3d09746037522adfbd55cb1a04"
 metafile = true
@@ -165,11 +160,6 @@ hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
 metafile = true
 
 [[files]]
-file = "mods/bountiful.pw.toml"
-hash = "88d4b6472c19d1a2afe1b287c052d17559ac96603b8bbbcf82ad7a9068d953e6"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "64a244469b7ce7be7e6ceabedd69d17e573a0b92d6e29c661fc6c490afa965d8"
 metafile = true
@@ -197,11 +187,6 @@ metafile = true
 [[files]]
 file = "mods/cherry-villages.pw.toml"
 hash = "ebd2d7b9f6991d780b9b3d1c8fd5f549ac1886ce9459d67c7f6a5aae4f1c3ad4"
-metafile = true
-
-[[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "d2e1ad62031e3700de73a87957a4acca747436a4135da695705cb5d293aa0890"
 metafile = true
 
 [[files]]
@@ -445,18 +430,8 @@ hash = "0528a78f6d137b10c2ac215ddb5b4f7f7e82538662cafa1949ef385b84fd3cbe"
 metafile = true
 
 [[files]]
-file = "mods/entity-model-features.pw.toml"
-hash = "b13f84a7fad7d6e21cef513a9c8f8206e55f0b342b4030df540e3126ad5abb2a"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "fade702bcfa866d3b4a3b1d030c31ba9764e98b1585a4a54366f4e4d8373e06c"
-metafile = true
-
-[[files]]
-file = "mods/entitytexturefeatures.pw.toml"
-hash = "605c081279d8e4e5c98e6a50304867214185d8b8f14434b71d388a20f4ad7d5d"
 metafile = true
 
 [[files]]
@@ -705,11 +680,6 @@ hash = "1768a2774b5ebe773fc49ebded1b1f0dad2c3e17004f5eea4a2c255c644131b8"
 metafile = true
 
 [[files]]
-file = "mods/kambrik.pw.toml"
-hash = "a06e2f058ccc09999d2437517969b248bc7008ea9e990996b11d7458253784f7"
-metafile = true
-
-[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "5f2ea40fc2cf14692f1200284104a123e8789adbd868cd29b2ef8ff40b1527f3"
 metafile = true
@@ -795,56 +765,6 @@ hash = "62b5f6133f799c95d48314eef3e353b8689477f075e9f604a2566de03d593563"
 metafile = true
 
 [[files]]
-file = "mods/macaws-bridges.pw.toml"
-hash = "ace2b470981f950cd04f22d9dbd8e57fc8a3e3059f282f36b720ed02a640da0e"
-metafile = true
-
-[[files]]
-file = "mods/macaws-doors.pw.toml"
-hash = "ea9af51413113483ba002f9827a66653b184363c68d6280009677df1fe171afa"
-metafile = true
-
-[[files]]
-file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "35c812e91d098b979ce4618ceee0ffc3adc3d857d234c99735977e0ac337d8bb"
-metafile = true
-
-[[files]]
-file = "mods/macaws-furniture.pw.toml"
-hash = "0f170663bb0f70d773ac5c3d24f09747253c5ba8a855b3a45fe7f1952e574b78"
-metafile = true
-
-[[files]]
-file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "a6ffaf3b24a1312d3737417d70b20bb8b7c2d034851a24f672096380afe57dae"
-metafile = true
-
-[[files]]
-file = "mods/macaws-paths-and-pavings.pw.toml"
-hash = "d89f851cbe644049a2bfc90405c6e6450011674be210912b69a80546bc418aaf"
-metafile = true
-
-[[files]]
-file = "mods/macaws-roofs.pw.toml"
-hash = "4a7a7460f802eaf18bb298e31c4925a38e5e649ff11b08c61a5f88c03b886749"
-metafile = true
-
-[[files]]
-file = "mods/macaws-stairs.pw.toml"
-hash = "c0262f9744dd166ad1264c436f355be3c1ab170487db78b42b6ebabe64f84a24"
-metafile = true
-
-[[files]]
-file = "mods/macaws-trapdoors.pw.toml"
-hash = "b186afdeb0bc341f38c57a30b90440e6b4c88f5f8417ba788a6efe1078171720"
-metafile = true
-
-[[files]]
-file = "mods/macaws-windows.pw.toml"
-hash = "cca59c22f3d72c86e6f33ab6497d7ce8a927aeff2517d7e4415602c623013bc3"
-metafile = true
-
-[[files]]
 file = "mods/mastercutter.pw.toml"
 hash = "b4612aac2548a55f1edce6ca5d772956dc4a603217de6cd526dce9b1fbb46d8d"
 metafile = true
@@ -852,11 +772,6 @@ metafile = true
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
 hash = "5b4b410ca9eeb3a30d769e7cdb33c6a0eacc25a6ff2ce48d61fa4124c444b700"
-metafile = true
-
-[[files]]
-file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "03b7b5e918aaf6324e4d34c1868c3f44a218b5306bd321efa89ee50ec78c2299"
 metafile = true
 
 [[files]]
@@ -1357,11 +1272,6 @@ metafile = true
 [[files]]
 file = "unsup-server.pw.toml"
 hash = "77469a2b403b443022fe136accaf5f3ec2c1531ad168fffe9d49c10078c4192c"
-metafile = true
-
-[[files]]
-file = "world/datapacks/better-villages-bountiful.pw.toml"
-hash = "5c56dbd352a75a406adce0316f8c09eb82128ed285ea3c89fa05b9ba56ab0ef2"
 metafile = true
 
 [[files]]
