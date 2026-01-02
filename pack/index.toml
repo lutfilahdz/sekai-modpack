@@ -165,11 +165,6 @@ hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
 metafile = true
 
 [[files]]
-file = "mods/bountiful.pw.toml"
-hash = "88d4b6472c19d1a2afe1b287c052d17559ac96603b8bbbcf82ad7a9068d953e6"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "64a244469b7ce7be7e6ceabedd69d17e573a0b92d6e29c661fc6c490afa965d8"
 metafile = true
@@ -702,11 +697,6 @@ metafile = true
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "1768a2774b5ebe773fc49ebded1b1f0dad2c3e17004f5eea4a2c255c644131b8"
-metafile = true
-
-[[files]]
-file = "mods/kambrik.pw.toml"
-hash = "a06e2f058ccc09999d2437517969b248bc7008ea9e990996b11d7458253784f7"
 metafile = true
 
 [[files]]
@@ -1307,11 +1297,6 @@ metafile = true
 [[files]]
 file = "unsup-server.pw.toml"
 hash = "77469a2b403b443022fe136accaf5f3ec2c1531ad168fffe9d49c10078c4192c"
-metafile = true
-
-[[files]]
-file = "world/datapacks/better-villages-bountiful.pw.toml"
-hash = "5c56dbd352a75a406adce0316f8c09eb82128ed285ea3c89fa05b9ba56ab0ef2"
 metafile = true
 
 [[files]]
