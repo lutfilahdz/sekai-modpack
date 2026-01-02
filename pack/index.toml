@@ -795,11 +795,6 @@ hash = "5b4b410ca9eeb3a30d769e7cdb33c6a0eacc25a6ff2ce48d61fa4124c444b700"
 metafile = true
 
 [[files]]
-file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "03b7b5e918aaf6324e4d34c1868c3f44a218b5306bd321efa89ee50ec78c2299"
-metafile = true
-
-[[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
 hash = "78c8f24f9686177298a19e872db2d6ea2083a71274c67140604fb2bf7af9d2cc"
 metafile = true
