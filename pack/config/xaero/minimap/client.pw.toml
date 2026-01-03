@@ -1,0 +1,8 @@
+name = "config/xaero/minimap/client.cfg (client)"
+filename = "client.cfg"
+side = "client"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-modpack/main/client-files/config/xaero/minimap/client.cfg"
+hash-format = "sha512"
+hash = "eb60b103b8d8881b9acfc7cc9aff034e015609f743be4d96071b29529e7ec0a4c5603ba865f92934740c8269908c6f851a88f041f2d00db2ac20c1cc88737861"
