@@ -1274,12 +1274,12 @@ metafile = true
 
 [[files]]
 file = "unsup-client.pw.toml"
-hash = "131230907bc7fbeb9ccafc2a7448b43db34d7ee1883988dcab1259ba8dac5027"
+hash = "101045ca1d946acf928b5e374861019979978189cc119fa639939b1303b7571c"
 metafile = true
 
 [[files]]
 file = "unsup-server.pw.toml"
-hash = "58471eb1a2ae437481d17728d3e6ccf40886c1d378ae3e2154ed136eff993618"
+hash = "17361663896f113e4a2eba022143210232441476e0dc020b2b7f0252d3a8f8c3"
 metafile = true
 
 [[files]]
