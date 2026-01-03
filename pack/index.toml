@@ -49,12 +49,12 @@ metafile = true
 
 [[files]]
 file = "config/xaero/minimap/client.pw.toml"
-hash = "8b2b54305b6c507107b9ab68197f2c0c7ea6f7b43a1e52f31533cde8ba1fd895"
+hash = "50b4fc1345378c0c553b391c64d470ba404f792f68b9e2aebb61192d7448b9f7"
 metafile = true
 
 [[files]]
 file = "config/xaero/world-map/client.pw.toml"
-hash = "228d8a743eb4ecd4fd374cfa1a977cfe036bcd83bd640770f62da2a1a6ee4d62"
+hash = "67a2bcc3569c836811c6742b5d0895d8c8b328393371d60639cff377fd88ff39"
 metafile = true
 
 [[files]]
