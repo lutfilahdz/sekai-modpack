@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/antientitygrief.toml"
+hash = "3deae454603042cca46b213e6e3c7d47f443b0c06516f16d292e50c3e1c0e342"
+
+[[files]]
 file = "config/carryon-common.json"
 hash = "5637a6a61a4f968d4f3a8161d01a7ee7e72c4d30280486a3d8bda749a99a4a56"
 
@@ -16,6 +20,14 @@ hash = "4877aee40f7e40299b9756f638482fd30d3c0ef632bfbf443f8805157b5d5bf7"
 [[files]]
 file = "config/create-server.toml"
 hash = "db035283717017bcfb594b0baac1139fc5792d3f51af5ba9b9dabc92b1573284"
+
+[[files]]
+file = "config/creeperoverhaul.toml"
+hash = "6409dbfc8556467a2970b90e93fd92cece655cd9c221dbd7a293fac3dbf71e0f"
+
+[[files]]
+file = "config/endermanoverhaul.toml"
+hash = "c6ff54b318c6a83b19a514b3bd22ee65628cb240e6dff9e08870e2d596b38a08"
 
 [[files]]
 file = "config/enhanced_bes.pw.toml"
