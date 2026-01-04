@@ -24,6 +24,10 @@ hash = "507bcf61e5bca5eadbdd1ad21aa2a0055c7fcb02ef0c8c8d7ab56bf29558c354"
 metafile = true
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "b0b9371f3f5f19a5ad5a839db4e4ce8b1922a4833bfbb709e7bfe2e366a4f34a"
+
+[[files]]
 file = "config/genshinstrument-client.pw.toml"
 hash = "da147ec41c8c325bbf269347d00257c0e58439aef65d33ffe826ba148bfe5ca6"
 metafile = true
@@ -265,6 +269,11 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "023532063fbf310dd047a33cf1afd06b0c4baf72da4dc23e78d1d599ad5dcccd"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "80c5ee4c23d552b939a151d7f694c3d046792dc45ff6dd0dbfbc88d1a2ba77a7"
 metafile = true
 
 [[files]]
