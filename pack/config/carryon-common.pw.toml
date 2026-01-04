@@ -1,8 +1,0 @@
-name = "config/carryon-common.json (server)"
-filename = "carryon-common.json"
-side = "server"
-
-[download]
-url = "https://lutfilahdz.github.io/sekai-modpack/main/server-files/config/carryon-common.json"
-hash-format = "sha512"
-hash = "0c47202ec2adabd3357b70348f1425311667df61994256931c9e847e69928f66ca3ac73b1c1a03ff13b62374b862440a7f8964018085c4278ea1be43156e85f2"

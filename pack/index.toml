@@ -1,9 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/carryon-common.pw.toml"
-hash = "2b8f82258a11643d20c058c9080d2fd0d199a2ad4bc4456afd2366f4cff011a3"
-metafile = true
+file = "config/carryon-common.json"
+hash = "12256060b807c36167c5ce79d125cde9600b64fe57bce40cc012ca9f8b5508dd"
 
 [[files]]
 file = "config/craftpresence.pw.toml"
