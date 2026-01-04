@@ -96,6 +96,11 @@ hash = "a2514b93ee462130af7905208c993847eda9eb7ddb4a244a34e912b445ae9b54"
 metafile = true
 
 [[files]]
+file = "mods/aileron.pw.toml"
+hash = "c631326a0c1333d1664315857d460cb3e1d5f3a54a75b8e6ac65944e93d2e455"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "6317bd1e6013059a52574d7002e744cd1d662ba345d019d75e37d384fd6060b0"
 metafile = true
@@ -328,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/create-threaded-trains.pw.toml"
 hash = "a171827ca41197cfe596f6624bdf574cbbc6532642c1f4dfd5a9d84de908e4b1"
+metafile = true
+
+[[files]]
+file = "mods/create-toolbox-tooltip.pw.toml"
+hash = "33fba1af5c52c0d2331777cb3405f9c53b2800f6b92427471df8820c442bbc24"
 metafile = true
 
 [[files]]
