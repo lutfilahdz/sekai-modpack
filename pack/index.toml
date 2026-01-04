@@ -39,6 +39,16 @@ hash = "5f2d61cb838f9913e41b7e8149c1759c685a7539ab6278a844014e7ef6e3cbf2"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/colorful-nixies.pw.toml"
+hash = "28b4bafa3f7ce93e293ce15d0f23515b3e0b4f3046d2639847ac6ab17113e90d"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/enhanced-boss-bars.pw.toml"
+hash = "88496e670b35be0585d76f593cad1e59e76e7e9c4a014d5e8e4ce8c8b8e29986"
+metafile = true
+
+[[files]]
 file = "config/tide.toml"
 hash = "c2d27c9f937eb4e7dd8a0f13213ac8d52c4f3e1aeae4c1095703e1fdecdcd0e6"
 
@@ -905,6 +915,11 @@ metafile = true
 [[files]]
 file = "mods/passable-foliage.pw.toml"
 hash = "d2f38114e14bd2d44c9a25bea37791ad899345cfe73828858c0ac61ffe28f2e3"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "58e0dcbd933909735c31a0da3009fc05276b322196026137ef39da9a50525d8d"
 metafile = true
 
 [[files]]
