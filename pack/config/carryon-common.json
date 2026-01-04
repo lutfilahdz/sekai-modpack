@@ -180,10 +180,11 @@
       "mna:filler_block",
       "escalated:*",
       "design_decor:stepped_lever",
+      "copycats:copycat_door",
       "copycats:copycat_iron_door",
-      "copycats:copycat_folding_door",
       "copycats:copycat_sliding_door",
-      "copycats:copycat_door"
+      "copycats:copycat_folding_door",
+      "trainutilities:door_*"
     ],
     "//forbiddenEntities": "Entities that cannot be picked up",
     "forbiddenEntities": [
