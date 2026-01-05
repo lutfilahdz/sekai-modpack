@@ -358,6 +358,11 @@ hash = "f9784ac1511b83e0e3bf7df5b2240170d41e01b285b2b4455ef702113451aa6a"
 metafile = true
 
 [[files]]
+file = "mods/create-tramways-hotfix.pw.toml"
+hash = "e3c965d0d9c20da9ebcd81f806c8c41a619dc13278c8eb314af07a588e7842c0"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "af83eb1ea0f7a36e4424248c744c1cbebb5045d361e843b873d4d89bf65ad8ad"
 metafile = true

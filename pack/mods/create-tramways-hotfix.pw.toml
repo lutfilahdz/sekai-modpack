@@ -1,0 +1,13 @@
+name = "Create: Tramways Hotfix"
+filename = "tramways_hotfix-fabric-0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e9d84d9b7beb6c2fbc5a59492a6a79c14a397ed6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6972105
+project-id = 1342700
