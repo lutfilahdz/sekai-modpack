@@ -1,0 +1,8 @@
+name = "config/xaero/minimap/server_profiles/default.cfg (server)"
+filename = "default.cfg"
+side = "server"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-modpack/main/server-files/config/xaero/minimap/server_profiles/default.cfg"
+hash-format = "sha512"
+hash = "c397fc11a31093b09168b8f79d69d63849c7e53de486754eb7f9a5153c3a5154bc3f66ad512511a38eafcbe9892350f14b68f52ba8989bf12913ab898cde9e63"
