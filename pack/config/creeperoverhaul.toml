@@ -1,0 +1,8 @@
+name = "config/creeperoverhaul.jsonc (server)"
+filename = "creeperoverhaul.jsonc"
+side = "server"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-modpack/main/server-files/config/creeperoverhaul.jsonc"
+hash-format = "sha512"
+hash = "eb062289bbee194e297dc5f39e43702041fa083e24b5ec589714066c39466534d91f9471fcab1f72fddc70a02969ccb221fac0f7647e88018c3d93e0b190816f"

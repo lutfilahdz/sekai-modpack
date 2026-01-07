@@ -1,0 +1,8 @@
+name = "config/endermanoverhaul.jsonc (server)"
+filename = "endermanoverhaul.jsonc"
+side = "server"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-modpack/main/server-files/config/endermanoverhaul.jsonc"
+hash-format = "sha512"
+hash = "f2e44d16349f6b28ad3a785e317b2323aec64daa6e066d44d2e0da2f7756eddf3058503b08436324c22738b05c16aa5cc93625e33b2ac3e4785104ff059df818"

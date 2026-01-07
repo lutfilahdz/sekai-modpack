@@ -1,0 +1,8 @@
+name = "config/xaero/world-map/server_profiles/default.cfg (server)"
+filename = "default.cfg"
+side = "server"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-modpack/main/server-files/config/xaero/world-map/server_profiles/default.cfg"
+hash-format = "sha512"
+hash = "e4963a2a2bfdd18553bed877ede931b19a39ed7b31040d3b8a22764d82774fa018fa275651e9ab07af01df1485e805edca96697d20d44b528f89abe754b03973"

@@ -1,0 +1,13 @@
+name = "Colorful Nixies"
+filename = "ColorfulNixies.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gy8bflzI/versions/KMHgM1cs/ColorfulNixies.zip"
+hash-format = "sha512"
+hash = "98515f3c9e8f2174ae15784020de062fb0a4a04d42e0995cefe9ca14a08845b38ccac0d69a4cfb188f7a298d3d05413f00a59eb7c85627882d141329e0c0a821"
+
+[update]
+[update.modrinth]
+mod-id = "Gy8bflzI"
+version = "KMHgM1cs"

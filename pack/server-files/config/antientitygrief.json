@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "entities": {
+    "minecraft:creeper": {
+      "EXPLODE_BLOCKS": false
+    },
+    "minecraft:drowned": {
+      "BREAK_DOORS": false
+    },
+    "minecraft:end_crystal": {
+      "EXPLODE_BLOCKS": false
+    },
+    "minecraft:ender_dragon": {
+      "DESTROY_BLOCKS": false
+    },
+    "minecraft:enderman": {
+      "DESTROY_BLOCKS": false,
+      "PLACE_BLOCKS": false
+    },
+    "minecraft:ghast": {
+      "EXPLODE_BLOCKS": false
+    },
+    "minecraft:husk": {
+      "BREAK_DOORS": false
+    },
+    "minecraft:ravager": {
+      "DESTROY_BLOCKS": false
+    },
+    "minecraft:silverfish": {
+      "DESTROY_BLOCKS": false
+    },
+    "minecraft:tnt": {
+      "EXPLODE_BLOCKS": false
+    },
+    "minecraft:tnt_minecart": {
+      "EXPLODE_BLOCKS": false
+    },
+    "minecraft:wither": {
+      "DESTROY_BLOCKS": false,
+      "EXPLODE_BLOCKS": false
+    },
+    "minecraft:zombie": {
+      "BREAK_DOORS": false
+    },
+    "minecraft:zombie_villager": {
+      "BREAK_DOORS": false
+    },
+    "minecraft:zombified_piglin": {
+      "BREAK_DOORS": false
+    }
+  }
+}

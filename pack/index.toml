@@ -1,9 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/carryon-common.pw.toml"
-hash = "2b8f82258a11643d20c058c9080d2fd0d199a2ad4bc4456afd2366f4cff011a3"
-metafile = true
+file = "config/antientitygrief.toml"
+hash = "3deae454603042cca46b213e6e3c7d47f443b0c06516f16d292e50c3e1c0e342"
+
+[[files]]
+file = "config/carryon-common.json"
+hash = "5637a6a61a4f968d4f3a8161d01a7ee7e72c4d30280486a3d8bda749a99a4a56"
 
 [[files]]
 file = "config/craftpresence.pw.toml"
@@ -19,9 +22,21 @@ file = "config/create-server.toml"
 hash = "db035283717017bcfb594b0baac1139fc5792d3f51af5ba9b9dabc92b1573284"
 
 [[files]]
+file = "config/creeperoverhaul.toml"
+hash = "6409dbfc8556467a2970b90e93fd92cece655cd9c221dbd7a293fac3dbf71e0f"
+
+[[files]]
+file = "config/endermanoverhaul.toml"
+hash = "c6ff54b318c6a83b19a514b3bd22ee65628cb240e6dff9e08870e2d596b38a08"
+
+[[files]]
 file = "config/enhanced_bes.pw.toml"
 hash = "507bcf61e5bca5eadbdd1ad21aa2a0055c7fcb02ef0c8c8d7ab56bf29558c354"
 metafile = true
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "b0b9371f3f5f19a5ad5a839db4e4ce8b1922a4833bfbb709e7bfe2e366a4f34a"
 
 [[files]]
 file = "config/genshinstrument-client.pw.toml"
@@ -39,6 +54,16 @@ hash = "5f2d61cb838f9913e41b7e8149c1759c685a7539ab6278a844014e7ef6e3cbf2"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/colorful-nixies.pw.toml"
+hash = "28b4bafa3f7ce93e293ce15d0f23515b3e0b4f3046d2639847ac6ab17113e90d"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/enhanced-boss-bars.pw.toml"
+hash = "88496e670b35be0585d76f593cad1e59e76e7e9c4a014d5e8e4ce8c8b8e29986"
+metafile = true
+
+[[files]]
 file = "config/tide.toml"
 hash = "c2d27c9f937eb4e7dd8a0f13213ac8d52c4f3e1aeae4c1095703e1fdecdcd0e6"
 
@@ -48,13 +73,28 @@ hash = "d70bee5636b4cfed584ecc78df9eea68d5c3c0ed358cc48b7c753a8b38845094"
 metafile = true
 
 [[files]]
+file = "config/xaero/lib/common.pw.toml"
+hash = "415dc6f93f83dd66b1dc0375a5a85aa051eaeddd7097d49ff4b870a5fe88b520"
+metafile = true
+
+[[files]]
 file = "config/xaero/minimap/client.pw.toml"
 hash = "50b4fc1345378c0c553b391c64d470ba404f792f68b9e2aebb61192d7448b9f7"
 metafile = true
 
 [[files]]
+file = "config/xaero/minimap/server_profiles/default.pw.toml"
+hash = "dfd74e7b75d09064596d0f49c70fedecf0153891fd13154bebeb46c2da9fc35c"
+metafile = true
+
+[[files]]
 file = "config/xaero/world-map/client.pw.toml"
 hash = "67a2bcc3569c836811c6742b5d0895d8c8b328393371d60639cff377fd88ff39"
+metafile = true
+
+[[files]]
+file = "config/xaero/world-map/server_profiles/default.pw.toml"
+hash = "b9251428bc505ed1e89fe6fe264ca062b5b118d820ae4b6d19311ee3e7b535c7"
 metafile = true
 
 [[files]]
@@ -80,6 +120,11 @@ metafile = true
 [[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "a2514b93ee462130af7905208c993847eda9eb7ddb4a244a34e912b445ae9b54"
+metafile = true
+
+[[files]]
+file = "mods/aileron.pw.toml"
+hash = "c631326a0c1333d1664315857d460cb3e1d5f3a54a75b8e6ac65944e93d2e455"
 metafile = true
 
 [[files]]
@@ -258,6 +303,11 @@ hash = "023532063fbf310dd047a33cf1afd06b0c4baf72da4dc23e78d1d599ad5dcccd"
 metafile = true
 
 [[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "80c5ee4c23d552b939a151d7f694c3d046792dc45ff6dd0dbfbc88d1a2ba77a7"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "e569d23d25afa6f42fb1b63925f07ed7babbfc586e9ea43279d1fa39c907bb12"
 metafile = true
@@ -313,8 +363,18 @@ hash = "a171827ca41197cfe596f6624bdf574cbbc6532642c1f4dfd5a9d84de908e4b1"
 metafile = true
 
 [[files]]
+file = "mods/create-toolbox-tooltip.pw.toml"
+hash = "33fba1af5c52c0d2331777cb3405f9c53b2800f6b92427471df8820c442bbc24"
+metafile = true
+
+[[files]]
 file = "mods/create-trainutilities.pw.toml"
 hash = "f9784ac1511b83e0e3bf7df5b2240170d41e01b285b2b4455ef702113451aa6a"
+metafile = true
+
+[[files]]
+file = "mods/create-tramways-hotfix.pw.toml"
+hash = "e3c965d0d9c20da9ebcd81f806c8c41a619dc13278c8eb314af07a588e7842c0"
 metafile = true
 
 [[files]]
@@ -905,6 +965,11 @@ metafile = true
 [[files]]
 file = "mods/passable-foliage.pw.toml"
 hash = "d2f38114e14bd2d44c9a25bea37791ad899345cfe73828858c0ac61ffe28f2e3"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "58e0dcbd933909735c31a0da3009fc05276b322196026137ef39da9a50525d8d"
 metafile = true
 
 [[files]]

@@ -1,0 +1,8 @@
+name = "config/xaero/lib/common.cfg (server)"
+filename = "common.cfg"
+side = "server"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-modpack/main/server-files/config/xaero/lib/common.cfg"
+hash-format = "sha512"
+hash = "be769b92821bc9b071516b5784f1880c4c55de5aec090d59ceb993b7e11f0c43c44df14d37d7fc709e2e4b6aaf215b7e3e91ec9bba667a2d77a731c8df47f96a"
