@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "1b77a8842c1a58c8bc5ee073022b27df59953fc1f98adf3cbf9c1a9195191f02"
+hash = "e13dde750c029b204b1d8a4d2bc6ae3fb9fd079dd1ae489dba4022ee7313f2a5"
 metafile = true
 
 [[files]]
@@ -889,7 +889,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d8a2ea4edf1c55f6fe01cbcc220543f056b91c0d79512e96df22e4259b7c5777"
+hash = "ac5e7ba0771228a52f0e8c26f9125959039b4d4761bc346b56a5221c721de46a"
 metafile = true
 
 [[files]]
@@ -1049,7 +1049,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "d41fa2fb778e4a20f81752ff62dddafe7643e546c581c807e1532deaa385153b"
+hash = "6225a36557ab2dfd1c4d3fb3c0868ed61c465d3246695b10ff10d339f65e3302"
 metafile = true
 
 [[files]]
@@ -1264,7 +1264,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "8549141793a632e91039e30d45cf665bcac94cacd7b4d591cb5bca75557b73e5"
+hash = "31938394e90226cd1529b7be0283394bf2eb7814a8e4f5488879bf75c6945ab8"
 metafile = true
 
 [[files]]
@@ -1274,7 +1274,7 @@ metafile = true
 
 [[files]]
 file = "mods/yes-steve-model.pw.toml"
-hash = "2bc346324fee481a509bb7ef0294b8fc6dad44d24470149823d257bba1ebd585"
+hash = "555f00edadb4ffaed3c6b61edbf8e403dffa11b63e94f3fa70bd35b9aeefe07b"
 metafile = true
 
 [[files]]
