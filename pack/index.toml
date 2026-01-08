@@ -759,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "5f2ea40fc2cf14692f1200284104a123e8789adbd868cd29b2ef8ff40b1527f3"
+hash = "f7389b52b1c12a7b3757cdddaa97d6684a77e791d3046a84b95c8a18cf5faf27"
 metafile = true
 
 [[files]]
@@ -954,12 +954,12 @@ metafile = true
 
 [[files]]
 file = "mods/pandalib.pw.toml"
-hash = "89808a9a38f169f22e790cf991ea0cf36b2102b3ed297d6babb6a2ef4e334a3d"
+hash = "ff7cba9f585ee04471d6c3fefc2a2117c372bb5c94c8001c6d24c99bd4fb0c9a"
 metafile = true
 
 [[files]]
 file = "mods/pandas-falling-trees.pw.toml"
-hash = "ea51b10b741a1f3d5a6ae9873a40099596e3883bfd765b8038b15b7335fdca4a"
+hash = "94c32dd7a1f1bedc0a3c87e0334afa31f3d04e1a6f6220c55f7fd1b1fd0fc123"
 metafile = true
 
 [[files]]
