@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "e13dde750c029b204b1d8a4d2bc6ae3fb9fd079dd1ae489dba4022ee7313f2a5"
+hash = "f88c9ba87efaab7b9b88898095eefaa81d046fe0c613649a1f1484180afbd329"
 metafile = true
 
 [[files]]
@@ -539,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
+hash = "1ee56d5feb0ede9397b26f3c5b7543a3556088146d154b55172ef0e8b1a97705"
 metafile = true
 
 [[files]]
@@ -889,7 +889,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "ac5e7ba0771228a52f0e8c26f9125959039b4d4761bc346b56a5221c721de46a"
+hash = "d3b741795fc40ee4a08bb7cfeac55c73b07c719f8a96ef582bfc239f0b8f54ee"
 metafile = true
 
 [[files]]
@@ -904,7 +904,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "9ff690ee32105d52a646a76f48371ccbe1958aff274511ca71fb44099ebc7107"
+hash = "de9e8bb6aaa95904d3991952d04628cb9f3822c1176ef6983dd1d9b5fe34dfbe"
 metafile = true
 
 [[files]]
@@ -1054,7 +1054,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "62a6f5a489aa45fda94386b89a75485312338261998ddbb2d11316f595d2c38f"
+hash = "26096d8f51d60a126b6b0fefa07a49d56e17b65107306b763822f9ebdaa8a33e"
 metafile = true
 
 [[files]]
@@ -1274,7 +1274,7 @@ metafile = true
 
 [[files]]
 file = "mods/yes-steve-model.pw.toml"
-hash = "555f00edadb4ffaed3c6b61edbf8e403dffa11b63e94f3fa70bd35b9aeefe07b"
+hash = "bf6fdcb8f6856dcbe5767b77003566dc1129d5388575059db5dea6e4d6cf2472"
 metafile = true
 
 [[files]]
