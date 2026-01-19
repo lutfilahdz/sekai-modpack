@@ -1139,7 +1139,7 @@ metafile = true
 
 [[files]]
 file = "mods/tide.pw.toml"
-hash = "b0daf72ef971a1810f1fd45304a9040a6ca770beaa0d9f5f1fb952e7480538fe"
+hash = "c85b71c576592d62fb36441ee0c394d57468404f44c27fd7199b7847f3f0e13e"
 metafile = true
 
 [[files]]
