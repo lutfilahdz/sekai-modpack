@@ -503,6 +503,11 @@ hash = "c91720d3164541d28a3d625742aaf2184aff474a65a522878d98e1ad12b761ec"
 metafile = true
 
 [[files]]
+file = "mods/effortless.pw.toml"
+hash = "b9f54476b8fd406728130ebc2cce3a706fcf017ccaaf6ba2fc8737ebaa59b900"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "a763f10ac9de0fbdc4efaf6a998996c54213931cd9a393129f1ff3231fdf8cf9"
 metafile = true
