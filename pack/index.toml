@@ -948,6 +948,11 @@ hash = "0cd69add62e07381eacd3abf2a9188b1a0e2648ab92ebefe82d93ffd229ddbca"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "3f8f31eed84a4a29618cf04e300ea02ace03095ff4e8c4c23ec92f09849ed1f0"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
@@ -1030,11 +1035,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
-metafile = true
-
-[[files]]
-file = "mods/rpgz.pw.toml"
-hash = "1e9e402efb181971581ab94c20beb311727ba786c90206540cbc76f59fa342d6"
 metafile = true
 
 [[files]]
