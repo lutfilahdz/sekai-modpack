@@ -503,6 +503,11 @@ hash = "0528a78f6d137b10c2ac215ddb5b4f7f7e82538662cafa1949ef385b84fd3cbe"
 metafile = true
 
 [[files]]
+file = "mods/endrem.pw.toml"
+hash = "34a07ff5c170cd95eb586e3e40e65636eb4bbf283c24762055db6094b91de494"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "7eefb0f3d1b793f7dc57ee7cf368d055c9b1bf3556f61179f38f1c49c163c1bd"
 metafile = true
@@ -983,6 +988,11 @@ hash = "ffe568b897efe6e8b3b8b6a56ec39bab55ee1ac16082d64dc08e364f09260292"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "5beb6ef32d80ab0550baad15f1fd78f2c6168fcce4a18e14e23c47a1cc8ed099"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "a9769ced0531122518321833966d375196753db1c3a47b975aed4bb6837fae7a"
 metafile = true
@@ -1025,6 +1035,11 @@ metafile = true
 [[files]]
 file = "mods/rpgz.pw.toml"
 hash = "1e9e402efb181971581ab94c20beb311727ba786c90206540cbc76f59fa342d6"
+metafile = true
+
+[[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "c3972869e934ab32ffa3ea44e98784acb278eb5e67648beb93453ca47fa09341"
 metafile = true
 
 [[files]]
@@ -1195,6 +1210,11 @@ metafile = true
 [[files]]
 file = "mods/unnamed-desert.pw.toml"
 hash = "6c5745a7749360b3a2d3cf6cd304b06c6388883d9ad432995f793eafb929fb67"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "e17c2c575f2db23bb4e6cb7035093ec67f0c2189e7e3026075794579c6a05fd4"
 metafile = true
 
 [[files]]
@@ -1375,4 +1395,9 @@ metafile = true
 [[files]]
 file = "world/datapacks/repurposed-structures-friends-and-foes-compat.pw.toml"
 hash = "927e635c981510b06c640f1f18047e9b19324cc1b4137ff4d610844be4b600b3"
+metafile = true
+
+[[files]]
+file = "world/datapacks/true-ending.pw.toml"
+hash = "1529e8194d3ed261a45727592ef9cd10867eb57817aaa0765162e802e74c329c"
 metafile = true
