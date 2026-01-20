@@ -398,11 +398,6 @@ hash = "630b6d667264f8f5a580af52952ca9ef031d4f6db81a41e22d78738dcc53b154"
 metafile = true
 
 [[files]]
-file = "mods/ctov-chefs-delight-compat.pw.toml"
-hash = "3e41df25fbf26489935cba33f8522f0358765425da4159e895218f12b6976d2b"
-metafile = true
-
-[[files]]
 file = "mods/ctov-create-structures.pw.toml"
 hash = "d0114dcd9e7b204c1d2438b902faa1561763d8bd5b3130080895a16e106f06af"
 metafile = true
@@ -1360,6 +1355,11 @@ metafile = true
 [[files]]
 file = "unsup-server.pw.toml"
 hash = "50626fdc4ece66ba19cac703bf456071e420e00dc676c8ded6c231d5471f061e"
+metafile = true
+
+[[files]]
+file = "world/datapacks/ctov-chefs-delight-compat.pw.toml"
+hash = "7b5776b867dc027cecc7ad94290fcf338822263aa2d35ea3e392968463acb57b"
 metafile = true
 
 [[files]]

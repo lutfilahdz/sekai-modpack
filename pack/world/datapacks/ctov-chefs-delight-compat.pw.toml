@@ -1,0 +1,13 @@
+name = "CTOV - Chef's delight Compat"
+filename = "ctov-chefs-delight-add-on-v2-0.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/6PJbKvJH/versions/f5Bk0Zj6/ctov-chefs-delight-add-on-v2-0.zip"
+hash-format = "sha512"
+hash = "3fdf017e90afbd898905d032de09b98c29a265c9e1bc54ed65aa318c6e7fdf97555cb07b0c5b968f45c630141b97e82ba1cf03afb8bc080d1bb163b06b792805"
+
+[update]
+[update.modrinth]
+mod-id = "6PJbKvJH"
+version = "f5Bk0Zj6"
