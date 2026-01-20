@@ -1,6 +1,7 @@
 name = "Panda's Falling Tree's"
 filename = "fallingtrees-fabric-mc1.20-0.13.2-SNAPSHOT.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/i2kUe4lq/versions/N00bYlSS/fallingtrees-fabric-mc1.20-0.13.2-SNAPSHOT.jar"

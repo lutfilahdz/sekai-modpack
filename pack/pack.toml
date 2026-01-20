@@ -1,12 +1,12 @@
 name = "Sekai Survival Modded"
 author = "Lutfilah Dzaky"
-version = "1.6.7"
+version = "1.7.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "46ba1df37257a9a49c267d4b261edb7717945cb262bf01f706d9dd63065e1e0a"
+hash = "4205f2d37e7bfe2c32f5b232f38dd80e95a923a687f40f76bf9930c9e7e58b98"
 
 [versions]
 fabric = "0.18.1"

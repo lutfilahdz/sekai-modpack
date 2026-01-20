@@ -1,6 +1,7 @@
 name = "PandaLib"
 filename = "pandalib-fabric-mc1.20-0.5.2-SNAPSHOT.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/mEEGbEIu/versions/pdcdnDQm/pandalib-fabric-mc1.20-0.5.2-SNAPSHOT.jar"

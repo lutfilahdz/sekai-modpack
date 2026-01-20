@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "cecef5282fa2e57e290a0f40018e6e0f31ea6f2aefe195b1313484f670343853"
+hash = "58729cb98171130e6058baf2e118fb0a73abc3e291fc0bb5584a47b0a47c3abf"
 metafile = true
 
 [[files]]
@@ -200,6 +200,11 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a2de85ebe9629568398185b5b9554bcc0c54e322b214d78368485a6074a66279"
+metafile = true
+
+[[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "92b54fed693e725faa96e793b643cb5245494643830f2a4e277d6c7150368e7d"
 metafile = true
 
 [[files]]
@@ -298,6 +303,11 @@ hash = "1b272be2b56b60336ecef056cf9f0e35a77fc8a46c8a121887c736c6cfc180ce"
 metafile = true
 
 [[files]]
+file = "mods/create-crystal-clear.pw.toml"
+hash = "d441200178f8ef0e87a872a495fa0a502139ddd48036b2ede516f4fcd8660be1"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "023532063fbf310dd047a33cf1afd06b0c4baf72da4dc23e78d1d599ad5dcccd"
 metafile = true
@@ -319,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "1b77a8842c1a58c8bc5ee073022b27df59953fc1f98adf3cbf9c1a9195191f02"
+hash = "2e162531a60df878eb11089494a205adb7452ca08ff05c739f97db3448a39684"
 metafile = true
 
 [[files]]
@@ -378,6 +388,11 @@ hash = "e3c965d0d9c20da9ebcd81f806c8c41a619dc13278c8eb314af07a588e7842c0"
 metafile = true
 
 [[files]]
+file = "mods/create_oxidized.pw.toml"
+hash = "a0c0ebf3ab1c147a7196d98ec8eb2afb70454d0cac4ddc556478dd3aa38e8dab"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "af83eb1ea0f7a36e4424248c744c1cbebb5045d361e843b873d4d89bf65ad8ad"
 metafile = true
@@ -395,11 +410,6 @@ metafile = true
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "630b6d667264f8f5a580af52952ca9ef031d4f6db81a41e22d78738dcc53b154"
-metafile = true
-
-[[files]]
-file = "mods/ctov-chefs-delight-compat.pw.toml"
-hash = "3e41df25fbf26489935cba33f8522f0358765425da4159e895218f12b6976d2b"
 metafile = true
 
 [[files]]
@@ -458,6 +468,11 @@ hash = "630011e25bd2f05958b2ad715602ac3f6cca0504ee6c793e71828de54e480cbf"
 metafile = true
 
 [[files]]
+file = "mods/discord-chat-connect.pw.toml"
+hash = "96245c61b1c34e338c2f35534c9c87139430eb019e970b2bd92a697a6317394b"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
 metafile = true
@@ -493,6 +508,11 @@ hash = "c91720d3164541d28a3d625742aaf2184aff474a65a522878d98e1ad12b761ec"
 metafile = true
 
 [[files]]
+file = "mods/effortless.pw.toml"
+hash = "b9f54476b8fd406728130ebc2cce3a706fcf017ccaaf6ba2fc8737ebaa59b900"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "a763f10ac9de0fbdc4efaf6a998996c54213931cd9a393129f1ff3231fdf8cf9"
 metafile = true
@@ -505,6 +525,11 @@ metafile = true
 [[files]]
 file = "mods/enders-delight.pw.toml"
 hash = "0528a78f6d137b10c2ac215ddb5b4f7f7e82538662cafa1949ef385b84fd3cbe"
+metafile = true
+
+[[files]]
+file = "mods/endrem.pw.toml"
+hash = "34a07ff5c170cd95eb586e3e40e65636eb4bbf283c24762055db6094b91de494"
 metafile = true
 
 [[files]]
@@ -539,7 +564,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
+hash = "1ee56d5feb0ede9397b26f3c5b7543a3556088146d154b55172ef0e8b1a97705"
 metafile = true
 
 [[files]]
@@ -560,6 +585,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "ce276e188fa22c4b8e4a99a0558844284fff7d49af2c5e6683290eaa598a7c61"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "14e141719b2166b70fc329f620bea34892696f8677127f7181ba2533519e8c56"
 metafile = true
 
 [[files]]
@@ -759,7 +789,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "5f2ea40fc2cf14692f1200284104a123e8789adbd868cd29b2ef8ff40b1527f3"
+hash = "7f2bc5351d59bd14b1230b852784cdefe8a79a5c761c991a7323c0f10e5f4c50"
 metafile = true
 
 [[files]]
@@ -889,7 +919,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d8a2ea4edf1c55f6fe01cbcc220543f056b91c0d79512e96df22e4259b7c5777"
+hash = "d3b741795fc40ee4a08bb7cfeac55c73b07c719f8a96ef582bfc239f0b8f54ee"
 metafile = true
 
 [[files]]
@@ -898,13 +928,8 @@ hash = "1ab3b265bab4a5e521a49224d876727232e66d69afe632ff2bb5a2be462ca2ba"
 metafile = true
 
 [[files]]
-file = "mods/morechathistory.pw.toml"
-hash = "3dc86c0b4d31199f6f8579b8460686201ce8b9c87e1be5afaf50be9995add1e0"
-metafile = true
-
-[[files]]
 file = "mods/moreculling.pw.toml"
-hash = "9ff690ee32105d52a646a76f48371ccbe1958aff274511ca71fb44099ebc7107"
+hash = "de9e8bb6aaa95904d3991952d04628cb9f3822c1176ef6983dd1d9b5fe34dfbe"
 metafile = true
 
 [[files]]
@@ -943,6 +968,11 @@ hash = "0cd69add62e07381eacd3abf2a9188b1a0e2648ab92ebefe82d93ffd229ddbca"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "3f8f31eed84a4a29618cf04e300ea02ace03095ff4e8c4c23ec92f09849ed1f0"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
@@ -954,12 +984,12 @@ metafile = true
 
 [[files]]
 file = "mods/pandalib.pw.toml"
-hash = "89808a9a38f169f22e790cf991ea0cf36b2102b3ed297d6babb6a2ef4e334a3d"
+hash = "ff7cba9f585ee04471d6c3fefc2a2117c372bb5c94c8001c6d24c99bd4fb0c9a"
 metafile = true
 
 [[files]]
 file = "mods/pandas-falling-trees.pw.toml"
-hash = "ea51b10b741a1f3d5a6ae9873a40099596e3883bfd765b8038b15b7335fdca4a"
+hash = "94c32dd7a1f1bedc0a3c87e0334afa31f3d04e1a6f6220c55f7fd1b1fd0fc123"
 metafile = true
 
 [[files]]
@@ -980,6 +1010,11 @@ metafile = true
 [[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "ffe568b897efe6e8b3b8b6a56ec39bab55ee1ac16082d64dc08e364f09260292"
+metafile = true
+
+[[files]]
+file = "mods/platform.pw.toml"
+hash = "5beb6ef32d80ab0550baad15f1fd78f2c6168fcce4a18e14e23c47a1cc8ed099"
 metafile = true
 
 [[files]]
@@ -1023,8 +1058,8 @@ hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
 metafile = true
 
 [[files]]
-file = "mods/rpgz.pw.toml"
-hash = "1e9e402efb181971581ab94c20beb311727ba786c90206540cbc76f59fa342d6"
+file = "mods/rustic-delight.pw.toml"
+hash = "c3972869e934ab32ffa3ea44e98784acb278eb5e67648beb93453ca47fa09341"
 metafile = true
 
 [[files]]
@@ -1049,12 +1084,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "d41fa2fb778e4a20f81752ff62dddafe7643e546c581c807e1532deaa385153b"
+hash = "6225a36557ab2dfd1c4d3fb3c0868ed61c465d3246695b10ff10d339f65e3302"
 metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "62a6f5a489aa45fda94386b89a75485312338261998ddbb2d11316f595d2c38f"
+hash = "26096d8f51d60a126b6b0fefa07a49d56e17b65107306b763822f9ebdaa8a33e"
 metafile = true
 
 [[files]]
@@ -1139,7 +1174,7 @@ metafile = true
 
 [[files]]
 file = "mods/tide.pw.toml"
-hash = "ed5ccbe92158e5f86845a6a7590884a07fa1e77214664d316ed283eced1a75d3"
+hash = "c85b71c576592d62fb36441ee0c394d57468404f44c27fd7199b7847f3f0e13e"
 metafile = true
 
 [[files]]
@@ -1195,6 +1230,11 @@ metafile = true
 [[files]]
 file = "mods/unnamed-desert.pw.toml"
 hash = "6c5745a7749360b3a2d3cf6cd304b06c6388883d9ad432995f793eafb929fb67"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "e17c2c575f2db23bb4e6cb7035093ec67f0c2189e7e3026075794579c6a05fd4"
 metafile = true
 
 [[files]]
@@ -1264,7 +1304,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "8549141793a632e91039e30d45cf665bcac94cacd7b4d591cb5bca75557b73e5"
+hash = "31938394e90226cd1529b7be0283394bf2eb7814a8e4f5488879bf75c6945ab8"
 metafile = true
 
 [[files]]
@@ -1274,7 +1314,7 @@ metafile = true
 
 [[files]]
 file = "mods/yes-steve-model.pw.toml"
-hash = "2bc346324fee481a509bb7ef0294b8fc6dad44d24470149823d257bba1ebd585"
+hash = "bf6fdcb8f6856dcbe5767b77003566dc1129d5388575059db5dea6e4d6cf2472"
 metafile = true
 
 [[files]]
@@ -1358,6 +1398,11 @@ hash = "50626fdc4ece66ba19cac703bf456071e420e00dc676c8ded6c231d5471f061e"
 metafile = true
 
 [[files]]
+file = "world/datapacks/ctov-chefs-delight-compat.pw.toml"
+hash = "7b5776b867dc027cecc7ad94290fcf338822263aa2d35ea3e392968463acb57b"
+metafile = true
+
+[[files]]
 file = "world/datapacks/repurposed-structures-chefs-delight-compat.pw.toml"
 hash = "988501e1caee238435dd33482ae0c484c3f54ff37cda3ba47f7e5a6280895d0e"
 metafile = true
@@ -1370,4 +1415,9 @@ metafile = true
 [[files]]
 file = "world/datapacks/repurposed-structures-friends-and-foes-compat.pw.toml"
 hash = "927e635c981510b06c640f1f18047e9b19324cc1b4137ff4d610844be4b600b3"
+metafile = true
+
+[[files]]
+file = "world/datapacks/true-ending.pw.toml"
+hash = "1529e8194d3ed261a45727592ef9cd10867eb57817aaa0765162e802e74c329c"
 metafile = true
