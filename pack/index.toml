@@ -468,6 +468,11 @@ hash = "630011e25bd2f05958b2ad715602ac3f6cca0504ee6c793e71828de54e480cbf"
 metafile = true
 
 [[files]]
+file = "mods/discord-chat-connect.pw.toml"
+hash = "96245c61b1c34e338c2f35534c9c87139430eb019e970b2bd92a697a6317394b"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
 metafile = true
@@ -920,11 +925,6 @@ metafile = true
 [[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "1ab3b265bab4a5e521a49224d876727232e66d69afe632ff2bb5a2be462ca2ba"
-metafile = true
-
-[[files]]
-file = "mods/morechathistory.pw.toml"
-hash = "3dc86c0b4d31199f6f8579b8460686201ce8b9c87e1be5afaf50be9995add1e0"
 metafile = true
 
 [[files]]
