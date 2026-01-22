@@ -1,0 +1,41 @@
+{
+  "general": {
+    "burningItems": {
+      "entries": [
+        "{id:\"item\",item:\"minecraft:netherite_sword\"}",
+        "{id:\"item\",item:\"minecraft:netherite_pickaxe\"}",
+        "{id:\"item\",item:\"minecraft:netherite_axe\"}",
+        "{id:\"item\",item:\"minecraft:netherite_shovel\"}",
+        "{id:\"item\",item:\"minecraft:netherite_hoe\"}",
+        "{id:\"item\",item:\"minecraft:netherite_helmet\"}",
+        "{id:\"item\",item:\"minecraft:netherite_chestplate\"}",
+        "{id:\"item\",item:\"minecraft:netherite_leggings\"}",
+        "{id:\"item\",item:\"minecraft:netherite_boots\"}",
+        "{id:\"item\",item:\"minecraft:netherite_ingot\"}",
+        "{id:\"item\",item:\"minecraft:netherite_scrap\"}",
+        "{id:\"item\",item:\"minecraft:netherite_block\"}",
+        "{block:\"minecraft:netherite_block\",id:\"block\"}",
+        "{block:\"minecraft:ancient_debris\",id:\"block\"}",
+        "{id:\"item\",item:\"minecraft:ancient_debris\"}",
+        "{id:\"item\",item:\"minecraft:nether_star\"}",
+        "{id:\"item\",item:\"minecraft:dragon_egg\"}",
+        "{block:\"minecraft:dragon_egg\",id:\"block\"}",
+        "{block:\"minecraft:bedrock\",id:\"block\"}",
+        "{block:\"minecraft:obsidian\",id:\"block\"}",
+        "{block:\"minecraft:barrier\",id:\"block\"}"
+      ],
+      "isWhitelist": false
+    },
+    "undestroyableItems": {
+      "entries": [
+        "{id:\"item\",item:\"minecraft:nether_star\"}",
+        "{id:\"item\",item:\"minecraft:dragon_egg\"}",
+        "{block:\"minecraft:dragon_egg\",id:\"block\"}",
+        "{block:\"minecraft:bedrock\",id:\"block\"}",
+        "{block:\"minecraft:obsidian\",id:\"block\"}",
+        "{block:\"minecraft:barrier\",id:\"block\"}"
+      ],
+      "isWhitelist": true
+    }
+  }
+}
