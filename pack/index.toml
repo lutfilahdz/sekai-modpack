@@ -44,6 +44,10 @@ hash = "da147ec41c8c325bbf269347d00257c0e58439aef65d33ffe826ba148bfe5ca6"
 metafile = true
 
 [[files]]
+file = "config/itemphysic.json"
+hash = "d2c744a28216518b607fb3b268baca29a382470ae1aa113c5bdf1aa117281483"
+
+[[files]]
 file = "config/kiwi-client.pw.toml"
 hash = "e230ff5cbcceaa24a78cc96f1e4eb70adb9cfb31e7b7888c9282bcd57288b47a"
 metafile = true
