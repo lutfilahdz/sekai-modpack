@@ -1,0 +1,13 @@
+name = "Fragmentum"
+filename = "fragmentum-fabric-1.20.1-1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/49C5QgTK/versions/ypOMLghP/fragmentum-fabric-1.20.1-1.0.8.jar"
+hash-format = "sha512"
+hash = "458140895d5d0a38d0b06425b1a7340d8f21e5222ced1a9800a989be592e40187628dc7a95dbe0446fa29589ab45300b5b9865335d64a504a2e391718b6ed550"
+
+[update]
+[update.modrinth]
+mod-id = "49C5QgTK"
+version = "ypOMLghP"

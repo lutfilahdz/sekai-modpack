@@ -147,6 +147,11 @@ hash = "58729cb98171130e6058baf2e118fb0a73abc3e291fc0bb5584a47b0a47c3abf"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "f7933fc2034c3eb8601f3eddaa75f03d0a3f68dce19ee553aed57d35163cb21a"
+metafile = true
+
+[[files]]
 file = "mods/anti-entity-grief.pw.toml"
 hash = "ee86cfb8d9260ab49614a284a57d517bc5d7de3d09746037522adfbd55cb1a04"
 metafile = true
@@ -354,6 +359,11 @@ metafile = true
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "2840c63302d50d82eb9c82a73784bc18b3afb51c5834c088ba202277f90cb2c3"
+metafile = true
+
+[[files]]
+file = "mods/create-recycling.pw.toml"
+hash = "f9404d93fc85b170f701b04785821fd21eb62e4717363d45fc8d8abb0d2d0fd2"
 metafile = true
 
 [[files]]
@@ -637,6 +647,11 @@ hash = "dfe0fb2bcdb8a356dae8f654710b72ea9c532c7b05afee33186de068df492ffb"
 metafile = true
 
 [[files]]
+file = "mods/fragmentum.pw.toml"
+hash = "ca39448893f0367e16bb2d2b9f97a697a84ee715a19cf2ee00f2f1e5353157ef"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "2fcd17a965738c1649d434a0d5f8077321b4bb90a8c9d9d868d220d8bbd5abb3"
 metafile = true
@@ -702,8 +717,18 @@ hash = "96b6a9192639045bc5b2c0815ad33d1d754bf77e2f59bd96dd3bde21784d7704"
 metafile = true
 
 [[files]]
+file = "mods/immersive-snow.pw.toml"
+hash = "abbdd32e5c02d26ff56ed20c367e80de4da0a160f171ae8369442359f96da53e"
+metafile = true
+
+[[files]]
 file = "mods/immersivethunder.pw.toml"
 hash = "1e7626658f151f660110a788c0e3771f08a023992a62c38aacb272fd9559dd94"
+metafile = true
+
+[[files]]
+file = "mods/improved-village-placement.pw.toml"
+hash = "b4917d33f42660f3b77863324c8b331296212f8620f208cbf91f237fc11c25e0"
 metafile = true
 
 [[files]]
@@ -1007,6 +1032,11 @@ hash = "9ad63ddb4586e2650aca101712f9d0f5efa14e5959965cb6e6fc6ad300e8c3ee"
 metafile = true
 
 [[files]]
+file = "mods/pillager-caravans.pw.toml"
+hash = "b95b085d84afb97803a3a262783514bc8e257cb079c6b38d1aa39fc72401cd80"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "ffe568b897efe6e8b3b8b6a56ec39bab55ee1ac16082d64dc08e364f09260292"
 metafile = true
@@ -1087,6 +1117,11 @@ hash = "6225a36557ab2dfd1c4d3fb3c0868ed61c465d3246695b10ff10d339f65e3302"
 metafile = true
 
 [[files]]
+file = "mods/simply-light.pw.toml"
+hash = "8769de6a6a2bd05cae8ed555aec4d3b027bd27ad95cf9b39146b54de397160f0"
+metafile = true
+
+[[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "26096d8f51d60a126b6b0fefa07a49d56e17b65107306b763822f9ebdaa8a33e"
 metafile = true
@@ -1129,6 +1164,11 @@ metafile = true
 [[files]]
 file = "mods/stendhal.pw.toml"
 hash = "5267cd0ff94e2695e70720e94c8940045a6a7371c89c3adcad48660b303698dd"
+metafile = true
+
+[[files]]
+file = "mods/straw-statues.pw.toml"
+hash = "64d83585506d7b0235001b79ac243e95c8c081d81b938a3c553233092bbd60c8"
 metafile = true
 
 [[files]]
@@ -1234,6 +1274,11 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "e17c2c575f2db23bb4e6cb7035093ec67f0c2189e7e3026075794579c6a05fd4"
+metafile = true
+
+[[files]]
+file = "mods/village-healthcare.pw.toml"
+hash = "25d8753ab887d03addb3d254228eb5e33819c70cb1f3b8290319ba3a1ecfe9cd"
 metafile = true
 
 [[files]]

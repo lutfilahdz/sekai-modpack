@@ -1,0 +1,13 @@
+name = "Pillager Caravans"
+filename = "caravans-fabric-1.20.1-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8jJHxtdz/versions/vUgu5qx9/caravans-fabric-1.20.1-1.4.1.jar"
+hash-format = "sha512"
+hash = "d56a092dcff5c2b54acfae4a4e149c3fea58a26d6c638849c2b07bd9f51deaa07b14c6dec8560acb6a2ea4b101fedfb77807d09897545306d646a246c7ef7a47"
+
+[update]
+[update.modrinth]
+mod-id = "8jJHxtdz"
+version = "vUgu5qx9"
