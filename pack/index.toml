@@ -157,11 +157,6 @@ hash = "58729cb98171130e6058baf2e118fb0a73abc3e291fc0bb5584a47b0a47c3abf"
 metafile = true
 
 [[files]]
-file = "mods/amendments.pw.toml"
-hash = "f7933fc2034c3eb8601f3eddaa75f03d0a3f68dce19ee553aed57d35163cb21a"
-metafile = true
-
-[[files]]
 file = "mods/anti-entity-grief.pw.toml"
 hash = "ee86cfb8d9260ab49614a284a57d517bc5d7de3d09746037522adfbd55cb1a04"
 metafile = true
@@ -624,11 +619,6 @@ metafile = true
 [[files]]
 file = "mods/fire-arrows-ignite-fire.pw.toml"
 hash = "eab371efe71a69f262b31a2fbc7502653c4f1f7960a3167ef431c5deead9e4b7"
-metafile = true
-
-[[files]]
-file = "mods/fishing-real.pw.toml"
-hash = "df919122cd5a7485059cd9ccdaddd82467a076a718978c128f1642a5c5f83d6c"
 metafile = true
 
 [[files]]
