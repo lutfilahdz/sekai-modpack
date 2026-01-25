@@ -74,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "config/tide.json"
-hash = "1759735668b8099a42a322f9e7da24f47f4fa2ae11ca16c4ee4e32f2da46c8b0"
+hash = "f52e017fc63fc4ee10dcedc19af378fe5416eee22352c9e82b9171debdea2fff"
 
 [[files]]
 file = "config/universal-graves/models/default.pw.toml"
@@ -614,6 +614,11 @@ metafile = true
 [[files]]
 file = "mods/fire-arrows-ignite-fire.pw.toml"
 hash = "eab371efe71a69f262b31a2fbc7502653c4f1f7960a3167ef431c5deead9e4b7"
+metafile = true
+
+[[files]]
+file = "mods/fishing-real.pw.toml"
+hash = "df919122cd5a7485059cd9ccdaddd82467a076a718978c128f1642a5c5f83d6c"
 metafile = true
 
 [[files]]
