@@ -68,6 +68,11 @@ hash = "88496e670b35be0585d76f593cad1e59e76e7e9c4a014d5e8e4ce8c8b8e29986"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/fusion-connected-glass.pw.toml"
+hash = "cc4c03200baa367d40720320336b692e6c4fe71edbea890e27210bb2cc42408c"
+metafile = true
+
+[[files]]
 file = "config/tide.toml"
 hash = "c2d27c9f937eb4e7dd8a0f13213ac8d52c4f3e1aeae4c1095703e1fdecdcd0e6"
 
@@ -282,11 +287,6 @@ hash = "b4fdf52d53ab71bf73282c5168e9526b6024740d82388d604d6947394e3c7f7f"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
@@ -359,11 +359,6 @@ metafile = true
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "2840c63302d50d82eb9c82a73784bc18b3afb51c5834c088ba202277f90cb2c3"
-metafile = true
-
-[[files]]
-file = "mods/create-recycling.pw.toml"
-hash = "f9404d93fc85b170f701b04785821fd21eb62e4717363d45fc8d8abb0d2d0fd2"
 metafile = true
 
 [[files]]
@@ -654,6 +649,11 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "2fcd17a965738c1649d434a0d5f8077321b4bb90a8c9d9d868d220d8bbd5abb3"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "6516077c98f38a3ec994551eba7ac41cede37a1e07ece8537450710eae583b30"
 metafile = true
 
 [[files]]
