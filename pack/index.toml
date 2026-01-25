@@ -73,8 +73,8 @@ hash = "cc4c03200baa367d40720320336b692e6c4fe71edbea890e27210bb2cc42408c"
 metafile = true
 
 [[files]]
-file = "config/tide.toml"
-hash = "c2d27c9f937eb4e7dd8a0f13213ac8d52c4f3e1aeae4c1095703e1fdecdcd0e6"
+file = "config/tide.json"
+hash = "1759735668b8099a42a322f9e7da24f47f4fa2ae11ca16c4ee4e32f2da46c8b0"
 
 [[files]]
 file = "config/universal-graves/models/default.pw.toml"
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
+hash = "f3f98ccb142504aa558f3250b5a9bcda5d9fb45634562a4b7f886489575f6f5a"
 metafile = true
 
 [[files]]
@@ -813,7 +813,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "7f2bc5351d59bd14b1230b852784cdefe8a79a5c761c991a7323c0f10e5f4c50"
+hash = "0ef0d37b022cef3e1974d1772d7fa709f34e181a6eb4c2e6525efc92f8a9089f"
 metafile = true
 
 [[files]]
@@ -938,7 +938,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "c309f7b7186fb246c6e72db4b8aef81a77e3ee793978aaf2e34318ce4dfcf014"
+hash = "e4504a53ae99081661200af3420676ed09ed31a9a4a17fb3a2039d6bf13b209e"
 metafile = true
 
 [[files]]
@@ -1208,7 +1208,7 @@ metafile = true
 
 [[files]]
 file = "mods/tide.pw.toml"
-hash = "c85b71c576592d62fb36441ee0c394d57468404f44c27fd7199b7847f3f0e13e"
+hash = "fc6449015cf45b954d094c38f0dcc869b1ed4689106e54ac8304d1efb3f35dbe"
 metafile = true
 
 [[files]]
