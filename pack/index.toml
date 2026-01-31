@@ -63,11 +63,6 @@ hash = "28b4bafa3f7ce93e293ce15d0f23515b3e0b4f3046d2639847ac6ab17113e90d"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/computercreate.pw.toml"
-hash = "451f57759bb9726810b060531270225f3f44723f46da4ad576f18b395e87b853"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/enhanced-boss-bars.pw.toml"
 hash = "ad0205b106664eebc1defd75c9c90faa9ac28d4598883d336f41816d833c30a4"
 metafile = true
@@ -254,11 +249,6 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "5ba003768a235ab0d811218191166f9aefa4c9a2509341fbba1efd80e18d3676"
-metafile = true
-
-[[files]]
-file = "mods/cc-tweaked.pw.toml"
-hash = "5de3cc324c739ce7a8ba678929cc39b66f528d2ca6fe52715d97b1fdb09276f8"
 metafile = true
 
 [[files]]
