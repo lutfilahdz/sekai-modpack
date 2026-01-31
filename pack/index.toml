@@ -902,6 +902,11 @@ hash = "62b5f6133f799c95d48314eef3e353b8689477f075e9f604a2566de03d593563"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "ed322399f2f703b5cc9f6652d85e8eb215a53c7acbeef27964c0d6af7400561a"
+metafile = true
+
+[[files]]
 file = "mods/mastercutter.pw.toml"
 hash = "b4612aac2548a55f1edce6ca5d772956dc4a603217de6cd526dce9b1fbb46d8d"
 metafile = true
@@ -1274,6 +1279,11 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "e17c2c575f2db23bb4e6cb7035093ec67f0c2189e7e3026075794579c6a05fd4"
+metafile = true
+
+[[files]]
+file = "mods/vanish.pw.toml"
+hash = "f75ab965e4eb71aefb05a30a80433b94d582e6a68eb5e4d54a06dd43b0181244"
 metafile = true
 
 [[files]]
