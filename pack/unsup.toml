@@ -1,17 +1,17 @@
-[flavor_groups.preset]
+[flavor_groups.package]
 name = "Preset"
 description = "Choose the mod preset that best suits your needs in Sekai Survival.\nEach preset is designed to enhance your gaming experience with different levels of optimization and features."
 side = "both"
-[[flavor_groups.preset.choices]]
-id = "preset_complete"
+[[flavor_groups.package.choices]]
+id = "package_complete"
 name = "Complete"
 description = "Complete preset with optimization and additional quality of life features for the best gaming experience.\nJust install and play without any hassle!"
-[[flavor_groups.preset.choices]]
-id = "preset_performance"
+[[flavor_groups.package.choices]]
+id = "package_performance"
 name = "Performance"
 description = "Basic preset enhanced with performance-focused mods.\nPerfect for players who don't have their own optimization mods."
-[[flavor_groups.preset.choices]]
-id = "preset_basic"
+[[flavor_groups.package.choices]]
+id = "package_basic"
 name = "Basic"
 description = "Basic essential mods required for server compatibility.\nIdeal for players who already have their own additional mods."
 
@@ -45,121 +45,121 @@ side = "both"
 choices = ["distant_horizons_off", "distant_horizons_on"]
 
 [metafile.continuity]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.entitytexturefeatures]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.entity-model-features]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.animatica]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.cit-resewn]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.sound-physics-remastered]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.ambientsounds]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.immersivethunder]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.presence-footsteps]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.coolrain]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.dripsounds]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.jei]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.justenoughbreeding]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.just-enough-professions-jep]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.just-enough-effect-descriptions-jeed]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.just-enough-beacons-reforged]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.mouse-tweaks]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.controlling]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.better-third-person]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.cameraoverhaul]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.morechathistory]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.modelfix]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.lambdynamiclights]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.jade]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.jade-addons-fabric]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.your-reputation]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.appleskin]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.tooltiprareness]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.enchantment-descriptions]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.effect-descriptions]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.foodeffecttooltips]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.shulkerboxtooltip]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.durability-tooltip]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.held-item-info]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.pick-up-notifier]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.item-highlighter]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.item-borders]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.status-effect-bars]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.stendhal]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.better-mount-hud]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.better-ping-display-fabric]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.boat-item-view]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.craftpresence]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.swingthrough]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.accurate-block-placement-reborn]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.eating-animation]
-flavors = "preset_complete"
+flavors = "package_complete"
 [metafile.lithium]
-flavors = ["preset_complete", "preset_performance"]
+flavors = ["package_complete", "package_performance"]
 [metafile.ferrite-core]
-flavors = ["preset_complete", "preset_performance"]
+flavors = ["package_complete", "package_performance"]
 [metafile.entityculling]
-flavors = ["preset_complete", "preset_performance"]
+flavors = ["package_complete", "package_performance"]
 [metafile.ebe]
-flavors = ["preset_complete", "preset_performance"]
+flavors = ["package_complete", "package_performance"]
 [metafile.immediatelyfast]
-flavors = ["preset_complete", "preset_performance"]
+flavors = ["package_complete", "package_performance"]
 [metafile.c2me-fabric]
-flavors = ["preset_complete", "preset_performance"]
+flavors = ["package_complete", "package_performance"]
 [metafile.noisium]
-flavors = ["preset_complete", "preset_performance"]
+flavors = ["package_complete", "package_performance"]
 [metafile.modernfix]
-flavors = ["preset_complete", "preset_performance"]
+flavors = ["package_complete", "package_performance"]
 [metafile.badoptimizations]
-flavors = ["preset_complete", "preset_performance"]
+flavors = ["package_complete", "package_performance"]
 [metafile.moreculling]
-flavors = ["preset_complete", "preset_performance"]
+flavors = ["package_complete", "package_performance"]
 [metafile.vmp-fabric]
-flavors = ["preset_complete", "preset_performance"]
+flavors = ["package_complete", "package_performance"]
 [metafile.threadtweak]
-flavors = ["preset_complete", "preset_performance"]
+flavors = ["package_complete", "package_performance"]
 
 [metafile.iris]
 flavors = "rendering_iris"
