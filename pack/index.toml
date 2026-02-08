@@ -553,7 +553,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "91dab84ae147fd26d1b61456329b78e76ef4109c21ecf9f96b6f967618079ab7"
+hash = "2556f39fb6c19ae1d265b0dfcd51bfd45fea340e2915545aeaf6f0e34b3df7c6"
 metafile = true
 
 [[files]]
@@ -563,7 +563,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
+hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
 metafile = true
 
 [[files]]
@@ -703,7 +703,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "96b6a9192639045bc5b2c0815ad33d1d754bf77e2f59bd96dd3bde21784d7704"
+hash = "5e70073ddf4020d9f4b705c23bf5e7332dbeebd31f291de81d36a652034f90ca"
 metafile = true
 
 [[files]]
@@ -1053,7 +1053,7 @@ metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
-hash = "5beb6ef32d80ab0550baad15f1fd78f2c6168fcce4a18e14e23c47a1cc8ed099"
+hash = "7b4a149bf31c1218d9e84bca160f1cd69a4ddc6c47a62ce9d772133d201719b4"
 metafile = true
 
 [[files]]
@@ -1218,7 +1218,7 @@ metafile = true
 
 [[files]]
 file = "mods/tide.pw.toml"
-hash = "fc6449015cf45b954d094c38f0dcc869b1ed4689106e54ac8304d1efb3f35dbe"
+hash = "b29ce0e25ea549e1ee07a7a1dd9f143fcc26c7b180245b6a2e6239d21a3c7930"
 metafile = true
 
 [[files]]
@@ -1353,12 +1353,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d33719fa79b683a327acafbe1e2617482b5a3272fd471bb822a72314d3cd511f"
+hash = "5a06bdc380bbbb332ec7a48e56a94ed376ba6110ba0a36ded7326cf6ddebcfec"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "31938394e90226cd1529b7be0283394bf2eb7814a8e4f5488879bf75c6945ab8"
+hash = "2f2e51977c837dad2049274b38c272fcc2fda02aebde172fbbfdd722bb3edd46"
 metafile = true
 
 [[files]]
