@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "e6bbfb6647899ae04ed1a8e742b8b056369e4f97c92b29228003deb0ca8f23e6"
+hash = "5962887e1693ef8ccfb2328963a7076371af06a384ea0ea63b31377e02269f78"
 metafile = true
 
 [[files]]
@@ -553,7 +553,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "91dab84ae147fd26d1b61456329b78e76ef4109c21ecf9f96b6f967618079ab7"
+hash = "2556f39fb6c19ae1d265b0dfcd51bfd45fea340e2915545aeaf6f0e34b3df7c6"
 metafile = true
 
 [[files]]
@@ -563,7 +563,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
+hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
 metafile = true
 
 [[files]]
@@ -687,6 +687,16 @@ hash = "f57d03cf7f86ea07a85d94ac11c15c649a7ec8db67d772845609eca42c7af7d3"
 metafile = true
 
 [[files]]
+file = "mods/hybrid-aquatic.pw.toml"
+hash = "bdc2ffec4ec1ac56c72f7a84a442ed21804c9abca6f643ed705e84cc6398a03f"
+metafile = true
+
+[[files]]
+file = "mods/hybrid-delights.pw.toml"
+hash = "d8e4fc4c2baea0367638401c3d28d7aa1c91c26a49cb2adc5db897a40b50cc39"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "f669b069214a8e88d17066ff6715fe131568cd190450ba408b4c2c5479a1a263"
 metafile = true
@@ -703,7 +713,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "96b6a9192639045bc5b2c0815ad33d1d754bf77e2f59bd96dd3bde21784d7704"
+hash = "5e70073ddf4020d9f4b705c23bf5e7332dbeebd31f291de81d36a652034f90ca"
 metafile = true
 
 [[files]]
@@ -1052,11 +1062,6 @@ hash = "ffe568b897efe6e8b3b8b6a56ec39bab55ee1ac16082d64dc08e364f09260292"
 metafile = true
 
 [[files]]
-file = "mods/platform.pw.toml"
-hash = "5beb6ef32d80ab0550baad15f1fd78f2c6168fcce4a18e14e23c47a1cc8ed099"
-metafile = true
-
-[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "a9769ced0531122518321833966d375196753db1c3a47b975aed4bb6837fae7a"
 metafile = true
@@ -1218,7 +1223,7 @@ metafile = true
 
 [[files]]
 file = "mods/tide.pw.toml"
-hash = "fc6449015cf45b954d094c38f0dcc869b1ed4689106e54ac8304d1efb3f35dbe"
+hash = "b29ce0e25ea549e1ee07a7a1dd9f143fcc26c7b180245b6a2e6239d21a3c7930"
 metafile = true
 
 [[files]]
@@ -1274,11 +1279,6 @@ metafile = true
 [[files]]
 file = "mods/unnamed-desert.pw.toml"
 hash = "6c5745a7749360b3a2d3cf6cd304b06c6388883d9ad432995f793eafb929fb67"
-metafile = true
-
-[[files]]
-file = "mods/vanillabackport.pw.toml"
-hash = "e17c2c575f2db23bb4e6cb7035093ec67f0c2189e7e3026075794579c6a05fd4"
 metafile = true
 
 [[files]]
@@ -1353,12 +1353,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d33719fa79b683a327acafbe1e2617482b5a3272fd471bb822a72314d3cd511f"
+hash = "f186401be01f7216a7bbd73c8e3e7cff96ab9db76d19029ee3be92f407b1b207"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "31938394e90226cd1529b7be0283394bf2eb7814a8e4f5488879bf75c6945ab8"
+hash = "9d9ab7248c5a9ed01ce3e23fba5c60139065e31d94452e3179b263ac4be535aa"
 metafile = true
 
 [[files]]
