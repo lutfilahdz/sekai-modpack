@@ -1,0 +1,13 @@
+name = "Hybrid Delights"
+filename = "[1.20.1] Hybrid Delights 1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WR49BBCu/versions/nyYS5l4Z/%5B1.20.1%5D%20Hybrid%20Delights%201.1.jar"
+hash-format = "sha512"
+hash = "37fffc1e56b2234849f5518052d68b37addb19fc93feb83bdb2a25d274b5c3be9449765fc9967f074714b076a0b9a485c0a0d3ddb0c4b6e1b386a585ce34ede0"
+
+[update]
+[update.modrinth]
+mod-id = "WR49BBCu"
+version = "nyYS5l4Z"

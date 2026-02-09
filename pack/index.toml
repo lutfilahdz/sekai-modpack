@@ -687,6 +687,16 @@ hash = "f57d03cf7f86ea07a85d94ac11c15c649a7ec8db67d772845609eca42c7af7d3"
 metafile = true
 
 [[files]]
+file = "mods/hybrid-aquatic.pw.toml"
+hash = "bdc2ffec4ec1ac56c72f7a84a442ed21804c9abca6f643ed705e84cc6398a03f"
+metafile = true
+
+[[files]]
+file = "mods/hybrid-delights.pw.toml"
+hash = "d8e4fc4c2baea0367638401c3d28d7aa1c91c26a49cb2adc5db897a40b50cc39"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "f669b069214a8e88d17066ff6715fe131568cd190450ba408b4c2c5479a1a263"
 metafile = true
@@ -1052,11 +1062,6 @@ hash = "ffe568b897efe6e8b3b8b6a56ec39bab55ee1ac16082d64dc08e364f09260292"
 metafile = true
 
 [[files]]
-file = "mods/platform.pw.toml"
-hash = "7b4a149bf31c1218d9e84bca160f1cd69a4ddc6c47a62ce9d772133d201719b4"
-metafile = true
-
-[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "a9769ced0531122518321833966d375196753db1c3a47b975aed4bb6837fae7a"
 metafile = true
@@ -1274,11 +1279,6 @@ metafile = true
 [[files]]
 file = "mods/unnamed-desert.pw.toml"
 hash = "6c5745a7749360b3a2d3cf6cd304b06c6388883d9ad432995f793eafb929fb67"
-metafile = true
-
-[[files]]
-file = "mods/vanillabackport.pw.toml"
-hash = "e17c2c575f2db23bb4e6cb7035093ec67f0c2189e7e3026075794579c6a05fd4"
 metafile = true
 
 [[files]]
