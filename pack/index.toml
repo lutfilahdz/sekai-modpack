@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "e6bbfb6647899ae04ed1a8e742b8b056369e4f97c92b29228003deb0ca8f23e6"
+hash = "5962887e1693ef8ccfb2328963a7076371af06a384ea0ea63b31377e02269f78"
 metafile = true
 
 [[files]]
@@ -1353,12 +1353,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "5a06bdc380bbbb332ec7a48e56a94ed376ba6110ba0a36ded7326cf6ddebcfec"
+hash = "f186401be01f7216a7bbd73c8e3e7cff96ab9db76d19029ee3be92f407b1b207"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "2f2e51977c837dad2049274b38c272fcc2fda02aebde172fbbfdd722bb3edd46"
+hash = "9d9ab7248c5a9ed01ce3e23fba5c60139065e31d94452e3179b263ac4be535aa"
 metafile = true
 
 [[files]]
