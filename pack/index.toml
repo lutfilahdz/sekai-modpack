@@ -1272,6 +1272,11 @@ hash = "d4973af17081ec2f1d5aabad778331459612fc95617cda5fbcafa79ea9384c43"
 metafile = true
 
 [[files]]
+file = "mods/trowel.pw.toml"
+hash = "0d9cc245eda2446b891b435fb2b7fb8d9dab6e8e55bfb07a21bb89ba3518be67"
+metafile = true
+
+[[files]]
 file = "mods/tt20.pw.toml"
 hash = "f8382fb7ab96faa147b573619c5da9872fa6abcce25982ac015ca737e7a73339"
 metafile = true
