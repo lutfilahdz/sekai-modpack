@@ -1230,6 +1230,11 @@ hash = "7512ad9cbcbe6f6b1abf4f6b9911636c9cef8bb966792a2f8ece795e08dbda4c"
 metafile = true
 
 [[files]]
+file = "mods/tab-was-taken.pw.toml"
+hash = "991a955c31119f851f6397dc489f536a4b4c963593485e05f3a5e6aa49c98d56"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
 metafile = true
