@@ -77,6 +77,11 @@ hash = "cc4c03200baa367d40720320336b692e6c4fe71edbea890e27210bb2cc42408c"
 metafile = true
 
 [[files]]
+file = "config/tab/config.pw.toml"
+hash = "c437df961808e241296cbfc9bfd1f03ee560b43554058a2adf4645af277f1e74"
+metafile = true
+
+[[files]]
 file = "config/tide.json"
 hash = "f52e017fc63fc4ee10dcedc19af378fe5416eee22352c9e82b9171debdea2fff"
 
@@ -197,11 +202,6 @@ metafile = true
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "333dfa2b93c688ce5f9f685f77cb62e5df8b9c8d21a2c4dd4eb9232aa85dccff"
-metafile = true
-
-[[files]]
-file = "mods/better-ping-display-fabric.pw.toml"
-hash = "8f54b2270c2d87b56a73b4355305cc4a4dd277330cad97d137b98073ec0d8e83"
 metafile = true
 
 [[files]]
