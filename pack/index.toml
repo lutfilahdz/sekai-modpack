@@ -652,11 +652,6 @@ hash = "dfe0fb2bcdb8a356dae8f654710b72ea9c532c7b05afee33186de068df492ffb"
 metafile = true
 
 [[files]]
-file = "mods/fragmentum.pw.toml"
-hash = "89d368b1cc75b60a57c158dde3c5c68b2561d146b0848914c97d499de434af3c"
-metafile = true
-
-[[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "2fcd17a965738c1649d434a0d5f8077321b4bb90a8c9d9d868d220d8bbd5abb3"
 metafile = true
@@ -1069,11 +1064,6 @@ metafile = true
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "9ad63ddb4586e2650aca101712f9d0f5efa14e5959965cb6e6fc6ad300e8c3ee"
-metafile = true
-
-[[files]]
-file = "mods/pillager-caravans.pw.toml"
-hash = "137b9511c7441387693d1b4e1d18857bdbfec3e198d047f13a0ecf8044e4f142"
 metafile = true
 
 [[files]]
