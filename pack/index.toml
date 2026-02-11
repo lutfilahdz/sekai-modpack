@@ -58,6 +58,10 @@ hash = "5f2d61cb838f9913e41b7e8149c1759c685a7539ab6278a844014e7ef6e3cbf2"
 metafile = true
 
 [[files]]
+file = "config/naturalist.json"
+hash = "4c9c56fc708799319d6c1b71c0f35eaaae6509408aa830b18342231ba24af95f"
+
+[[files]]
 file = "config/paxi/resourcepacks/colorful-nixies.pw.toml"
 hash = "28b4bafa3f7ce93e293ce15d0f23515b3e0b4f3046d2639847ac6ab17113e90d"
 metafile = true
@@ -120,6 +124,10 @@ metafile = true
 file = "config/yes_steve_model-common.pw.toml"
 hash = "85067b8317b4ee266547f37d4609de917289ecfcc611da8601dbc5561874817c"
 metafile = true
+
+[[files]]
+file = "kubejs/server_scripts/remove_recipe.js"
+hash = "153acef3a321e28e74b9173b4cec869c74bc1f259a65710f6700920f1b327e25"
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
@@ -272,6 +280,11 @@ hash = "fed6f66373bb06b6ff552c97cd9cdbdf78ec429320252619e563f9a4fb65feb9"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "d226ea199a740bff4e07877a952dc6972273fb92fcddd258a8989bfbede63a8d"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
@@ -284,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "b4fdf52d53ab71bf73282c5168e9526b6024740d82388d604d6947394e3c7f7f"
+metafile = true
+
+[[files]]
+file = "mods/connectiblechains.pw.toml"
+hash = "3542b275da06cfc103636f28171acc954792371dfbd308c58851335f474e4a42"
 metafile = true
 
 [[files]]
@@ -309,6 +327,11 @@ metafile = true
 [[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "1b272be2b56b60336ecef056cf9f0e35a77fc8a46c8a121887c736c6cfc180ce"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "10742d60f7069f58268b846ab1661842cc7613e8c6d96c03c341b8668a4ffc1e"
 metafile = true
 
 [[files]]
@@ -477,6 +500,11 @@ hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
 metafile = true
 
 [[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "a8aa09f4f156506ed902620637557fb3623084d5d994f7b4f1f01eb4a19916b6"
+metafile = true
+
+[[files]]
 file = "mods/dramatic-doors.pw.toml"
 hash = "8143c63aa2e53fd78ea83eddba9cfaa4c036141aae6604eb01d8f82dc5d03c99"
 metafile = true
@@ -553,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "2556f39fb6c19ae1d265b0dfcd51bfd45fea340e2915545aeaf6f0e34b3df7c6"
+hash = "91dab84ae147fd26d1b61456329b78e76ef4109c21ecf9f96b6f967618079ab7"
 metafile = true
 
 [[files]]
@@ -629,11 +657,6 @@ metafile = true
 [[files]]
 file = "mods/formations.pw.toml"
 hash = "dfe0fb2bcdb8a356dae8f654710b72ea9c532c7b05afee33186de068df492ffb"
-metafile = true
-
-[[files]]
-file = "mods/fragmentum.pw.toml"
-hash = "89d368b1cc75b60a57c158dde3c5c68b2561d146b0848914c97d499de434af3c"
 metafile = true
 
 [[files]]
@@ -824,6 +847,11 @@ metafile = true
 [[files]]
 file = "mods/ksyxis.pw.toml"
 hash = "98244dd3cf3bcc56edbc28e83f818a3a9e266b4a01d07d2c9550caf9193453ae"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
 metafile = true
 
 [[files]]
@@ -1052,11 +1080,6 @@ hash = "9ad63ddb4586e2650aca101712f9d0f5efa14e5959965cb6e6fc6ad300e8c3ee"
 metafile = true
 
 [[files]]
-file = "mods/pillager-caravans.pw.toml"
-hash = "137b9511c7441387693d1b4e1d18857bdbfec3e198d047f13a0ecf8044e4f142"
-metafile = true
-
-[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "ffe568b897efe6e8b3b8b6a56ec39bab55ee1ac16082d64dc08e364f09260292"
 metafile = true
@@ -1099,6 +1122,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "82c3a531c2180cd45f59e433315e31dc886c464a05ea38ea0b82ce1bc033c520"
 metafile = true
 
 [[files]]
@@ -1202,6 +1230,11 @@ hash = "7512ad9cbcbe6f6b1abf4f6b9911636c9cef8bb966792a2f8ece795e08dbda4c"
 metafile = true
 
 [[files]]
+file = "mods/tab-was-taken.pw.toml"
+hash = "991a955c31119f851f6397dc489f536a4b4c963593485e05f3a5e6aa49c98d56"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
 metafile = true
@@ -1259,6 +1292,11 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "d4973af17081ec2f1d5aabad778331459612fc95617cda5fbcafa79ea9384c43"
+metafile = true
+
+[[files]]
+file = "mods/trowel.pw.toml"
+hash = "0d9cc245eda2446b891b435fb2b7fb8d9dab6e8e55bfb07a21bb89ba3518be67"
 metafile = true
 
 [[files]]

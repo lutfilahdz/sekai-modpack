@@ -1,0 +1,8 @@
+name = "config/tab/config.yml (server)"
+filename = "config.yml"
+side = "server"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-modpack/main/server-files/config/tab/config.yml"
+hash-format = "sha512"
+hash = "4080788b89367cc46bf425c481040b7e457b2eff2939c339b1d5a45af3308daa8fa4c484f79e9033d41b31be024b33997fc9bd0dac00856c30c51ef496fdd73b"
