@@ -292,6 +292,11 @@ hash = "b4fdf52d53ab71bf73282c5168e9526b6024740d82388d604d6947394e3c7f7f"
 metafile = true
 
 [[files]]
+file = "mods/connectiblechains.pw.toml"
+hash = "3542b275da06cfc103636f28171acc954792371dfbd308c58851335f474e4a42"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
@@ -314,6 +319,11 @@ metafile = true
 [[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "1b272be2b56b60336ecef056cf9f0e35a77fc8a46c8a121887c736c6cfc180ce"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "10742d60f7069f58268b846ab1661842cc7613e8c6d96c03c341b8668a4ffc1e"
 metafile = true
 
 [[files]]
