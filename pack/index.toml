@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "0b5feeae74fe992084ec5cb12eab3404ddd5054e85c9006f7ba4d65f209de13f"
+hash = "0b304ca940d63b62df1d4c4bc05a90f4429c83c613509dd6521bf276529683fc"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/coolrain.pw.toml"
-hash = "e9dc56385abbcddd52dd4fe5b59aef354c363d6353ff3d8d271ee9b1624815f5"
+hash = "63894ab9f1b3ca74530b178c4e67a62e5a9729b6181e8e2db2dfbd28f41e971e"
 metafile = true
 
 [[files]]
@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "10742d60f7069f58268b846ab1661842cc7613e8c6d96c03c341b8668a4ffc1e"
+hash = "d8e661ae0f24fb32dc1fe9096e6acdf5e2801336aee7de0d9a479d167543cd83"
 metafile = true
 
 [[files]]
@@ -536,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "a763f10ac9de0fbdc4efaf6a998996c54213931cd9a393129f1ff3231fdf8cf9"
+hash = "b38a80fb1bb72759cebf627d5e160102c6eb2895528d6cb1db096eee092daad2"
 metafile = true
 
 [[files]]
@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "91dab84ae147fd26d1b61456329b78e76ef4109c21ecf9f96b6f967618079ab7"
+hash = "ba7e6bcc801252d8fc37d34998b0b47bfe912e30c411b1811fe79d9a183f7ca1"
 metafile = true
 
 [[files]]
@@ -1151,7 +1151,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "6225a36557ab2dfd1c4d3fb3c0868ed61c465d3246695b10ff10d339f65e3302"
+hash = "953bf8b7f1516c226bf80636b57941aa02557bc0a684d9c115440f52e46a8121"
 metafile = true
 
 [[files]]
