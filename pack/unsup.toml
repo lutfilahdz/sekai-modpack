@@ -41,7 +41,7 @@ choices = ["xaero_off", "xaero_on"]
 [flavor_groups.zoomify]
 name = "Zoomify"
 description = "Choose whether to use Zoomify, a mod that adds zoom functionality to the game."
-side = "both"
+side = "client"
 choices = ["zoomify_off", "zoomify_on"]
 
 [flavor_groups.distant_horizons]
