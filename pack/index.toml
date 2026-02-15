@@ -1260,11 +1260,6 @@ hash = "b19fd9ac623c231329f11d68b6c80d1c0bfcd129d426a611e5123c5e7959d195"
 metafile = true
 
 [[files]]
-file = "mods/tooltiprareness.pw.toml"
-hash = "3329b2396e69fc15a838e55c385c9805cd9b9c9732710bef942af0a6ee2c1713"
-metafile = true
-
-[[files]]
 file = "mods/torch-hit.pw.toml"
 hash = "e27699c3ebdfd4ce63e90e162d5c918485b0f59735b98b44ba13d50ab595e1a4"
 metafile = true
