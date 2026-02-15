@@ -9,11 +9,6 @@ file = "config/carryon-common.json"
 hash = "5637a6a61a4f968d4f3a8161d01a7ee7e72c4d30280486a3d8bda749a99a4a56"
 
 [[files]]
-file = "config/craftpresence.pw.toml"
-hash = "ee8ffe5e12c0129c23574ce85e7c9d1e5767484f91e83541b398a53b9800e682"
-metafile = true
-
-[[files]]
 file = "config/create-client.toml"
 hash = "4877aee40f7e40299b9756f638482fd30d3c0ef632bfbf443f8805157b5d5bf7"
 
@@ -322,11 +317,6 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "429284603e4c5ca44777cb4ce2455477fcc1eee4dc9a4ae2f759c4895bf332e7"
-metafile = true
-
-[[files]]
-file = "mods/craftpresence.pw.toml"
-hash = "1b272be2b56b60336ecef056cf9f0e35a77fc8a46c8a121887c736c6cfc180ce"
 metafile = true
 
 [[files]]
