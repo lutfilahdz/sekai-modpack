@@ -57,6 +57,11 @@ file = "config/naturalist.json"
 hash = "4c9c56fc708799319d6c1b71c0f35eaaae6509408aa830b18342231ba24af95f"
 
 [[files]]
+file = "config/paxi/resourcepack_load_order.pw.toml"
+hash = "8f716a0f2f2562e2b17ddbe4611103070388caa7d60cfc2c820c2afd7df4a4dc"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/colorful-nixies.pw.toml"
 hash = "28b4bafa3f7ce93e293ce15d0f23515b3e0b4f3046d2639847ac6ab17113e90d"
 metafile = true
@@ -67,8 +72,23 @@ hash = "ad0205b106664eebc1defd75c9c90faa9ac28d4598883d336f41816d833c30a4"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/fresh-animations.pw.toml"
+hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/freshly-modded.pw.toml"
+hash = "124ddc33e94633c1e14a1c6eaebee538a27bdfc9f5617f5c9c08d12849ebfe26"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/mt-ct-d.pw.toml"
 hash = "f52bcfb58f9988ad6abbcd25b770ec5e82669ccfd7aa80072c3e42ec2f9c458b"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/semos-animations-lib.pw.toml"
+hash = "5560461ed523fa49ddd3b3d0d115a8398259988bc0b517747440cb8cf596e990"
 metafile = true
 
 [[files]]
@@ -545,8 +565,18 @@ hash = "34a07ff5c170cd95eb586e3e40e65636eb4bbf283c24762055db6094b91de494"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "171419759aec842f5defe4237e24be8d6aa7c6e2a26703dc2e9d07e71412dfc4"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "7eefb0f3d1b793f7dc57ee7cf368d055c9b1bf3556f61179f38f1c49c163c1bd"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "f91ca238ef6d15fa97e284475eb454a17590e87ed4277e8b6462e1dce5924c66"
 metafile = true
 
 [[files]]
@@ -1452,6 +1482,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "d201155cab7c2a2cf940d91f240be769ac12046c2fc6a0774e225a8e51423ed0"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "8ccd17daba5bfc3c5ec95a7b143d4e65b5e723435921d2e201c5ff4270c80219"
 metafile = true
 
 [[files]]
