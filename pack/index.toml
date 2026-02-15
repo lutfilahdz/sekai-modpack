@@ -67,8 +67,8 @@ hash = "ad0205b106664eebc1defd75c9c90faa9ac28d4598883d336f41816d833c30a4"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/fusion-connected-glass.pw.toml"
-hash = "cc4c03200baa367d40720320336b692e6c4fe71edbea890e27210bb2cc42408c"
+file = "config/paxi/resourcepacks/mt-ct-d.pw.toml"
+hash = "f52bcfb58f9988ad6abbcd25b770ec5e82669ccfd7aa80072c3e42ec2f9c458b"
 metafile = true
 
 [[files]]
