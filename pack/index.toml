@@ -154,8 +154,8 @@ hash = "85067b8317b4ee266547f37d4609de917289ecfcc611da8601dbc5561874817c"
 metafile = true
 
 [[files]]
-file = "kubejs/server_scripts/remove_recipe.js"
-hash = "153acef3a321e28e74b9173b4cec869c74bc1f259a65710f6700920f1b327e25"
+file = "kubejs/server_scripts/recipes.js"
+hash = "ded6bb6b0f14712308b3b35dc49eac47509c54db4540686883908e618cd37e0a"
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
