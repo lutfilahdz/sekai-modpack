@@ -66,7 +66,7 @@ hash = "4c9c56fc708799319d6c1b71c0f35eaaae6509408aa830b18342231ba24af95f"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.pw.toml"
-hash = "8f716a0f2f2562e2b17ddbe4611103070388caa7d60cfc2c820c2afd7df4a4dc"
+hash = "f121ff3da03cff2eb325a078fd0f3b6171e4f26bdc6ed4cb403d11576eb9662d"
 metafile = true
 
 [[files]]
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "a0231bdd8723f272f8aa09c57c331eaa3abca78a5a4fb00fdfe0c9fca11920bf"
+hash = "8de0ae083b270355a932d1f139a181afe168fda6c0bbdb04f5532bda8e25ab4b"
 metafile = true
 
 [[files]]
