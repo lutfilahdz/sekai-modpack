@@ -1,8 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/antientitygrief.toml"
-hash = "3deae454603042cca46b213e6e3c7d47f443b0c06516f16d292e50c3e1c0e342"
+file = "config/InertiaAntiCheat/InertiaAntiCheat.pw.toml"
+hash = "9584e7521db9067171c7d7f67715c34f73aa6dbf6669192e382f9bff5f4b047a"
+metafile = true
+
+[[files]]
+file = "config/antientitygrief.pw.toml"
+hash = "3b8766dfaea7cf822650f9b2988d0d2c493427f0cf7c63d7bd7b8a4ce2669a36"
+metafile = true
 
 [[files]]
 file = "config/carryon-common.json"
@@ -17,12 +23,14 @@ file = "config/create-server.toml"
 hash = "db035283717017bcfb594b0baac1139fc5792d3f51af5ba9b9dabc92b1573284"
 
 [[files]]
-file = "config/creeperoverhaul.toml"
+file = "config/creeperoverhaul.pw.toml"
 hash = "6409dbfc8556467a2970b90e93fd92cece655cd9c221dbd7a293fac3dbf71e0f"
+metafile = true
 
 [[files]]
-file = "config/endermanoverhaul.toml"
+file = "config/endermanoverhaul.pw.toml"
 hash = "c6ff54b318c6a83b19a514b3bd22ee65628cb240e6dff9e08870e2d596b38a08"
+metafile = true
 
 [[files]]
 file = "config/enhanced_bes.pw.toml"

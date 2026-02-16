@@ -1,0 +1,8 @@
+name = "config/antientitygrief.json (server)"
+filename = "antientitygrief.json"
+side = "server"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-modpack/main/server-files/config/antientitygrief.json"
+hash-format = "sha512"
+hash = "57c1c028c5f79ad890bf3857c1c028c5f79ad890bf38c6262268026dc536074bc3d860eee4684c6d0f150afa474d61236fa001d6935af62f084f8c9dc69efb28bab676e81b1dea02bf3acfc6262268026dc536074bc3d860eee4684c6d0f150afa474d61236fa001d6935af62f084f8c9dc69efb28bab676e81b1dea02bf3acf"

@@ -1,0 +1,8 @@
+name = "config/InertiaAntiCheat/InertiaAntiCheat.toml (server)"
+filename = "InertiaAntiCheat.toml"
+side = "server"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-modpack/main/server-files/config/InertiaAntiCheat/InertiaAntiCheat.toml"
+hash-format = "sha512"
+hash = "9a1132107be1bca99c86ba3bc602dfbeb70f8a5ce48eb029ae21021d505901acb0c28f7795a3bf0a1c1435a70df15438a4033867b3a77a36388095fe6ff6ddad"
