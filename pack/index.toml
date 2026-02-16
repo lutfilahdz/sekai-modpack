@@ -793,11 +793,6 @@ hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
 
 [[files]]
-file = "mods/inertiaanticheat.pw.toml"
-hash = "e05d19d3f8f8fd547bf34b17c572620864aa52e2b5a3da8d2f7507b56fb91316"
-metafile = true
-
-[[files]]
 file = "mods/infinitybuttons.pw.toml"
 hash = "f06d859796e84c8ecbdbbabd07c988d8c9b94f4c4ee3ab7dcce9400e4d073a62"
 metafile = true
