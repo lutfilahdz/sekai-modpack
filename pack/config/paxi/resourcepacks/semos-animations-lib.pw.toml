@@ -1,0 +1,13 @@
+name = "Semos Animations Lib"
+filename = "Semos Animation Lib 1.1.5.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SY2QNRYK/versions/WgwP6ekJ/Semos%20Animation%20Lib%201.1.5.zip"
+hash-format = "sha512"
+hash = "e755d0f961cd682036bf569b91011147381c74546b1ffd2a7520df00316a9506280dada41790230c7d8a3e13f758a844021f8069928abddbc7e6563fa366838e"
+
+[update]
+[update.modrinth]
+mod-id = "SY2QNRYK"
+version = "WgwP6ekJ"
