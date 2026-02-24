@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/InertiaAntiCheat/InertiaAntiCheat.pw.toml"
-hash = "9584e7521db9067171c7d7f67715c34f73aa6dbf6669192e382f9bff5f4b047a"
-metafile = true
-
-[[files]]
 file = "config/antientitygrief.pw.toml"
 hash = "3deae454603042cca46b213e6e3c7d47f443b0c06516f16d292e50c3e1c0e342"
 metafile = true
@@ -59,10 +54,6 @@ metafile = true
 file = "config/moreculling.pw.toml"
 hash = "5f2d61cb838f9913e41b7e8149c1759c685a7539ab6278a844014e7ef6e3cbf2"
 metafile = true
-
-[[files]]
-file = "config/naturalist.json"
-hash = "4c9c56fc708799319d6c1b71c0f35eaaae6509408aa830b18342231ba24af95f"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.pw.toml"
