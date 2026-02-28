@@ -6,6 +6,10 @@ hash = "3deae454603042cca46b213e6e3c7d47f443b0c06516f16d292e50c3e1c0e342"
 metafile = true
 
 [[files]]
+file = "config/bcc.json"
+hash = "be54ce90e2aeaa241e793f5571a21db5c67625345cc64b48df143378631fcdec"
+
+[[files]]
 file = "config/carryon-common.json"
 hash = "5637a6a61a4f968d4f3a8161d01a7ee7e72c4d30280486a3d8bda749a99a4a56"
 
@@ -82,6 +86,42 @@ hash = "f52bcfb58f9988ad6abbcd25b770ec5e82669ccfd7aa80072c3e42ec2f9c458b"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/sekai-modded/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "49946c38eb27ca37dffda4c284d328fa308bee4daef88b9e35d1a0322f420e2d"
+
+[[files]]
+file = "config/paxi/resourcepacks/sekai-modded/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "afaa0a8e9fe367f409dc758cd545de5a06b6563419778e0ad00a2320aebe0de0"
+
+[[files]]
+file = "config/paxi/resourcepacks/sekai-modded/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "98deeba94e8dab8857e6d7d9ed643c48682d5f0adb09feeb37d4802dfd0346f9"
+
+[[files]]
+file = "config/paxi/resourcepacks/sekai-modded/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "917bafd2bba1b77d7452ceab6ff38f1cdf2dad255715bffb47d20a92797019b1"
+
+[[files]]
+file = "config/paxi/resourcepacks/sekai-modded/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "a56d16b54fd49f02c137334f3375bffa049f44a5598a0fea4e3df40ec992f777"
+
+[[files]]
+file = "config/paxi/resourcepacks/sekai-modded/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "24baf0165661781cffbcc203196768c424bcbe6a6d4c2df6fd41e049dc3fe026"
+
+[[files]]
+file = "config/paxi/resourcepacks/sekai-modded/assets/minecraft/textures/gui/title/edition.png"
+hash = "fc0979584a2509399854340772152f096175e3b37fff5b8f487f5006e2e3c909"
+
+[[files]]
+file = "config/paxi/resourcepacks/sekai-modded/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "9a88068bd44a3d964a7a3dc648608b41e34fadb10fd81c2d55a9a3a0952cecc5"
+
+[[files]]
+file = "config/paxi/resourcepacks/sekai-modded/pack.mcmeta"
+hash = "c0ec817c1551cde3c4c9db36133288a35335de1e15e5603aeefadd0946e5e85e"
+
+[[files]]
 file = "config/paxi/resourcepacks/semos-animations-lib.pw.toml"
 hash = "5560461ed523fa49ddd3b3d0d115a8398259988bc0b517747440cb8cf596e990"
 metafile = true
@@ -155,6 +195,11 @@ hash = "a2514b93ee462130af7905208c993847eda9eb7ddb4a244a34e912b445ae9b54"
 metafile = true
 
 [[files]]
+file = "mods/aileron.pw.toml"
+hash = "c631326a0c1333d1664315857d460cb3e1d5f3a54a75b8e6ac65944e93d2e455"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "6317bd1e6013059a52574d7002e744cd1d662ba345d019d75e37d384fd6060b0"
 metafile = true
@@ -202,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "d7dcbb9489b17fbe221d3a59ab2503293b219cee29d07a08aefbe32c5f3bf160"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "f060633ec58d2c5498c963d00de015e3946ee8a1bc1043f7bc4782ddcf44051f"
 metafile = true
 
 [[files]]
@@ -342,6 +392,11 @@ metafile = true
 [[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "d8e661ae0f24fb32dc1fe9096e6acdf5e2801336aee7de0d9a479d167543cd83"
+metafile = true
+
+[[files]]
+file = "mods/create-beamline.pw.toml"
+hash = "1f2d2569877b9ce0bc3f51e47f682d2d2c0dfd5300e440400bb79f80a8afcda7"
 metafile = true
 
 [[files]]
@@ -1065,6 +1120,11 @@ hash = "ffe568b897efe6e8b3b8b6a56ec39bab55ee1ac16082d64dc08e364f09260292"
 metafile = true
 
 [[files]]
+file = "mods/power-grid.pw.toml"
+hash = "865a84dcb09ebf16226649a1cede256da2efd15f579c81ae4c3ff34d02bfec90"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "a9769ced0531122518321833966d375196753db1c3a47b975aed4bb6837fae7a"
 metafile = true
@@ -1357,11 +1417,6 @@ metafile = true
 [[files]]
 file = "mods/wits.pw.toml"
 hash = "a2040008497c6e04280f6e6413098a9d46b41ee51df4486c4915578b9b9d1f60"
-metafile = true
-
-[[files]]
-file = "mods/worse-elytra.pw.toml"
-hash = "ba1e99685b0afd0890b4d00e33aaec4c2b46e841b9427b9af7b33e06b8b0385f"
 metafile = true
 
 [[files]]

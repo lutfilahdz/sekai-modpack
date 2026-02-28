@@ -1,0 +1,13 @@
+name = "Create: Beamline"
+filename = "create-beamline_fabric-1.0.0+mc-1.20.1-create-6.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZmrUepY5/versions/TLMa6YtW/create-beamline_fabric-1.0.0%2Bmc-1.20.1-create-6.0.7.jar"
+hash-format = "sha512"
+hash = "1ba891bf641baca9fcecc55cb0d9a848c6668646f9aae94a316f75533c6e76749f8f6121272c2145c6d439154475c2c1993494872a4190f112b674c1a929015a"
+
+[update]
+[update.modrinth]
+mod-id = "ZmrUepY5"
+version = "TLMa6YtW"
