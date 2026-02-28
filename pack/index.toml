@@ -935,11 +935,6 @@ hash = "62b5f6133f799c95d48314eef3e353b8689477f075e9f604a2566de03d593563"
 metafile = true
 
 [[files]]
-file = "mods/luckperms.pw.toml"
-hash = "ed322399f2f703b5cc9f6652d85e8eb215a53c7acbeef27964c0d6af7400561a"
-metafile = true
-
-[[files]]
 file = "mods/mastercutter.pw.toml"
 hash = "b4612aac2548a55f1edce6ca5d772956dc4a603217de6cd526dce9b1fbb46d8d"
 metafile = true
@@ -1190,6 +1185,11 @@ hash = "babadc51e87a1fb49ecfd06611810d6863f649de12da3cc4c657117bab9b1ee0"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "44c52091b8a96fb3bed74aaa62715db45d60adeb7ba54364b452e6202fdd812a"
+metafile = true
+
+[[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "e0047e26d3d4a5a290dc150e9a7c5c5f64cde9e6a0538eaa6f6060374349700f"
 metafile = true
@@ -1310,11 +1310,6 @@ hash = "6c5745a7749360b3a2d3cf6cd304b06c6388883d9ad432995f793eafb929fb67"
 metafile = true
 
 [[files]]
-file = "mods/vanish.pw.toml"
-hash = "f75ab965e4eb71aefb05a30a80433b94d582e6a68eb5e4d54a06dd43b0181244"
-metafile = true
-
-[[files]]
 file = "mods/village-healthcare.pw.toml"
 hash = "25d8753ab887d03addb3d254228eb5e33819c70cb1f3b8290319ba3a1ecfe9cd"
 metafile = true
@@ -1377,6 +1372,11 @@ metafile = true
 [[files]]
 file = "mods/wits.pw.toml"
 hash = "a2040008497c6e04280f6e6413098a9d46b41ee51df4486c4915578b9b9d1f60"
+metafile = true
+
+[[files]]
+file = "mods/worse-elytra.pw.toml"
+hash = "ba1e99685b0afd0890b4d00e33aaec4c2b46e841b9427b9af7b33e06b8b0385f"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Worse Elytra"
+filename = "worse_elytra-fabric-1.20.1-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jE8liuPn/versions/sUyGS6Io/worse_elytra-fabric-1.20.1-0.2.0.jar"
+hash-format = "sha512"
+hash = "b404393375c1103db56a3277a4000f9d13fc8ae81891b6c4545e0d86ac70b939499bbe9805643247e2f0cd8a8df05acb0ec8090b469949702f747d6e7d077c54"
+
+[update]
+[update.modrinth]
+mod-id = "jE8liuPn"
+version = "sUyGS6Io"
