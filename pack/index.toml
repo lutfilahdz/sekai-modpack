@@ -155,11 +155,6 @@ hash = "a2514b93ee462130af7905208c993847eda9eb7ddb4a244a34e912b445ae9b54"
 metafile = true
 
 [[files]]
-file = "mods/aileron.pw.toml"
-hash = "c631326a0c1333d1664315857d460cb3e1d5f3a54a75b8e6ac65944e93d2e455"
-metafile = true
-
-[[files]]
 file = "mods/almanac.pw.toml"
 hash = "6317bd1e6013059a52574d7002e744cd1d662ba345d019d75e37d384fd6060b0"
 metafile = true
@@ -362,11 +357,6 @@ metafile = true
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
 hash = "3d6a625aac6597da9972b8a825b720f2ebb2728cd99c6054b47157fa6ac04fcf"
-metafile = true
-
-[[files]]
-file = "mods/create-new-age.pw.toml"
-hash = "b018415c7ca72097be361ab9cb4701db64672530e98d2ea8262e559bafa948d0"
 metafile = true
 
 [[files]]
