@@ -33,10 +33,6 @@ hash = "507bcf61e5bca5eadbdd1ad21aa2a0055c7fcb02ef0c8c8d7ab56bf29558c354"
 metafile = true
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "b0b9371f3f5f19a5ad5a839db4e4ce8b1922a4833bfbb709e7bfe2e366a4f34a"
-
-[[files]]
 file = "config/genshinstrument-client.pw.toml"
 hash = "da147ec41c8c325bbf269347d00257c0e58439aef65d33ffe826ba148bfe5ca6"
 metafile = true
@@ -309,6 +305,16 @@ hash = "d4c8b0fcade7d1dcfc3a90cb41c798d1ba4a08e18f94d70d23d0c5c36b488cb6"
 metafile = true
 
 [[files]]
+file = "mods/colorwheel-patcher.pw.toml"
+hash = "56890db0b04b5a8dae7f1cc2f5ee3bd58cebd7ee43cebfa3d089a489d9359fda"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "2d930f0ccb89e8fbf2008d9ce3191e4591f8a67aba71b8a7b99c3ab425a4cae2"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "b4fdf52d53ab71bf73282c5168e9526b6024740d82388d604d6947394e3c7f7f"
 metafile = true
@@ -330,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "d5757b5acce4be94a2d5b06a877d82d30e16f59b6410ec1edeba6b54fe68d466"
+hash = "79d2d0db0f6cffec9bc3661d9a591ad379e041de1235239dba921f63f452eec7"
 metafile = true
 
 [[files]]
@@ -345,22 +351,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-deco.pw.toml"
-hash = "023532063fbf310dd047a33cf1afd06b0c4baf72da4dc23e78d1d599ad5dcccd"
-metafile = true
-
-[[files]]
-file = "mods/create-design-n-decor.pw.toml"
-hash = "80c5ee4c23d552b939a151d7f694c3d046792dc45ff6dd0dbfbc88d1a2ba77a7"
+hash = "8967141c407b288dbf1e54d452372013f81a90e77930266dea0a0118fd13bd9f"
 metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "e569d23d25afa6f42fb1b63925f07ed7babbfc586e9ea43279d1fa39c907bb12"
+hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
 metafile = true
 
 [[files]]
 file = "mods/create-framed.pw.toml"
-hash = "3134b2333e0bf28265af3578476ec35d31474e2d585c278219b6ea90ce63e3e0"
+hash = "e316a2da2966518eadc9181b78b5685d2d6996713d24d1eee73f0c9f1263a0a5"
 metafile = true
 
 [[files]]
@@ -370,22 +371,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-new-age.pw.toml"
-hash = "b3a030f23def9de3eac290171535a214af76b24228b263c91ad6d7503dc0fa9e"
+hash = "b018415c7ca72097be361ab9cb4701db64672530e98d2ea8262e559bafa948d0"
 metafile = true
 
 [[files]]
 file = "mods/create-pantographs-and-wires.pw.toml"
-hash = "5a58960a13ce300ad0dec7b0f0bbb4d2b284183f2ad7dd702bd398fee3d9fd4d"
-metafile = true
-
-[[files]]
-file = "mods/create-pattern-schematics.pw.toml"
-hash = "9fb24bae0eafc30b8272c39446f14052c94cf024706dccba661a9ddb1f0a4eae"
+hash = "fc37925f4ff4297b31191a568a8d4f09670264816fe8ce4b8e174d9a049affc4"
 metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "2840c63302d50d82eb9c82a73784bc18b3afb51c5834c088ba202277f90cb2c3"
+hash = "30f42bcdc561f8fb7544023795ce9e4017bb17de523b7b9e3940d6d04694bb00"
 metafile = true
 
 [[files]]
@@ -395,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "833965c26ba97f777499976a7be48937f71c4e9c4dd41b972a8d620b9eafb38b"
+hash = "2801e258fc6e9b96900865e1dce5bc9167f01e993b8aad2672b5d671d3524bf8"
 metafile = true
 
 [[files]]
@@ -406,16 +402,6 @@ metafile = true
 [[files]]
 file = "mods/create-toolbox-tooltip.pw.toml"
 hash = "33fba1af5c52c0d2331777cb3405f9c53b2800f6b92427471df8820c442bbc24"
-metafile = true
-
-[[files]]
-file = "mods/create-trainutilities.pw.toml"
-hash = "f9784ac1511b83e0e3bf7df5b2240170d41e01b285b2b4455ef702113451aa6a"
-metafile = true
-
-[[files]]
-file = "mods/create-tramways-hotfix.pw.toml"
-hash = "e3c965d0d9c20da9ebcd81f806c8c41a619dc13278c8eb314af07a588e7842c0"
 metafile = true
 
 [[files]]
@@ -515,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "8de0ae083b270355a932d1f139a181afe168fda6c0bbdb04f5532bda8e25ab4b"
+hash = "a0231bdd8723f272f8aa09c57c331eaa3abca78a5a4fb00fdfe0c9fca11920bf"
 metafile = true
 
 [[files]]
@@ -580,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/escalated.pw.toml"
-hash = "335645550e737e351dcbcf95cfb8b43ed4c2c633f8ba0a2eba25650632426d7f"
+hash = "bd53d70498bdf8529b0d4402706fc1791c508d4a6ae0d5676dbbdf1ed8786faa"
 metafile = true
 
 [[files]]
@@ -790,12 +776,7 @@ metafile = true
 
 [[files]]
 file = "mods/interiors.pw.toml"
-hash = "89cb4d35cc634bfd858b4851574d6b5333639e73aa8c1e79abed79207f7487ad"
-metafile = true
-
-[[files]]
-file = "mods/iris-flw-compat.pw.toml"
-hash = "8619be4a2d5da2deff6cee6ebda356c1a7fdf3a36d8b58d31cd6ddd5b1649ca1"
+hash = "e01aa3b603de9bdfbaf3a22b30494ee628a377a2326ff0dabcb7f7787ca63104"
 metafile = true
 
 [[files]]
@@ -825,7 +806,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
-hash = "0893e636dbc10c1515f12a77c74f88e40cb65a01cea67c167ce65be3f56c19cb"
+hash = "b28167f09bbcaca3fee27d748191ed19ce37b9382bb4ae693a20f415f80ed305"
 metafile = true
 
 [[files]]
@@ -1184,11 +1165,6 @@ hash = "26096d8f51d60a126b6b0fefa07a49d56e17b65107306b763822f9ebdaa8a33e"
 metafile = true
 
 [[files]]
-file = "mods/slice-and-dice.pw.toml"
-hash = "47493d398295964924d386d0fb866dac1a2d5e0cd4692b8436ea2552ce6c99f6"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "8ad07191dfdea31249b4416a390c1cdf1d4ff1938cf9f8a617f98f7a08c5356c"
 metafile = true
@@ -1300,7 +1276,7 @@ metafile = true
 
 [[files]]
 file = "mods/tramways.pw.toml"
-hash = "9bb03df7e39f3e373dcd7ae0bb27357060dcf2547673396320fe5f6d8ec1dac7"
+hash = "9383c0fd9033ae68e361170c7c6ae9586591d1b8d87f86b59ec877227059283c"
 metafile = true
 
 [[files]]
