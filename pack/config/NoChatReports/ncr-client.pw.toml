@@ -1,0 +1,8 @@
+name = "config/NoChatReports/NCR-Client.json (client)"
+filename = "NCR-Client.json"
+side = "client"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-modpack/main/client-files/config/NoChatReports/NCR-Client.json"
+hash-format = "sha512"
+hash = "b6e073daa6cce423f336342e877e87f1359fb2d3d58943d6a0e708be98754b77e231ef63dba57a79f6fa6d063b9515acc35f1106a85670bda956a765ed7b6aaa"

@@ -1,0 +1,13 @@
+name = "Server Rules"
+filename = "ServerRules-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1tSdJG3n/versions/BZ7kzSSq/ServerRules-1.0-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "832917282dde87ad0393c872921731d38ad81e3d5b2a9f7a984da115bf128d123dd01d09a5d034e974c8c2c361b853a9ecab3b3734dabd9f88c82c4143ad089a"
+
+[update]
+[update.modrinth]
+mod-id = "1tSdJG3n"
+version = "BZ7kzSSq"

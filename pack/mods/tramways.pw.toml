@@ -1,14 +1,13 @@
 name = "Create: Tramways"
-filename = "tramways-0.2.2-mc1.20.1-fabric-13.jar"
+filename = "tramways-0.3.3-mc1.20.1-fabric-18.jar"
 side = "both"
-pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/2CBZHBHo/versions/tSBwS8YO/tramways-0.2.2-mc1.20.1-fabric-13.jar"
+url = "https://cdn.modrinth.com/data/2CBZHBHo/versions/3UkOS4Iu/tramways-0.3.3-mc1.20.1-fabric-18.jar"
 hash-format = "sha512"
-hash = "fa87f5ad167b77b8758e3e6b6db9e62fa585ecfcac3680be691e920dd297f674f0deea43a715bf4b9bdc498066df45dfe7aedb140f96dd07b3fe7fe53d75ada3"
+hash = "cc90aeaf0b068dd2a2fdf55ffdb137835272ec51f927222f78a7827a0dfaa5e79ccc2c46ab53353127c72405cdb01cabec0dd261b3c8af66d30a0fe9c0267034"
 
 [update]
 [update.modrinth]
 mod-id = "2CBZHBHo"
-version = "tSBwS8YO"
+version = "3UkOS4Iu"
