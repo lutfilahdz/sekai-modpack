@@ -1230,7 +1230,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "26096d8f51d60a126b6b0fefa07a49d56e17b65107306b763822f9ebdaa8a33e"
+hash = "0d8a3108fe5bca3af46bc1eb50eab01800da95e11200ab06fb9e23ac12b19742"
 metafile = true
 
 [[files]]
