@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports/ncr-client.pw.toml"
+hash = "dbbc8694a0edce2582df7896e4393d1ea51de6e08aef25a76a510794c3b1f7cb"
+metafile = true
+
+[[files]]
 file = "config/antientitygrief.pw.toml"
 hash = "3deae454603042cca46b213e6e3c7d47f443b0c06516f16d292e50c3e1c0e342"
 metafile = true
@@ -127,6 +132,11 @@ hash = "5560461ed523fa49ddd3b3d0d115a8398259988bc0b517747440cb8cf596e990"
 metafile = true
 
 [[files]]
+file = "config/serverrules/config.pw.toml"
+hash = "244e710bef75940066326e03fdaab156b88376c2d3feccdb40f77ba9313f0c43"
+metafile = true
+
+[[files]]
 file = "config/tab/config.pw.toml"
 hash = "c437df961808e241296cbfc9bfd1f03ee560b43554058a2adf4645af277f1e74"
 metafile = true
@@ -181,8 +191,12 @@ hash = "85067b8317b4ee266547f37d4609de917289ecfcc611da8601dbc5561874817c"
 metafile = true
 
 [[files]]
+file = "item_obliterator.json5"
+hash = "aca4c824999dc7b7eb2a0f31b7ab38f6152d4d357f98557ae454b71fa8d23ef4"
+
+[[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "ded6bb6b0f14712308b3b35dc49eac47509c54db4540686883908e618cd37e0a"
+hash = "6d94745ca33d1091547c70d62b2a2cb4ca15d4d9dfa85822a27cdfcd1c4639ac"
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
@@ -835,6 +849,11 @@ hash = "80264d11a93ffb63f1592be06f8dcdf276bc5a6d2b666dfa9a5d2d10dfb29282"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "5dbbebb1be98bfa055096c70fcbf668553b736ad2f9d20a5ff2d2cafc40968c1"
+metafile = true
+
+[[files]]
 file = "mods/item-placer.pw.toml"
 hash = "457bc3ffe30b30e57348288acc19319cd1ef15f3b3e07c94faed7e3b58c34629"
 metafile = true
@@ -1172,6 +1191,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
+metafile = true
+
+[[files]]
+file = "mods/server-rules.pw.toml"
+hash = "1d69e07576f441f4ec88c113fcf776397ce6692e9600fbc4947b05b5842750c7"
 metafile = true
 
 [[files]]

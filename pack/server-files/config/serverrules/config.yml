@@ -1,0 +1,33 @@
+rules:
+  enabled: true
+  title: §6§lGeneral Server Rules
+  content: |
+    §b§lWelcome to our community server!
+
+    §fBy playing on this server, you agree to follow these rules:
+
+    §a§l1. §f§lThis server prioritizes intentional, creative, and immersive gameplay.
+    Building, exploration, and thoughtfully designed systems are valued over gameplay that bypasses challenge or progression.
+    §a§l2. §f§lPlayers must take care of the world and its environment.
+    This includes responsible terraforming, avoiding unnecessary destruction, and preserving natural or themed landscapes.
+    §a§l3. §f§lUnreasonable or disruptive creations are prohibited.
+    Any build or mechanism that disrupts immersion, server purpose, performance, or player experience is not allowed.
+    §a§l4. §f§lMob farms and automation-based resource exploits are strictly prohibited.
+    This includes iron golem farms, villager trading halls, AFK-based farms, and any form of mass-production or automated resource generation.
+    §a§l5. §f§lGriefing and PvP are not allowed without explicit and prior mutual consent.
+    Any form of damage, theft, or combat involving other players requires clear agreement from all parties involved.
+    §a§l6. §f§lUsing bugs, exploits, unintended mechanics, or chunk loaders is strictly prohibited.
+    Players are expected to play within intended game mechanics and server configurations.
+    §a§l7. §f§lAll players are equal without exception.
+    There are no exceptions based on rank, seniority, or role outside of formal moderation authority.
+
+    §c§lBreaking these rules may result in a warning,
+    §c§ltemporary suspension or permanent ban.
+
+    §e§lThank you for helping maintain a friendly community!
+  accept_button: I Accept
+  decline_button: I Decline
+  checkbox_text: I understand and accept the rules
+  declined_message: You must accept the rules to play on this server.
+  accepted_message: You have accepted the server rules. Welcome!
+  sending_error_message: 'Error sending rules: %error%'

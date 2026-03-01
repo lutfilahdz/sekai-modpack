@@ -1,0 +1,8 @@
+name = "config/serverrules/config.yml (server)"
+filename = "config.yml"
+side = "server"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-modpack/main/server-files/config/serverrules/config.yml"
+hash-format = "sha512"
+hash = "43a1f458ef7f9d05fe43b53da8556d38ce831e9ec9e39d8e5ce5d3168fbda417230c686e5fe708197e21b74bdbaa5c2a5598014a7f5956e9a878058e1c518947"
