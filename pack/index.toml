@@ -1204,11 +1204,6 @@ hash = "1d69e07576f441f4ec88c113fcf776397ce6692e9600fbc4947b05b5842750c7"
 metafile = true
 
 [[files]]
-file = "mods/servercore.pw.toml"
-hash = "058f62395b41a3b18121bcd961320cc8fd8460a34a5ccb4f07552e42ff19df4a"
-metafile = true
-
-[[files]]
 file = "mods/shifting-wares.pw.toml"
 hash = "c20896602301db52901aa53fc61ac77484d77dbdceb82c6ed165c30b939c1cc8"
 metafile = true
