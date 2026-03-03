@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "config/bcc.json"
-hash = "be54ce90e2aeaa241e793f5571a21db5c67625345cc64b48df143378631fcdec"
+hash = "e679d483f197fc4a5263db70014430b54adb6405759386e9da97c0f801a5be58"
 
 [[files]]
 file = "config/carryon-common.json"
@@ -1201,11 +1201,6 @@ metafile = true
 [[files]]
 file = "mods/server-rules.pw.toml"
 hash = "1d69e07576f441f4ec88c113fcf776397ce6692e9600fbc4947b05b5842750c7"
-metafile = true
-
-[[files]]
-file = "mods/servercore.pw.toml"
-hash = "058f62395b41a3b18121bcd961320cc8fd8460a34a5ccb4f07552e42ff19df4a"
 metafile = true
 
 [[files]]
