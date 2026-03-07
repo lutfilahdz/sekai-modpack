@@ -1,13 +1,13 @@
 name = "Create Toolbox Tooltip"
-filename = "createtoolboxtooltip-1.0.2+1.20.1-fabric.jar"
+filename = "createtoolboxtooltip-1.0.3+1.20.1-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Dzv48h3w/versions/dgg90qg5/createtoolboxtooltip-1.0.2%2B1.20.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/Dzv48h3w/versions/PiwZELJQ/createtoolboxtooltip-1.0.3%2B1.20.1-fabric.jar"
 hash-format = "sha512"
-hash = "eddf5fc2b02d276e5a3bb0cf9acab7f5ac4ee8287fcf44e3d5d229c7d6a078983abf95f92ed314b161080f2af351e646e3112414ffb4b414f24291202a842ab6"
+hash = "3457b564bd63a728f18af0eacd265bc3e58078044329ea94f762c6e453618a5f399ad4cf83233381c412e55a1b02d420dbf3581fb75c7a1e0fafa9fff3f42449"
 
 [update]
 [update.modrinth]
 mod-id = "Dzv48h3w"
-version = "dgg90qg5"
+version = "PiwZELJQ"
