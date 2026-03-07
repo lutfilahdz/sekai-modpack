@@ -179,6 +179,7 @@
       "mekanismgenerators:heat_generator",
       "mna:filler_block",
       "escalated:*",
+      "powergrid:*",
       "design_decor:stepped_lever",
       "copycats:copycat_door",
       "copycats:copycat_iron_door",
