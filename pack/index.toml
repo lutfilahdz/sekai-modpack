@@ -640,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "f7962ff0a28dbeef57fc1ded55b5834bb48c5b8ec3b3bcb2043b3237de0ad2f6"
+hash = "ba7e6bcc801252d8fc37d34998b0b47bfe912e30c411b1811fe79d9a183f7ca1"
 metafile = true
 
 [[files]]
