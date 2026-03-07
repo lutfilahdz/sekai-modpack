@@ -1,42 +1,28 @@
 [flavor_groups.package]
 name = "Preset"
-description = "Choose the mod preset that best suits your needs in Sekai Survival.\nEach preset is designed to enhance your gaming experience with different levels of optimization and features."
+description = "Choose the mod preset that best suits your needs in Sekai Survival.\nAvailable presets: Complete (full features) and Performance (essential mods with performance optimizations)."
 side = "both"
 [[flavor_groups.package.choices]]
 id = "package_complete"
 name = "Complete"
 description = "Complete preset with optimization and additional quality of life features for the best gaming experience.\nJust install and play without any hassle!"
 [[flavor_groups.package.choices]]
-id = "package_performance"
+id = "package_basic"
 name = "Performance"
 description = "Essential mods enhanced with performance optimization mods.\nPerfect for players who want better performance without extra features."
-[[flavor_groups.package.choices]]
-id = "package_basic"
-name = "Basic"
-description = "Essential mods required for server compatibility only.\nIdeal for players who prefer to add their own optimization and feature mods."
 
 [flavor_groups.rendering]
 name = "Rendering"
-description = "Choose your rendering setup. Sodium is a modern rendering engine that greatly improves performance. Iris allows you to use shaders for enhanced visual effects."
+description = "Choose your rendering setup. Both options use Sodium for performance optimization. Choose 'With Shaders' if you want to use shader packs for enhanced visuals."
 side = "client"
 [[flavor_groups.rendering.choices]]
 id = "rendering_iris"
-name = "Sodium + Iris"
-description = "Performance optimization with Sodium and its addons, plus shader support through Iris for enhanced visual effects."
+name = "With Shaders"
+description = "Sodium for performance optimization, plus Iris for shader pack support. Choose this if you want to use shaders for enhanced visual effects."
 [[flavor_groups.rendering.choices]]
 id = "rendering_sodium"
-name = "Sodium Only"
-description = "Performance optimization with Sodium and its addons for improved graphics settings and visual enhancements."
-[[flavor_groups.rendering.choices]]
-id = "rendering_off"
-name = "None"
-description = "No rendering enhancements."
-
-[flavor_groups.xaero]
-name = "Xaero's Maps"
-description = "Choose whether to use Xaero's Minimap and World Map, providing detailed navigation and map features for better exploration."
-side = "both"
-choices = ["xaero_off", "xaero_on"]
+name = "Without Shaders"
+description = "Sodium for performance optimization with additional graphics settings. Best for lower-end PCs or players who don't use shader packs."
 
 [flavor_groups.zoomify]
 name = "Zoomify"
@@ -145,33 +131,35 @@ flavors = "package_complete"
 [metafile.eating-animation]
 flavors = "package_complete"
 [metafile.lithium]
-flavors = ["package_complete", "package_performance"]
+flavors = ["package_complete", "package_basic"]
 [metafile.ferrite-core]
-flavors = ["package_complete", "package_performance"]
+flavors = ["package_complete", "package_basic"]
 [metafile.entityculling]
-flavors = ["package_complete", "package_performance"]
+flavors = ["package_complete", "package_basic"]
 [metafile.ebe]
-flavors = ["package_complete", "package_performance"]
+flavors = ["package_complete", "package_basic"]
 [metafile.immediatelyfast]
-flavors = ["package_complete", "package_performance"]
+flavors = ["package_complete", "package_basic"]
 [metafile.c2me-fabric]
-flavors = ["package_complete", "package_performance"]
+flavors = ["package_complete", "package_basic"]
 [metafile.noisium]
-flavors = ["package_complete", "package_performance"]
+flavors = ["package_complete", "package_basic"]
 [metafile.modernfix]
-flavors = ["package_complete", "package_performance"]
+flavors = ["package_complete", "package_basic"]
 [metafile.badoptimizations]
-flavors = ["package_complete", "package_performance"]
+flavors = ["package_complete", "package_basic"]
 [metafile.moreculling]
-flavors = ["package_complete", "package_performance"]
+flavors = ["package_complete", "package_basic"]
 [metafile.vmp-fabric]
-flavors = ["package_complete", "package_performance"]
+flavors = ["package_complete", "package_basic"]
 [metafile.threadtweak]
-flavors = ["package_complete", "package_performance"]
+flavors = ["package_complete", "package_basic"]
 
 [metafile.iris]
 flavors = "rendering_iris"
-[metafile.iris-flw-compat]
+[metafile.colorwheel]
+flavors = "rendering_iris"
+[metafile.colorwheel-patcher]
 flavors = "rendering_iris"
 [metafile.sodium]
 flavors = ["rendering_iris", "rendering_sodium"]
@@ -183,11 +171,6 @@ flavors = ["rendering_iris", "rendering_sodium"]
 flavors = ["rendering_iris", "rendering_sodium"]
 [metafile.reeses-sodium-options]
 flavors = ["rendering_iris", "rendering_sodium"]
-
-[metafile.xaeros-minimap]
-flavors = "xaero_on"
-[metafile.xaeros-world-map]
-flavors = "xaero_on"
 
 [metafile.zoomify]
 flavors = "zoomify_on"
