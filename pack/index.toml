@@ -1388,7 +1388,7 @@ metafile = true
 
 [[files]]
 file = "mods/unnamed-desert.pw.toml"
-hash = "6c5745a7749360b3a2d3cf6cd304b06c6388883d9ad432995f793eafb929fb67"
+hash = "aaf2bb354facfb4b9a40fbb3b901453d5edd142113a3cb7ef64868f2f1bcfb6d"
 metafile = true
 
 [[files]]
