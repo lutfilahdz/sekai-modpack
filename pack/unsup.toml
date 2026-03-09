@@ -16,13 +16,13 @@ name = "Rendering"
 description = "Choose your rendering setup. Both options use Sodium for performance optimization. Choose 'With Shaders' if you want to use shader packs for enhanced visuals."
 side = "client"
 [[flavor_groups.rendering.choices]]
-id = "rendering_iris"
+id = "shaders_on"
 name = "With Shaders"
 description = "Sodium for performance optimization, plus Iris for shader pack support. Choose this if you want to use shaders for enhanced visual effects."
 [[flavor_groups.rendering.choices]]
-id = "rendering_sodium"
+id = "shaders_off"
 name = "Without Shaders"
-description = "Sodium for performance optimization with additional graphics settings. Best for lower-end PCs or players who don't use shader packs."
+description = "Sodium for performance optimization, without Iris. Choose this if you don't want to use shaders and prefer a simpler setup with potentially better performance."
 
 [flavor_groups.distant_horizons]
 name = "Distant Horizons"
@@ -142,47 +142,35 @@ flavors = "package_complete"
 flavors = "package_complete"
 [metafile.eating-animation]
 flavors = "package_complete"
-[metafile.lithium]
-flavors = ["package_complete", "package_basic"]
-[metafile.ferrite-core]
-flavors = ["package_complete", "package_basic"]
-[metafile.entityculling]
-flavors = ["package_complete", "package_basic"]
-[metafile.ebe]
-flavors = ["package_complete", "package_basic"]
-[metafile.immediatelyfast]
-flavors = ["package_complete", "package_basic"]
-[metafile.c2me-fabric]
-flavors = ["package_complete", "package_basic"]
-[metafile.noisium]
-flavors = ["package_complete", "package_basic"]
-[metafile.modernfix]
-flavors = ["package_complete", "package_basic"]
-[metafile.badoptimizations]
-flavors = ["package_complete", "package_basic"]
-[metafile.moreculling]
-flavors = ["package_complete", "package_basic"]
-[metafile.vmp-fabric]
-flavors = ["package_complete", "package_basic"]
-[metafile.threadtweak]
-flavors = ["package_complete", "package_basic"]
+[metafile.particle-effects]
+flavors = "package_complete"
+[metafile.particle-rain]
+flavors = "package_complete"
+[metafile.smooth-swapping]
+flavors = "package_complete"
+[metafile.chatanimation]
+flavors = "package_complete"
+[metafile.make_bubbles_pop]
+flavors = "package_complete"
+[metafile.smooth-scroll]
+flavors = "package_complete"
+[metafile.a-good-place]
+flavors = "package_complete"
+[metafile.inventory-particles]
+flavors = "package_complete"
+[metafile.mossylib]
+flavors = "package_complete"
+[metafile.inventory-interactions]
+flavors = "package_complete"
+[metafile.pandas-extra-details]
+flavors = "package_complete"
 
 [metafile.iris]
-flavors = "rendering_iris"
+flavors = "shaders_on"
 [metafile.colorwheel]
-flavors = "rendering_iris"
+flavors = "shaders_on"
 [metafile.colorwheel-patcher]
-flavors = "rendering_iris"
-[metafile.sodium]
-flavors = ["rendering_iris", "rendering_sodium"]
-[metafile.indium]
-flavors = ["rendering_iris", "rendering_sodium"]
-[metafile.sodium-extra]
-flavors = ["rendering_iris", "rendering_sodium"]
-[metafile.sodium-shadowy-path-blocks]
-flavors = ["rendering_iris", "rendering_sodium"]
-[metafile.reeses-sodium-options]
-flavors = ["rendering_iris", "rendering_sodium"]
+flavors = "shaders_on"
 
 [metafile.distanthorizons]
 flavors = "distant_horizons_on"

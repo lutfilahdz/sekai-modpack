@@ -207,6 +207,11 @@ file = "kubejs/server_scripts/recipes.js"
 hash = "6d94745ca33d1091547c70d62b2a2cb4ca15d4d9dfa85822a27cdfcd1c4639ac"
 
 [[files]]
+file = "mods/a-good-place.pw.toml"
+hash = "0a2edb39ff2b27d1fa33f9f651c83b9babea2caf6fecf61054ca05238f0e4fcd"
+metafile = true
+
+[[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
 hash = "3b87f6113f1304c82ad4efedbf049c239548be6e642acd63d82020504f5b0953"
 metafile = true
@@ -342,6 +347,11 @@ hash = "05be4c88b90acf7ef0657e14542fbe3ce799cc86886f310f887ea24e8c6f20fd"
 metafile = true
 
 [[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "2656e2cfbe0cd3f1a10e682dfd5a488624cbff28bfb428ba10f4a96974e76d8a"
+metafile = true
+
+[[files]]
 file = "mods/chefs-delight.pw.toml"
 hash = "8d2e29579e022c0eb9d2ba081e610d089375d801563d582cedbd5caefde0c372"
 metafile = true
@@ -359,6 +369,11 @@ metafile = true
 [[files]]
 file = "mods/cicada.pw.toml"
 hash = "d226ea199a740bff4e07877a952dc6972273fb92fcddd258a8989bfbede63a8d"
+metafile = true
+
+[[files]]
+file = "mods/clickthrough.pw.toml"
+hash = "2c8098a9ca0e6b4d786f0cbba13fea2d55558b0b5f383b2a8115a52564564c0a"
 metafile = true
 
 [[files]]
@@ -524,6 +539,11 @@ metafile = true
 [[files]]
 file = "mods/delightful-creators.pw.toml"
 hash = "541a5b9aa01cff808c7a3347abb51beccfecca2565626964074cc59b310c0c71"
+metafile = true
+
+[[files]]
+file = "mods/detail-armor-bar.pw.toml"
+hash = "deeaa932ef85c1717f3c0894e99790f763ec478ff84ed3cc3d9b8d5836fcf687"
 metafile = true
 
 [[files]]
@@ -837,6 +857,16 @@ hash = "e01aa3b603de9bdfbaf3a22b30494ee628a377a2326ff0dabcb7f7787ca63104"
 metafile = true
 
 [[files]]
+file = "mods/inventory-interactions.pw.toml"
+hash = "0478b753bf2fd42051d5b62abd2eacf14e7bb663cdd682178f52e0478537bb3a"
+metafile = true
+
+[[files]]
+file = "mods/inventory-particles.pw.toml"
+hash = "a07a79a0721f6a316ace485c4d29a58c0779adf87ac2c78dc1ed0afd10fb77a8"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
@@ -1002,6 +1032,11 @@ hash = "62b5f6133f799c95d48314eef3e353b8689477f075e9f604a2566de03d593563"
 metafile = true
 
 [[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "f531a8ee70e9d78ee62a84e3fd18088070dcf8f2cee2384a8aabed16dbfafe6c"
+metafile = true
+
+[[files]]
 file = "mods/mastercutter.pw.toml"
 hash = "b4612aac2548a55f1edce6ca5d772956dc4a603217de6cd526dce9b1fbb46d8d"
 metafile = true
@@ -1059,6 +1094,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "2609e810b17cc48f058964da71925ed2c7fc37967c6fa5c99a880ee42a3dfae0"
+metafile = true
+
+[[files]]
+file = "mods/mossylib.pw.toml"
+hash = "8e19fac5a799454211b0246cfb6967098f593b4d6b1693d5377a52f14181d795"
 metafile = true
 
 [[files]]
@@ -1122,8 +1162,23 @@ hash = "ff7cba9f585ee04471d6c3fefc2a2117c372bb5c94c8001c6d24c99bd4fb0c9a"
 metafile = true
 
 [[files]]
+file = "mods/pandas-extra-details.pw.toml"
+hash = "1821b703e694867e00dc7afed6601580faea1ee4d1017bba9b9d799c977c0a79"
+metafile = true
+
+[[files]]
 file = "mods/pandas-falling-trees.pw.toml"
 hash = "ae10e438adf5bf2cbe4cfc183ab247a61f2bf1483028c840d388d9152fc5e49d"
+metafile = true
+
+[[files]]
+file = "mods/particle-effects.pw.toml"
+hash = "416b46fc5c69d7ca02932d2723c1240e6a6148b1dcca0e8e0be094ab6c156b5d"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "f3bab783572f7f0ced3db8bc8b0111540d4fbb2e08d7c378d531f76712ca688d"
 metafile = true
 
 [[files]]
@@ -1242,6 +1297,16 @@ hash = "0d8a3108fe5bca3af46bc1eb50eab01800da95e11200ab06fb9e23ac12b19742"
 metafile = true
 
 [[files]]
+file = "mods/smooth-scroll.pw.toml"
+hash = "f985288dc5af3c5fde96f303509839f1836c2a9716c321eb7910b90563413aa3"
+metafile = true
+
+[[files]]
+file = "mods/smooth-swapping.pw.toml"
+hash = "e015878053e1a5bd2874eeda7fdf8447f1e1a110e8ceaab4fde9c38449468796"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "8ad07191dfdea31249b4416a390c1cdf1d4ff1938cf9f8a617f98f7a08c5356c"
 metafile = true
@@ -1339,6 +1404,11 @@ metafile = true
 [[files]]
 file = "mods/timeoutout.pw.toml"
 hash = "e7d7d775847e0dba0303056d4ad11ffda536b7851b443e5d5799afb23ecefa5f"
+metafile = true
+
+[[files]]
+file = "mods/tool-stats.pw.toml"
+hash = "5fde6bebfcee94c193296988075de903d137c991ea7dafee6f26d49b75deca85"
 metafile = true
 
 [[files]]
@@ -1444,6 +1514,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "c709708a11f117743c086f16de67701eb35bfad331826960398bb1e64ea4d35f"
+metafile = true
+
+[[files]]
+file = "mods/whats-that-slot.pw.toml"
+hash = "cc30824b16f3aecfb56c8d0e7e7c2d6c8a05e70d6b9ae7af94073c6305f915e6"
 metafile = true
 
 [[files]]
