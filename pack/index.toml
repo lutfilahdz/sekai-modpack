@@ -859,6 +859,11 @@ hash = "01651c0cba9c33801c0e286ab81313c98228a3871862e4c60e357c8dd6b5a111"
 metafile = true
 
 [[files]]
+file = "mods/ixeris.pw.toml"
+hash = "4e4f32d10bc8bc6c910a25154acbe2ab942adbc74c20d8c735fec12d7824e9f8"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-fabric.pw.toml"
 hash = "b28167f09bbcaca3fee27d748191ed19ce37b9382bb4ae693a20f415f80ed305"
 metafile = true
