@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherry-villages.pw.toml"
-hash = "ebd2d7b9f6991d780b9b3d1c8fd5f549ac1886ce9459d67c7f6a5aae4f1c3ad4"
+hash = "c18b66c242f4c005c7fbf4de42b27e7681769d75e90461ac0ccd817666750a20"
 metafile = true
 
 [[files]]
