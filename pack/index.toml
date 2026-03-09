@@ -1308,7 +1308,7 @@ metafile = true
 
 [[files]]
 file = "mods/tab-was-taken.pw.toml"
-hash = "6ba52aa8b3a190575cc25e26cb5242d5a1dd06d4a994c8b53230b8156c9744aa"
+hash = "2650b1a87673cb0e6d79cc66e1e6f294e1b7facb1882b38d32522cebfa6e3fc2"
 metafile = true
 
 [[files]]
