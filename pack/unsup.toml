@@ -162,8 +162,6 @@ flavors = "package_complete"
 flavors = "package_complete"
 [metafile.inventory-interactions]
 flavors = "package_complete"
-[metafile.pandas-extra-details]
-flavors = "package_complete"
 
 [metafile.iris]
 flavors = "shaders_on"
