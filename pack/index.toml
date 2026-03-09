@@ -837,11 +837,6 @@ hash = "d00804e18277945dda73f59796c1932862ceb96aac073a92b7a66ef92b4cf3bd"
 metafile = true
 
 [[files]]
-file = "mods/immersive-hotbar.pw.toml"
-hash = "a4b6a816a2c211691e9447bd6e5c8a3485da3e5926b0212d26cdb95514ddaa92"
-metafile = true
-
-[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "5e70073ddf4020d9f4b705c23bf5e7332dbeebd31f291de81d36a652034f90ca"
 metafile = true
