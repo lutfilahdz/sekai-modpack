@@ -1,0 +1,13 @@
+name = "Allow Portal GUIs"
+filename = "allow-portal-guis-1.0.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UVHxud51/versions/E331tc7j/allow-portal-guis-1.0.8.jar"
+hash-format = "sha512"
+hash = "eb71d8ddb3f50913cab6380bcf40d86742c4158595316b9d7097a8440c1a2e1a2d09f3c7ac55250ff443460ebf1ca52de2278bf85a3e594e4916f1c659f1e482"
+
+[update]
+[update.modrinth]
+mod-id = "UVHxud51"
+version = "E331tc7j"

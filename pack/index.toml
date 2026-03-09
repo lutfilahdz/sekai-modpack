@@ -227,6 +227,11 @@ hash = "c631326a0c1333d1664315857d460cb3e1d5f3a54a75b8e6ac65944e93d2e455"
 metafile = true
 
 [[files]]
+file = "mods/allow-portal-guis.pw.toml"
+hash = "f32ef43a8b795217612fea8f8e2d87f7ed0c85d9a726e564c6286ad4135d2a83"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "6317bd1e6013059a52574d7002e744cd1d662ba345d019d75e37d384fd6060b0"
 metafile = true
@@ -349,6 +354,11 @@ metafile = true
 [[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "2656e2cfbe0cd3f1a10e682dfd5a488624cbff28bfb428ba10f4a96974e76d8a"
+metafile = true
+
+[[files]]
+file = "mods/chatwalk.pw.toml"
+hash = "935e3fc9ea41b56a257336a04ea6c2b47fa3b8dacc69c25286d262aebd6198ca"
 metafile = true
 
 [[files]]
@@ -674,6 +684,11 @@ metafile = true
 [[files]]
 file = "mods/explorify.pw.toml"
 hash = "d93c3c494955dfc44e2590ded2ee8414d582e87f2fca00575f08576ae2197d57"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "85e012f1e3fa929ed32f3ce347c9f26606e80393ed30988553a656fd8003900b"
 metafile = true
 
 [[files]]

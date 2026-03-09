@@ -79,9 +79,10 @@ flavors = "package_complete"
 flavors = "package_complete"
 [metafile.dripsounds]
 flavors = "package_complete"
+
 [metafile.cameraoverhaul]
 flavors = "package_complete"
-[metafile.lambdynamiclights]
+[metafile.stendhal]
 flavors = "package_complete"
 [metafile.held-item-info]
 flavors = "package_complete"
@@ -91,33 +92,33 @@ flavors = "package_complete"
 flavors = "package_complete"
 [metafile.item-borders]
 flavors = "package_complete"
-[metafile.effecttimerplus]
-flavors = "package_complete"
-[metafile.stendhal]
-flavors = "package_complete"
-[metafile.eating-animation]
-flavors = "package_complete"
-[metafile.particle-effects]
-flavors = "package_complete"
-[metafile.particle-rain]
+[metafile.chatanimation]
 flavors = "package_complete"
 [metafile.smooth-swapping]
 flavors = "package_complete"
-[metafile.chatanimation]
-flavors = "package_complete"
-[metafile.make_bubbles_pop]
-flavors = "package_complete"
 [metafile.smooth-scroll]
-flavors = "package_complete"
-[metafile.a-good-place]
-flavors = "package_complete"
-[metafile.mining-quakes]
-flavors = "package_complete"
-[metafile.tiny-item-animations]
 flavors = "package_complete"
 [metafile.smooth-gui]
 flavors = "package_complete"
-[metafile.immersive-hotbar]
+[metafile.tiny-item-animations]
+flavors = "package_complete"
+[metafile.eating-animation]
+flavors = "package_complete"
+
+[metafile.lambdynamiclights]
+flavors = "package_complete"
+[metafile.particle-effects]
+flavors = "package_complete"
+[metafile.make_bubbles_pop]
+flavors = "package_complete"
+[metafile.particle-rain]
+flavors = "package_complete"
+[metafile.explosive-enhancement]
+flavors = "package_complete"
+
+[metafile.a-good-place]
+flavors = "package_complete"
+[metafile.mining-quakes]
 flavors = "package_complete"
 
 [metafile.iris]
