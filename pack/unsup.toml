@@ -126,7 +126,7 @@ flavors = "package_complete"
 flavors = "package_complete"
 [metafile.item-borders]
 flavors = "package_complete"
-[metafile.status-effect-bars]
+[metafile.effecttimerplus]
 flavors = "package_complete"
 [metafile.stendhal]
 flavors = "package_complete"

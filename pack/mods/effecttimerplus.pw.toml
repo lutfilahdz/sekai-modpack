@@ -1,0 +1,13 @@
+name = "Effect Timer Plus"
+filename = "EffectTimerPlus-Fabric-1.20.1-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JIUF2Wb5/versions/gdKGYas3/EffectTimerPlus-Fabric-1.20.1-1.1.1.jar"
+hash-format = "sha512"
+hash = "99629a5b013353d91a8c3c877fcfb023fd32e1cef2e4c6f0f4feb057f6b84069fd1c6a8bf77146e9d701ad8cf1f008a34665c1d28cd9df3509949d7b378ddcb8"
+
+[update]
+[update.modrinth]
+mod-id = "JIUF2Wb5"
+version = "gdKGYas3"
