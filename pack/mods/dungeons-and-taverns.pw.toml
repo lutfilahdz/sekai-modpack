@@ -1,6 +1,6 @@
 name = "Dungeons and Taverns"
 filename = "dungeons-and-taverns-3.0.3.f.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/tpehi7ww/versions/d1sY0JqV/dungeons-and-taverns-3.0.3.f.jar"

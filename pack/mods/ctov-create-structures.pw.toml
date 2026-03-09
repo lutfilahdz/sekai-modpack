@@ -1,6 +1,6 @@
 name = "CTOV - Create: Structures"
 filename = "ctov-create-structures-1.0.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/l9fldtN4/versions/hwClzDIs/ctov-create-structures-1.0.jar"

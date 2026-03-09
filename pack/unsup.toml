@@ -16,13 +16,19 @@ name = "Rendering"
 description = "Choose your rendering setup. Both options use Sodium for performance optimization. Choose 'With Shaders' if you want to use shader packs for enhanced visuals."
 side = "client"
 [[flavor_groups.rendering.choices]]
-id = "rendering_iris"
+id = "shaders_on"
 name = "With Shaders"
 description = "Sodium for performance optimization, plus Iris for shader pack support. Choose this if you want to use shaders for enhanced visual effects."
 [[flavor_groups.rendering.choices]]
-id = "rendering_sodium"
+id = "shaders_off"
 name = "Without Shaders"
-description = "Sodium for performance optimization with additional graphics settings. Best for lower-end PCs or players who don't use shader packs."
+description = "Sodium for performance optimization, without Iris. Choose this if you don't want to use shaders and prefer a simpler setup with potentially better performance."
+
+[flavor_groups.distant_horizons]
+name = "Distant Horizons"
+description = "Choose whether to enable Distant Horizons, a mod that adds Level of Detail (LOD) rendering to see much farther with minimal performance impact.\nThe server supports Distant Horizons, so chunks will be downloaded from the server on first join instead of being rendered manually, much more convenient and less demanding.\nWARNING: Will download A LOT OF DATA on first join and may cause temporary high ping."
+side = "both"
+choices = ["distant_horizons_off", "distant_horizons_on"]
 
 [flavor_groups.zoomify]
 name = "Zoomify"
@@ -30,11 +36,17 @@ description = "Choose whether to use Zoomify, a mod that adds zoom functionality
 side = "client"
 choices = ["zoomify_off", "zoomify_on"]
 
-[flavor_groups.distant_horizons]
-name = "Distant Horizons"
-description = "Choose whether to enable Distant Horizons, a mod that adds Level of Detail (LOD) rendering to see much farther with minimal performance impact.\nThe server supports Distant Horizons, so chunks will be downloaded from the server on first join instead of being rendered manually, much more convenient and less demanding.\nWARNING: Will download A LOT OF DATA on first join and may cause temporary high ping."
+[flavor_groups.block_meter]
+name = "Block Meter"
+description = "Choose whether to use Block Meter, a mod that displays information about the block you are looking at."
 side = "both"
-choices = ["distant_horizons_off", "distant_horizons_on"]
+choices = ["block_meter_off", "block_meter_on"]
+
+[flavor_groups.data_saver]
+name = "Data Saver Mode"
+description = "Choose whether to use Data Saver Mode, will disable mods that consume a lot of data, such as:\n- What Are They Up To (Watut)\nRecommended for players with slow or limited internet connections, or those who want to reduce data usage while playing on the server."
+side = "both"
+choices = ["data_saver_off", "data_saver_on"]
 
 [metafile.enhanced-boss-bars]
 flavors = "package_complete"
@@ -54,6 +66,7 @@ flavors = "package_complete"
 flavors = "package_complete"
 [metafile.resourcepack_load_order]
 flavors = "package_complete"
+
 [metafile.sound-physics-remastered]
 flavors = "package_complete"
 [metafile.ambientsounds]
@@ -66,45 +79,10 @@ flavors = "package_complete"
 flavors = "package_complete"
 [metafile.dripsounds]
 flavors = "package_complete"
-[metafile.jei]
-flavors = "package_complete"
-[metafile.justenoughbreeding]
-flavors = "package_complete"
-[metafile.just-enough-professions-jep]
-flavors = "package_complete"
-[metafile.just-enough-effect-descriptions-jeed]
-flavors = "package_complete"
-[metafile.just-enough-beacons-reforged]
-flavors = "package_complete"
-[metafile.mouse-tweaks]
-flavors = "package_complete"
-[metafile.controlling]
-flavors = "package_complete"
-[metafile.better-third-person]
-flavors = "package_complete"
+
 [metafile.cameraoverhaul]
 flavors = "package_complete"
-[metafile.modelfix]
-flavors = "package_complete"
-[metafile.lambdynamiclights]
-flavors = "package_complete"
-[metafile.jade]
-flavors = "package_complete"
-[metafile.jade-addons-fabric]
-flavors = "package_complete"
-[metafile.your-reputation]
-flavors = "package_complete"
-[metafile.appleskin]
-flavors = "package_complete"
-[metafile.enchantment-descriptions]
-flavors = "package_complete"
-[metafile.effect-descriptions]
-flavors = "package_complete"
-[metafile.foodeffecttooltips]
-flavors = "package_complete"
-[metafile.shulkerboxtooltip]
-flavors = "package_complete"
-[metafile.create-toolbox-tooltip]
+[metafile.stendhal]
 flavors = "package_complete"
 [metafile.held-item-info]
 flavors = "package_complete"
@@ -114,66 +92,50 @@ flavors = "package_complete"
 flavors = "package_complete"
 [metafile.item-borders]
 flavors = "package_complete"
-[metafile.status-effect-bars]
+[metafile.chatanimation]
 flavors = "package_complete"
-[metafile.stendhal]
+[metafile.smooth-swapping]
 flavors = "package_complete"
-[metafile.better-mount-hud]
+[metafile.smooth-scroll]
 flavors = "package_complete"
-[metafile.boat-item-view]
+[metafile.smooth-gui]
 flavors = "package_complete"
-[metafile.craftpresence]
-flavors = "package_complete"
-[metafile.swingthrough]
-flavors = "package_complete"
-[metafile.accurate-block-placement-reborn]
+[metafile.tiny-item-animations]
 flavors = "package_complete"
 [metafile.eating-animation]
 flavors = "package_complete"
-[metafile.lithium]
-flavors = ["package_complete", "package_basic"]
-[metafile.ferrite-core]
-flavors = ["package_complete", "package_basic"]
-[metafile.entityculling]
-flavors = ["package_complete", "package_basic"]
-[metafile.ebe]
-flavors = ["package_complete", "package_basic"]
-[metafile.immediatelyfast]
-flavors = ["package_complete", "package_basic"]
-[metafile.c2me-fabric]
-flavors = ["package_complete", "package_basic"]
-[metafile.noisium]
-flavors = ["package_complete", "package_basic"]
-[metafile.modernfix]
-flavors = ["package_complete", "package_basic"]
-[metafile.badoptimizations]
-flavors = ["package_complete", "package_basic"]
-[metafile.moreculling]
-flavors = ["package_complete", "package_basic"]
-[metafile.vmp-fabric]
-flavors = ["package_complete", "package_basic"]
-[metafile.threadtweak]
-flavors = ["package_complete", "package_basic"]
+
+[metafile.lambdynamiclights]
+flavors = "package_complete"
+[metafile.particle-effects]
+flavors = "package_complete"
+[metafile.make_bubbles_pop]
+flavors = "package_complete"
+[metafile.particle-rain]
+flavors = "package_complete"
+[metafile.explosive-enhancement]
+flavors = "package_complete"
+
+[metafile.a-good-place]
+flavors = "package_complete"
+[metafile.mining-quakes]
+flavors = "package_complete"
 
 [metafile.iris]
-flavors = "rendering_iris"
+flavors = "shaders_on"
 [metafile.colorwheel]
-flavors = "rendering_iris"
+flavors = "shaders_on"
 [metafile.colorwheel-patcher]
-flavors = "rendering_iris"
-[metafile.sodium]
-flavors = ["rendering_iris", "rendering_sodium"]
-[metafile.indium]
-flavors = ["rendering_iris", "rendering_sodium"]
-[metafile.sodium-extra]
-flavors = ["rendering_iris", "rendering_sodium"]
-[metafile.sodium-shadowy-path-blocks]
-flavors = ["rendering_iris", "rendering_sodium"]
-[metafile.reeses-sodium-options]
-flavors = ["rendering_iris", "rendering_sodium"]
+flavors = "shaders_on"
+
+[metafile.distanthorizons]
+flavors = "distant_horizons_on"
 
 [metafile.zoomify]
 flavors = "zoomify_on"
 
-[metafile.distanthorizons]
-flavors = "distant_horizons_on"
+[metafile.blockmeter]
+flavors = "block_meter_on"
+
+[metafile.what-are-they-up-to]
+flavors = "data_saver_off"

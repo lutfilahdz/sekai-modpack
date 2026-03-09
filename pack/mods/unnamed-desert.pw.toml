@@ -1,6 +1,6 @@
 name = "Unnamed Desert"
 filename = "u_desert-1.6.3+mc1.19-1.21.8.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/ThFWvdF1/versions/ITNSCuzL/u_desert-1.6.3%2Bmc1.19-1.21.8.jar"

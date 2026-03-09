@@ -1,0 +1,13 @@
+name = "A Good Place"
+filename = "a_good_place-1.20-1.2.8-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BwPeriwJ/versions/MPYY0CYL/a_good_place-1.20-1.2.8-fabric.jar"
+hash-format = "sha512"
+hash = "47d408b2cbb5db34e7788c5b55693a95051fd6193d54f67b0b05a4c41f776a8badcb6a473bb02250e9a042024ad3cfb12d8026f1ac996dd154fb5d1a64b7cfe3"
+
+[update]
+[update.modrinth]
+mod-id = "BwPeriwJ"
+version = "MPYY0CYL"

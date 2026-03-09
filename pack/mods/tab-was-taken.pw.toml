@@ -1,6 +1,6 @@
 name = "TAB"
 filename = "TAB v5.5.0 1.20 - 1.20.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/gG7VFbG0/versions/2iO5cz27/TAB%20v5.5.0%201.20%20-%201.20.1.jar"
