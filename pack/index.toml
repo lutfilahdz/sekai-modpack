@@ -1162,11 +1162,6 @@ hash = "ff7cba9f585ee04471d6c3fefc2a2117c372bb5c94c8001c6d24c99bd4fb0c9a"
 metafile = true
 
 [[files]]
-file = "mods/pandas-extra-details.pw.toml"
-hash = "1821b703e694867e00dc7afed6601580faea1ee4d1017bba9b9d799c977c0a79"
-metafile = true
-
-[[files]]
 file = "mods/pandas-falling-trees.pw.toml"
 hash = "ae10e438adf5bf2cbe4cfc183ab247a61f2bf1483028c840d388d9152fc5e49d"
 metafile = true
