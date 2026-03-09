@@ -1328,7 +1328,7 @@ metafile = true
 
 [[files]]
 file = "mods/tidal-towns.pw.toml"
-hash = "9afc7aa9f96e76f806891d8ee5d6be77d06a370328323462f689541d0e9c8b02"
+hash = "d226419f48e032fbe82cd05d53bccb3dc7c20ff4e225cab9a8099ccd06c7ae5f"
 metafile = true
 
 [[files]]
