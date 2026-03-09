@@ -427,6 +427,11 @@ hash = "429284603e4c5ca44777cb4ce2455477fcc1eee4dc9a4ae2f759c4895bf332e7"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "ba66179829c0be4a71c29c6cc026514cb2eb81e943f28774590d3b9d4c576d0f"
+metafile = true
+
+[[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "f8f941964c822c5c56322eacbb2cd8b361b74df1a48608cc043420b86c2d8fec"
 metafile = true
