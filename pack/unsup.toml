@@ -111,11 +111,17 @@ flavors = "package_complete"
 flavors = "package_complete"
 [metafile.a-good-place]
 flavors = "package_complete"
+[metafile.mining-quakes]
+flavors = "package_complete"
 [metafile.inventory-particles]
 flavors = "package_complete"
 [metafile.mossylib]
 flavors = "package_complete"
-[metafile.inventory-interactions]
+[metafile.tiny-item-animations]
+flavors = "package_complete"
+[metafile.smooth-gui]
+flavors = "package_complete"
+[metafile.immersive-hotbar]
 flavors = "package_complete"
 
 [metafile.iris]

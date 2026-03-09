@@ -837,6 +837,11 @@ hash = "d00804e18277945dda73f59796c1932862ceb96aac073a92b7a66ef92b4cf3bd"
 metafile = true
 
 [[files]]
+file = "mods/immersive-hotbar.pw.toml"
+hash = "a4b6a816a2c211691e9447bd6e5c8a3485da3e5926b0212d26cdb95514ddaa92"
+metafile = true
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "5e70073ddf4020d9f4b705c23bf5e7332dbeebd31f291de81d36a652034f90ca"
 metafile = true
@@ -864,16 +869,6 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "e01aa3b603de9bdfbaf3a22b30494ee628a377a2326ff0dabcb7f7787ca63104"
-metafile = true
-
-[[files]]
-file = "mods/inventory-interactions.pw.toml"
-hash = "0478b753bf2fd42051d5b62abd2eacf14e7bb663cdd682178f52e0478537bb3a"
-metafile = true
-
-[[files]]
-file = "mods/inventory-particles.pw.toml"
-hash = "a07a79a0721f6a316ace485c4d29a58c0779adf87ac2c78dc1ed0afd10fb77a8"
 metafile = true
 
 [[files]]
@@ -1057,6 +1052,11 @@ hash = "5b4b410ca9eeb3a30d769e7cdb33c6a0eacc25a6ff2ce48d61fa4124c444b700"
 metafile = true
 
 [[files]]
+file = "mods/mining-quakes.pw.toml"
+hash = "f2cd3541e90bd4bfa08981a0f8425d8723ca312155f6aaf293e5ec97c63c4bbe"
+metafile = true
+
+[[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
 hash = "78c8f24f9686177298a19e872db2d6ea2083a71274c67140604fb2bf7af9d2cc"
 metafile = true
@@ -1104,11 +1104,6 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "2609e810b17cc48f058964da71925ed2c7fc37967c6fa5c99a880ee42a3dfae0"
-metafile = true
-
-[[files]]
-file = "mods/mossylib.pw.toml"
-hash = "8e19fac5a799454211b0246cfb6967098f593b4d6b1693d5377a52f14181d795"
 metafile = true
 
 [[files]]
@@ -1302,6 +1297,11 @@ hash = "0d8a3108fe5bca3af46bc1eb50eab01800da95e11200ab06fb9e23ac12b19742"
 metafile = true
 
 [[files]]
+file = "mods/smooth-gui.pw.toml"
+hash = "a5bd6775f59d8374224e325b6811492a9ab48c65be5aecb2747612a9b7bf3da5"
+metafile = true
+
+[[files]]
 file = "mods/smooth-scroll.pw.toml"
 hash = "f985288dc5af3c5fde96f303509839f1836c2a9716c321eb7910b90563413aa3"
 metafile = true
@@ -1404,6 +1404,11 @@ metafile = true
 [[files]]
 file = "mods/timeoutout.pw.toml"
 hash = "e7d7d775847e0dba0303056d4ad11ffda536b7851b443e5d5799afb23ecefa5f"
+metafile = true
+
+[[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "1bddd2c7698c383126833f6ce562321349a5a9d5ba4e82342c94471e5f7b0694"
 metafile = true
 
 [[files]]
