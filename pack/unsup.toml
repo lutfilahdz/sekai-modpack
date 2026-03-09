@@ -44,7 +44,7 @@ choices = ["block_meter_off", "block_meter_on"]
 
 [flavor_groups.data_saver]
 name = "Data Saver Mode"
-description = "Choose whether to use Data Saver Mode, will disable mods that consume a lot of data, such as:\n- WhWhat Are They Up To (Watut)\nRecommended for players with slow or limited internet connections, or those who want to reduce data usage while playing on the server."
+description = "Choose whether to use Data Saver Mode, will disable mods that consume a lot of data, such as:\n- What Are They Up To (Watut)\nRecommended for players with slow or limited internet connections, or those who want to reduce data usage while playing on the server."
 side = "both"
 choices = ["data_saver_off", "data_saver_on"]
 
