@@ -1139,6 +1139,11 @@ hash = "ffe568b897efe6e8b3b8b6a56ec39bab55ee1ac16082d64dc08e364f09260292"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "8293786ca23e23e7dd04d60d666f34145a00229a5959f7a1962995654cacdf1f"
+metafile = true
+
+[[files]]
 file = "mods/power-grid.pw.toml"
 hash = "865a84dcb09ebf16226649a1cede256da2efd15f579c81ae4c3ff34d02bfec90"
 metafile = true
