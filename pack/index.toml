@@ -1638,7 +1638,7 @@ metafile = true
 
 [[files]]
 file = "unsup-server.pw.toml"
-hash = "e5faf5cde7b9a0f2c98ab8db5a9c499119eed917d1a3cdd04735cc240c869569"
+hash = "9b6176116aaa0f143c4b2dad5e0e1ae3075f6c79a7849a6b6b7353549cab660b"
 metafile = true
 
 [[files]]
