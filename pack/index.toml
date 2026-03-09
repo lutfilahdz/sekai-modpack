@@ -485,17 +485,17 @@ metafile = true
 
 [[files]]
 file = "mods/ctov-create-structures.pw.toml"
-hash = "d0114dcd9e7b204c1d2438b902faa1561763d8bd5b3130080895a16e106f06af"
+hash = "eb5c9dbd95913512ed7d8f93ec2d64bd2525d8a67cab29463c40493ec774ed8f"
 metafile = true
 
 [[files]]
 file = "mods/ctov-friends-and-foes-compat.pw.toml"
-hash = "afcd4470f08c342d9c09af255d113736906d2d2c739f5277951eb7ebde9446b9"
+hash = "c159653e4f77ac5e53d68576a495f48b90da1ced943f2beda2790f7db0477b5f"
 metafile = true
 
 [[files]]
 file = "mods/ctov-villagers-plus-compat.pw.toml"
-hash = "17d4b25e5a1ff7b00589a59f7df4470deb471edb44c5f45b6c8955e6b0c2b58f"
+hash = "c8f03e91197b0660d584180dd0794916969e5f800158a3ec80b66b7164eb1d28"
 metafile = true
 
 [[files]]
