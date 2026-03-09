@@ -1305,7 +1305,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-lost-castle.pw.toml"
-hash = "8cd62328b33b5d35d5659bc20a2d92357254af6950eb63fbb55d68a1f2b2a8b2"
+hash = "23d9df61f53646a37a6adc14fddd6947dac4bdb0b613f247e1ccfb2d13b84745"
 metafile = true
 
 [[files]]
