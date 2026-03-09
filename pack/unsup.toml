@@ -66,6 +66,7 @@ flavors = "package_complete"
 flavors = "package_complete"
 [metafile.resourcepack_load_order]
 flavors = "package_complete"
+
 [metafile.sound-physics-remastered]
 flavors = "package_complete"
 [metafile.ambientsounds]
@@ -78,45 +79,9 @@ flavors = "package_complete"
 flavors = "package_complete"
 [metafile.dripsounds]
 flavors = "package_complete"
-[metafile.jei]
-flavors = "package_complete"
-[metafile.justenoughbreeding]
-flavors = "package_complete"
-[metafile.just-enough-professions-jep]
-flavors = "package_complete"
-[metafile.just-enough-effect-descriptions-jeed]
-flavors = "package_complete"
-[metafile.just-enough-beacons-reforged]
-flavors = "package_complete"
-[metafile.mouse-tweaks]
-flavors = "package_complete"
-[metafile.controlling]
-flavors = "package_complete"
-[metafile.better-third-person]
-flavors = "package_complete"
 [metafile.cameraoverhaul]
 flavors = "package_complete"
-[metafile.modelfix]
-flavors = "package_complete"
 [metafile.lambdynamiclights]
-flavors = "package_complete"
-[metafile.jade]
-flavors = "package_complete"
-[metafile.jade-addons-fabric]
-flavors = "package_complete"
-[metafile.your-reputation]
-flavors = "package_complete"
-[metafile.appleskin]
-flavors = "package_complete"
-[metafile.enchantment-descriptions]
-flavors = "package_complete"
-[metafile.effect-descriptions]
-flavors = "package_complete"
-[metafile.foodeffecttooltips]
-flavors = "package_complete"
-[metafile.shulkerboxtooltip]
-flavors = "package_complete"
-[metafile.create-toolbox-tooltip]
 flavors = "package_complete"
 [metafile.held-item-info]
 flavors = "package_complete"
@@ -129,16 +94,6 @@ flavors = "package_complete"
 [metafile.effecttimerplus]
 flavors = "package_complete"
 [metafile.stendhal]
-flavors = "package_complete"
-[metafile.better-mount-hud]
-flavors = "package_complete"
-[metafile.boat-item-view]
-flavors = "package_complete"
-[metafile.craftpresence]
-flavors = "package_complete"
-[metafile.swingthrough]
-flavors = "package_complete"
-[metafile.accurate-block-placement-reborn]
 flavors = "package_complete"
 [metafile.eating-animation]
 flavors = "package_complete"
