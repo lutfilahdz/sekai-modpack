@@ -1,0 +1,13 @@
+name = "Blinking Ender Eyes"
+filename = "EnderEyes_1.21.9_v3.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6GgEjSHS/versions/zNd7KVLz/EnderEyes_1.21.9_v3.1.zip"
+hash-format = "sha512"
+hash = "df3bf5dda796d973e9d9dae18f330281fc49cec0a947989c9af9464eb75f23c882dfec929821de9237bea7a00ac961e6055fafdd0ae06a47bd845273f70dd77f"
+
+[update]
+[update.modrinth]
+mod-id = "6GgEjSHS"
+version = "zNd7KVLz"

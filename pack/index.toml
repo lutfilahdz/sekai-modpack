@@ -66,6 +66,11 @@ hash = "f121ff3da03cff2eb325a078fd0f3b6171e4f26bdc6ed4cb403d11576eb9662d"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/blinking-ender-eyes.pw.toml"
+hash = "4963c119327192e1df1405aa0d77aa7cd95aec354f785506f1e4cf11dd5c646a"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/colorful-nixies.pw.toml"
 hash = "28b4bafa3f7ce93e293ce15d0f23515b3e0b4f3046d2639847ac6ab17113e90d"
 metafile = true
