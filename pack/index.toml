@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "config/bcc.json"
-hash = "3063876b6c714dcf20dd115dd02230130782207c402e0e0b7b6ad9d5fd9311b0"
+hash = "69b1a96b5f306300ce6dd16b30d5b35174368698658a9b71c38023e088e0f561"
 
 [[files]]
 file = "config/carryon-common.json"
