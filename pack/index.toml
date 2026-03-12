@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "config/bcc.json"
-hash = "69b1a96b5f306300ce6dd16b30d5b35174368698658a9b71c38023e088e0f561"
+hash = "d68ba0d4dc2e9c0832857b6c4cd0355b1f9e05a6f21fae2fcc822dad8bf6a345"
 
 [[files]]
 file = "config/carryon-common.json"
@@ -1147,6 +1147,11 @@ hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
+metafile = true
+
+[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "c9f99ca6c6db28a5788cc556c39886b55433c93aa66a45b57de0ccf075bb66ad"
 metafile = true
@@ -1629,11 +1634,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "d201155cab7c2a2cf940d91f240be769ac12046c2fc6a0774e225a8e51423ed0"
-metafile = true
-
-[[files]]
-file = "mods/zfastnoise.pw.toml"
-hash = "c5b66cb75b425a4cc58a3a143100fd88e1d670d76362f603dbd883d244de5934"
 metafile = true
 
 [[files]]
