@@ -1687,6 +1687,18 @@ hash = "927e635c981510b06c640f1f18047e9b19324cc1b4137ff4d610844be4b600b3"
 metafile = true
 
 [[files]]
+file = "world/datapacks/sekai/data/tide/loot_tables/chests/crates/end.json"
+hash = "0c6a24fdee367df2f4385bc18174cf33d6f0d50f1b839b4ff67caf5e113004e5"
+
+[[files]]
+file = "world/datapacks/sekai/pack.mcmeta"
+hash = "3fb4dd502658cb5812fd90eebf2cf08063d1c626b709cb8cac0156ae05d17fa7"
+
+[[files]]
+file = "world/datapacks/sekai/pack.png"
+hash = "565ebf57a7863e40ab0496b3d080e63d884bd076bb562f27dbc3bb755eff25c2"
+
+[[files]]
 file = "world/datapacks/true-ending.pw.toml"
 hash = "b4322d9b7bf9fea872702a9a498c26ea048ce90f433a3082b78e2c348c0feea3"
 metafile = true
