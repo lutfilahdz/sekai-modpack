@@ -65,6 +65,11 @@ hash = "5f2d61cb838f9913e41b7e8149c1759c685a7539ab6278a844014e7ef6e3cbf2"
 metafile = true
 
 [[files]]
+file = "config/observable.pw.toml"
+hash = "e22a8075a7bbd22f0817addc60d71a4fb416e44eca50bd067c8d64785b9506ee"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/ctov-chefs-delight-compat.pw.toml"
 hash = "10e69cd3c528b235dee3f59f65cfbd1179613354ad68fa282b7e0742e029cb16"
 metafile = true
