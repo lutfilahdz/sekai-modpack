@@ -61,6 +61,43 @@ hash = "5f2d61cb838f9913e41b7e8149c1759c685a7539ab6278a844014e7ef6e3cbf2"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/ctov-chefs-delight-compat.pw.toml"
+hash = "10e69cd3c528b235dee3f59f65cfbd1179613354ad68fa282b7e0742e029cb16"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/repurposed-structures-chefs-delight-compat.pw.toml"
+hash = "988501e1caee238435dd33482ae0c484c3f54ff37cda3ba47f7e5a6280895d0e"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/repurposed-structures-farmers-delight-compat.pw.toml"
+hash = "2271ae5c97d5579243411cc3269acd76cf78e807ff6f9f00e20440bcae8042db"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/repurposed-structures-friends-and-foes-compat.pw.toml"
+hash = "927e635c981510b06c640f1f18047e9b19324cc1b4137ff4d610844be4b600b3"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/sekai/data/tide/loot_tables/chests/crates/end.json"
+hash = "0c6a24fdee367df2f4385bc18174cf33d6f0d50f1b839b4ff67caf5e113004e5"
+
+[[files]]
+file = "config/paxi/datapacks/sekai/pack.mcmeta"
+hash = "3fb4dd502658cb5812fd90eebf2cf08063d1c626b709cb8cac0156ae05d17fa7"
+
+[[files]]
+file = "config/paxi/datapacks/sekai/pack.png"
+hash = "565ebf57a7863e40ab0496b3d080e63d884bd076bb562f27dbc3bb755eff25c2"
+
+[[files]]
+file = "config/paxi/datapacks/true-ending.pw.toml"
+hash = "b4322d9b7bf9fea872702a9a498c26ea048ce90f433a3082b78e2c348c0feea3"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepack_load_order.pw.toml"
 hash = "f121ff3da03cff2eb325a078fd0f3b6171e4f26bdc6ed4cb403d11576eb9662d"
 metafile = true
@@ -1664,41 +1701,4 @@ metafile = true
 [[files]]
 file = "unsup-server.pw.toml"
 hash = "9b6176116aaa0f143c4b2dad5e0e1ae3075f6c79a7849a6b6b7353549cab660b"
-metafile = true
-
-[[files]]
-file = "world/datapacks/ctov-chefs-delight-compat.pw.toml"
-hash = "10e69cd3c528b235dee3f59f65cfbd1179613354ad68fa282b7e0742e029cb16"
-metafile = true
-
-[[files]]
-file = "world/datapacks/repurposed-structures-chefs-delight-compat.pw.toml"
-hash = "988501e1caee238435dd33482ae0c484c3f54ff37cda3ba47f7e5a6280895d0e"
-metafile = true
-
-[[files]]
-file = "world/datapacks/repurposed-structures-farmers-delight-compat.pw.toml"
-hash = "2271ae5c97d5579243411cc3269acd76cf78e807ff6f9f00e20440bcae8042db"
-metafile = true
-
-[[files]]
-file = "world/datapacks/repurposed-structures-friends-and-foes-compat.pw.toml"
-hash = "927e635c981510b06c640f1f18047e9b19324cc1b4137ff4d610844be4b600b3"
-metafile = true
-
-[[files]]
-file = "world/datapacks/sekai/data/tide/loot_tables/chests/crates/end.json"
-hash = "0c6a24fdee367df2f4385bc18174cf33d6f0d50f1b839b4ff67caf5e113004e5"
-
-[[files]]
-file = "world/datapacks/sekai/pack.mcmeta"
-hash = "3fb4dd502658cb5812fd90eebf2cf08063d1c626b709cb8cac0156ae05d17fa7"
-
-[[files]]
-file = "world/datapacks/sekai/pack.png"
-hash = "565ebf57a7863e40ab0496b3d080e63d884bd076bb562f27dbc3bb755eff25c2"
-
-[[files]]
-file = "world/datapacks/true-ending.pw.toml"
-hash = "b4322d9b7bf9fea872702a9a498c26ea048ce90f433a3082b78e2c348c0feea3"
 metafile = true
