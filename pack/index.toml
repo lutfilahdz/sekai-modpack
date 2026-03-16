@@ -214,6 +214,10 @@ hash = "d70bee5636b4cfed584ecc78df9eea68d5c3c0ed358cc48b7c753a8b38845094"
 metafile = true
 
 [[files]]
+file = "config/waterframes.json"
+hash = "6c59895d4c0685759e90f326593cfede9bca838f420a8ec243bdf440dd640b91"
+
+[[files]]
 file = "config/xaero/lib/common.pw.toml"
 hash = "415dc6f93f83dd66b1dc0375a5a85aa051eaeddd7097d49ff4b870a5fe88b520"
 metafile = true
