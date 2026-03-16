@@ -47,6 +47,10 @@ hash = "da147ec41c8c325bbf269347d00257c0e58439aef65d33ffe826ba148bfe5ca6"
 metafile = true
 
 [[files]]
+file = "config/item_obliterator.json5"
+hash = "aca4c824999dc7b7eb2a0f31b7ab38f6152d4d357f98557ae454b71fa8d23ef4"
+
+[[files]]
 file = "config/itemphysic.json"
 hash = "d2c744a28216518b607fb3b268baca29a382470ae1aa113c5bdf1aa117281483"
 
@@ -243,10 +247,6 @@ metafile = true
 file = "config/yes_steve_model-common.pw.toml"
 hash = "85067b8317b4ee266547f37d4609de917289ecfcc611da8601dbc5561874817c"
 metafile = true
-
-[[files]]
-file = "item_obliterator.json5"
-hash = "aca4c824999dc7b7eb2a0f31b7ab38f6152d4d357f98557ae454b71fa8d23ef4"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
