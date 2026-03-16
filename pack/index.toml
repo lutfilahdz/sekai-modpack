@@ -86,7 +86,7 @@ hash = "0c6a24fdee367df2f4385bc18174cf33d6f0d50f1b839b4ff67caf5e113004e5"
 
 [[files]]
 file = "config/paxi/datapacks/sekai/pack.mcmeta"
-hash = "3fb4dd502658cb5812fd90eebf2cf08063d1c626b709cb8cac0156ae05d17fa7"
+hash = "cc79f76c9f7cb4e000341e05c5c1ab8b1d8e229eec28d0c9e70322d79a2c6fd1"
 
 [[files]]
 file = "config/paxi/datapacks/sekai/pack.png"
@@ -166,7 +166,11 @@ hash = "9a88068bd44a3d964a7a3dc648608b41e34fadb10fd81c2d55a9a3a0952cecc5"
 
 [[files]]
 file = "config/paxi/resourcepacks/sekai-modded/pack.mcmeta"
-hash = "c0ec817c1551cde3c4c9db36133288a35335de1e15e5603aeefadd0946e5e85e"
+hash = "e163fa87b25dee78e015829f515405e6409490f0f39d19f67a55a151e8a8cb22"
+
+[[files]]
+file = "config/paxi/resourcepacks/sekai-modded/pack.png"
+hash = "565ebf57a7863e40ab0496b3d080e63d884bd076bb562f27dbc3bb755eff25c2"
 
 [[files]]
 file = "config/paxi/resourcepacks/semos-animations-lib.pw.toml"
