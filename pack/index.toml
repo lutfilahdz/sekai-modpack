@@ -817,6 +817,11 @@ hash = "adea09f1e1b05da68cf7407992a9391b15985acf5465a888e54ae076dbd543ab"
 metafile = true
 
 [[files]]
+file = "mods/forge-early-loading-screen-fabric.pw.toml"
+hash = "24906905c5fe5cb4c33968e64801c441abd7f4e60df2e9ed2dc81bf92bd31b4b"
+metafile = true
+
+[[files]]
 file = "mods/formations-nether.pw.toml"
 hash = "0afffd423f22bb5e19129f3cd9183031f1c65b39bbeb68314ea621a42d8514e0"
 metafile = true
