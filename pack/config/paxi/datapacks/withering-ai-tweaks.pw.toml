@@ -1,0 +1,13 @@
+name = "Withering AI Tweaks"
+filename = "Withering Heights x Mob AI Tweaks 1.20.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JCMF0ix8/versions/bsX5I8uU/Withering%20Heights%20x%20Mob%20AI%20Tweaks%201.20.zip"
+hash-format = "sha512"
+hash = "c1a9b99cdb6b03bdb11f70da82cc70373fbd3d75a40d8f9c0b3e2122cbaa96fa303cfb35047558e7024382712ef48836b41feb07570dbee495ffa66c66b12b49"
+
+[update]
+[update.modrinth]
+mod-id = "JCMF0ix8"
+version = "bsX5I8uU"

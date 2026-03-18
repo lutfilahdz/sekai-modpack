@@ -1,0 +1,13 @@
+name = "Fresh AI Tweaks"
+filename = "Fresh AI Tweaks 1.19.4-1.20.6.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SJ639K71/versions/cH3Xpn8D/Fresh%20AI%20Tweaks%201.19.4-1.20.6.zip"
+hash-format = "sha512"
+hash = "1926fb1cc17e2663de9321d69d563e3e9a0dec6192a985ab7666a3381708bdffcac1dfd689f50652108e8f96b9d85d2eb050ae32bc16e17bfe7bac707baf41f5"
+
+[update]
+[update.modrinth]
+mod-id = "SJ639K71"
+version = "cH3Xpn8D"

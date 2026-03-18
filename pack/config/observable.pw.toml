@@ -1,0 +1,8 @@
+name = "config/observable.json (server)"
+filename = "observable.json"
+side = "server"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-modpack/main/server-files/config/observable.json"
+hash-format = "sha512"
+hash = "062eeed69c4e27e2ae3d71e2a4337ebb2050b3129a0e7c671bc35b4d30c674cf162cec18ee7ccd6472011c3cb0d730f567f6c768d40f5fee075b2cd3e1cbb943"

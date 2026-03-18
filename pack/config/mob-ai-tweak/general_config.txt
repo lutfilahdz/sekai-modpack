@@ -1,0 +1,1 @@
+enchantments_from_mod=false
