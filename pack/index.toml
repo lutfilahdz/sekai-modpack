@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.pw.toml"
-hash = "bc082e3c495dd315efecab19492f6ab3cfb8b48add31ce738c7f128b8ff08405"
+hash = "faab4f2e485aacab5d521795fd63441aedab1928b7c5fd6f17be8fbcade7a0ac"
 metafile = true
 
 [[files]]
