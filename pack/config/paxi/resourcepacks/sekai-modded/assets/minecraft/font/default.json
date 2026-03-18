@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/wither/title.png",
+            "ascent": 32,
+            "height": 48,
+            "chars": ["\uE000"]
+        }
+    ]
+}
