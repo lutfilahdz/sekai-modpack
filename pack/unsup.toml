@@ -48,12 +48,6 @@ description = "Choose whether to use Data Saver Mode, will disable mods that con
 side = "both"
 choices = ["data_saver_off", "data_saver_on"]
 
-[flavor_groups.early_loading_screen]
-name = "Early Loading Screen"
-description = "Choose whether to use the early loading screen, which displays a loading screen before the main menu.\nKnown issue: can crash on Linux Wayland in some setups.\nIf you use native Wayland and experience crashes, disable this option or run Minecraft through XWayland/X11."
-side = "client"
-choices = ["early_loading_screen_off", "early_loading_screen_on"]
-
 [metafile.enhanced-boss-bars]
 flavors = "package_complete"
 [metafile.fusion-connected-textures]
@@ -145,6 +139,3 @@ flavors = "block_meter_on"
 
 [metafile.what-are-they-up-to]
 flavors = "data_saver_off"
-
-[metafile.forge-early-loading-screen-fabric]
-flavors = "early_loading_screen_on"
