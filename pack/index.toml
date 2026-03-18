@@ -60,6 +60,10 @@ hash = "e230ff5cbcceaa24a78cc96f1e4eb70adb9cfb31e7b7888c9282bcd57288b47a"
 metafile = true
 
 [[files]]
+file = "config/mob-ai-tweak/general_config.txt"
+hash = "9f52fc27d91ef2831257d8fa2a092d1b68cfddd3dbdf6495df8b969d37f2cbe7"
+
+[[files]]
 file = "config/moreculling.pw.toml"
 hash = "5f2d61cb838f9913e41b7e8149c1759c685a7539ab6278a844014e7ef6e3cbf2"
 metafile = true
