@@ -102,11 +102,6 @@ file = "config/paxi/datapacks/sekai/pack.png"
 hash = "565ebf57a7863e40ab0496b3d080e63d884bd076bb562f27dbc3bb755eff25c2"
 
 [[files]]
-file = "config/paxi/datapacks/true-ending.pw.toml"
-hash = "b4322d9b7bf9fea872702a9a498c26ea048ce90f433a3082b78e2c348c0feea3"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepack_load_order.pw.toml"
 hash = "f121ff3da03cff2eb325a078fd0f3b6171e4f26bdc6ed4cb403d11576eb9662d"
 metafile = true
@@ -1534,6 +1529,11 @@ metafile = true
 [[files]]
 file = "mods/trowel.pw.toml"
 hash = "0d9cc245eda2446b891b435fb2b7fb8d9dab6e8e55bfb07a21bb89ba3518be67"
+metafile = true
+
+[[files]]
+file = "mods/true-ending.pw.toml"
+hash = "0bc775f6b740e9fa539e8237f49ce5265a15f16725fef1deeab7097ea6571099"
 metafile = true
 
 [[files]]
