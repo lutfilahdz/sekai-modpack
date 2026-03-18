@@ -132,6 +132,11 @@ hash = "124ddc33e94633c1e14a1c6eaebee538a27bdfc9f5617f5c9c08d12849ebfe26"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/glowing-ender-dragon.pw.toml"
+hash = "1370b55b7b41773b92170ce26074a9643777069031af241f40fa1185007f715d"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/mt-ct-d.pw.toml"
 hash = "f52bcfb58f9988ad6abbcd25b770ec5e82669ccfd7aa80072c3e42ec2f9c458b"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Glowing Ender Dragon"
+filename = "Glowing+Ender+Dragon.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/h75GeRNu/versions/XFoZWBRz/Glowing%2BEnder%2BDragon.zip"
+hash-format = "sha512"
+hash = "93b684bed418a089c54e61646ad7dbe41cfe21c27ef122b7e6ceadcdd2048a0060183529588c23d86a0c466192897fd710c0218bb25b34fce00df28b3ac0d17a"
+
+[update]
+[update.modrinth]
+mod-id = "h75GeRNu"
+version = "XFoZWBRz"
