@@ -1,6 +1,7 @@
 name = "Create: Steam 'n' Rails"
 filename = "Steam_Rails-1.6.15-beta+fabric-mc1.20.1.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/ZzjhlDgM/versions/YC8Fi2Uf/Steam_Rails-1.6.15-beta%2Bfabric-mc1.20.1.jar"
