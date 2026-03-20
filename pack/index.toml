@@ -560,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "c53b1bcd1e917d8083aba91ed85eefa2d462b6caa37f297e35e11df51bc96c5f"
+hash = "74791822eb6fd725fc9e398082567d616861cf71dd3ca933de39664f81fadca4"
 metafile = true
 
 [[files]]
@@ -1000,7 +1000,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "6890d994d3cf51f0d6ea10f451b760891b825190ae17d61a3b8cda18e04c7456"
+hash = "b27c44e11f7faed2a753fda3ca83997a469af0341fb67e239048fef9b6e62b1d"
 metafile = true
 
 [[files]]
