@@ -6,11 +6,6 @@ hash = "dbbc8694a0edce2582df7896e4393d1ea51de6e08aef25a76a510794c3b1f7cb"
 metafile = true
 
 [[files]]
-file = "config/antientitygrief.pw.toml"
-hash = "3deae454603042cca46b213e6e3c7d47f443b0c06516f16d292e50c3e1c0e342"
-metafile = true
-
-[[files]]
 file = "config/bcc.json"
 hash = "59e0627eedbd2f1ba8affa3672935f8aad4d87c2d9246980ac85130247d42f51"
 
@@ -60,8 +55,8 @@ hash = "e230ff5cbcceaa24a78cc96f1e4eb70adb9cfb31e7b7888c9282bcd57288b47a"
 metafile = true
 
 [[files]]
-file = "config/mob-ai-tweak/general_config.txt"
-hash = "9f52fc27d91ef2831257d8fa2a092d1b68cfddd3dbdf6495df8b969d37f2cbe7"
+file = "config/mob-ai-tweaks/general_config.txt"
+hash = "023c3a96b5b61c46f72ab24405d8042592ada51d2b1e7353f1f6fe627b82ec9c"
 
 [[files]]
 file = "config/moreculling.pw.toml"
@@ -321,11 +316,6 @@ metafile = true
 [[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "9870f77dc7c79097b871ef30cf12c1f3f6f7ca87101c4d4c6584c00bcb5b569d"
-metafile = true
-
-[[files]]
-file = "mods/anti-entity-grief.pw.toml"
-hash = "ee86cfb8d9260ab49614a284a57d517bc5d7de3d09746037522adfbd55cb1a04"
 metafile = true
 
 [[files]]
