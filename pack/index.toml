@@ -530,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "ccd05ffc1de2b62a5385b1218a2a6d7187d4ec202a04448383f2fff77498981c"
+hash = "b04a1fbc25de1f5e99524ddcb9e47ee99ce6da0bb9eb9c26c0fce9ad55833e6b"
 metafile = true
 
 [[files]]
@@ -990,7 +990,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "b27c44e11f7faed2a753fda3ca83997a469af0341fb67e239048fef9b6e62b1d"
+hash = "8e5a919503d1e17cb294b9d90abe039061ef8cb587db0bb9b7963bb8e5fdd99a"
 metafile = true
 
 [[files]]
@@ -1395,7 +1395,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "0d8a3108fe5bca3af46bc1eb50eab01800da95e11200ab06fb9e23ac12b19742"
+hash = "bc4072d96cb437fd485c4a97da3f33795f12397a047328eab396ee87b2828dba"
 metafile = true
 
 [[files]]
