@@ -6,11 +6,6 @@ hash = "dbbc8694a0edce2582df7896e4393d1ea51de6e08aef25a76a510794c3b1f7cb"
 metafile = true
 
 [[files]]
-file = "config/antientitygrief.pw.toml"
-hash = "3deae454603042cca46b213e6e3c7d47f443b0c06516f16d292e50c3e1c0e342"
-metafile = true
-
-[[files]]
 file = "config/bcc.json"
 hash = "59e0627eedbd2f1ba8affa3672935f8aad4d87c2d9246980ac85130247d42f51"
 
@@ -60,8 +55,8 @@ hash = "e230ff5cbcceaa24a78cc96f1e4eb70adb9cfb31e7b7888c9282bcd57288b47a"
 metafile = true
 
 [[files]]
-file = "config/mob-ai-tweak/general_config.txt"
-hash = "9f52fc27d91ef2831257d8fa2a092d1b68cfddd3dbdf6495df8b969d37f2cbe7"
+file = "config/mob-ai-tweaks/general_config.txt"
+hash = "023c3a96b5b61c46f72ab24405d8042592ada51d2b1e7353f1f6fe627b82ec9c"
 
 [[files]]
 file = "config/moreculling.pw.toml"
@@ -324,11 +319,6 @@ hash = "9870f77dc7c79097b871ef30cf12c1f3f6f7ca87101c4d4c6584c00bcb5b569d"
 metafile = true
 
 [[files]]
-file = "mods/anti-entity-grief.pw.toml"
-hash = "ee86cfb8d9260ab49614a284a57d517bc5d7de3d09746037522adfbd55cb1a04"
-metafile = true
-
-[[files]]
 file = "mods/anti-xray.pw.toml"
 hash = "022933f7c0f9b55861bdf8b60e70a3978947b659b4624b4cd301a4190dd15a47"
 metafile = true
@@ -540,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "ccd05ffc1de2b62a5385b1218a2a6d7187d4ec202a04448383f2fff77498981c"
+hash = "b04a1fbc25de1f5e99524ddcb9e47ee99ce6da0bb9eb9c26c0fce9ad55833e6b"
 metafile = true
 
 [[files]]
@@ -1000,7 +990,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "b27c44e11f7faed2a753fda3ca83997a469af0341fb67e239048fef9b6e62b1d"
+hash = "8e5a919503d1e17cb294b9d90abe039061ef8cb587db0bb9b7963bb8e5fdd99a"
 metafile = true
 
 [[files]]
@@ -1075,7 +1065,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-addon-structures.pw.toml"
-hash = "fd67dbff187e526321a7f7da6859cbd67d11da95111382b7d53673297c188411"
+hash = "b4ac5d75d5223e6b3093f7008e19320480bdd87c3953e96bbf0f93e67cf5e0ed"
 metafile = true
 
 [[files]]
@@ -1405,7 +1395,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "0d8a3108fe5bca3af46bc1eb50eab01800da95e11200ab06fb9e23ac12b19742"
+hash = "bc4072d96cb437fd485c4a97da3f33795f12397a047328eab396ee87b2828dba"
 metafile = true
 
 [[files]]
