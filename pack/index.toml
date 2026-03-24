@@ -1554,6 +1554,11 @@ hash = "0bc775f6b740e9fa539e8237f49ce5265a15f16725fef1deeab7097ea6571099"
 metafile = true
 
 [[files]]
+file = "mods/tt20.pw.toml"
+hash = "f8382fb7ab96faa147b573619c5da9872fa6abcce25982ac015ca737e7a73339"
+metafile = true
+
+[[files]]
 file = "mods/unilib.pw.toml"
 hash = "b3fda297c96024d09d12f2522cc8e56bb555ca2a1de9e8d9fb0b4236743dd8e5"
 metafile = true
