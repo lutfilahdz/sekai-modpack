@@ -226,6 +226,7 @@ activation-range:
     - 'minecraft:warden'
     - 'minecraft:ghast'
     - 'minecraft:boat'
+    - 'minecraft:chest_boat'
     - 'create:stationary_contraption'
     - 'create:carriage_contraption'
     - 'create:gantry_contraption'

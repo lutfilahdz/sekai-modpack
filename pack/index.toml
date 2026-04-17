@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "config/servercore/config.yml"
-hash = "e49fa1fdc355e4b0c0076dc4b15842927bc2740cdd6ef5b49c7e62540910048b"
+hash = "5b5145dbeb5d5a22c516110d243bd3e88dcc9c1e362fea8c572481fdb236fad4"
 
 [[files]]
 file = "config/servercore/optimizations.yml"
