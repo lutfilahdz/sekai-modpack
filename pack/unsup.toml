@@ -1,6 +1,6 @@
 [flavor_groups.package]
 name = "Preset"
-description = "Choose the mod preset that best suits your needs in Sekai Survival.\nAvailable presets: Complete (full features) and Performance (essential mods with performance optimizations)."
+description = "Choose the mod preset that best suits your needs in Sekai Survival.\nAvailable presets: Complete (full features) and Basic (essential mods with optimizations)."
 side = "both"
 [[flavor_groups.package.choices]]
 id = "package_complete"
@@ -8,8 +8,8 @@ name = "Complete"
 description = "Complete preset with optimization and additional quality of life features for the best gaming experience.\nJust install and play without any hassle!"
 [[flavor_groups.package.choices]]
 id = "package_basic"
-name = "Performance"
-description = "Essential mods enhanced with performance optimization mods.\nPerfect for players who want better performance without extra features."
+name = "Basic"
+description = "Essential mods enhanced with optimization mods.\nPerfect for players who want better performance without extra features."
 
 [flavor_groups.rendering]
 name = "Rendering"

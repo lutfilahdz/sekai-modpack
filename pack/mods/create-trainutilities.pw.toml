@@ -1,0 +1,13 @@
+name = "Create Train Utilities"
+filename = "trainutilities-fabric-3.0.3-C6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kVIxLqso/versions/oYlOC2Kx/trainutilities-fabric-3.0.3-C6.jar"
+hash-format = "sha512"
+hash = "adb9d55496153a84a4f9d5727c1b2a3f4bdac9724d9d2d9d75f2591a1cee583a26a2fced8681ac05084204ea9ee9bd14bef0fc49c55578f4948b7427dd09d354"
+
+[update]
+[update.modrinth]
+mod-id = "kVIxLqso"
+version = "oYlOC2Kx"
