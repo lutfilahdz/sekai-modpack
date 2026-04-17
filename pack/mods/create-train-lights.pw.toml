@@ -1,0 +1,13 @@
+name = "Create Train Lights"
+filename = "ctl-fabric-1.1.1-C6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nRC3whhL/versions/GVqUKzJp/ctl-fabric-1.1.1-C6.jar"
+hash-format = "sha512"
+hash = "0837bcf0ffe70215d18e8474c406f87eb6700538701a7477035a99b124a9d1e2f7969c120222afe131c320ae82ece528e51ac60a0e0a0205302684644782bef0"
+
+[update]
+[update.modrinth]
+mod-id = "nRC3whhL"
+version = "GVqUKzJp"

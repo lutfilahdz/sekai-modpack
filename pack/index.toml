@@ -564,6 +564,11 @@ hash = "0cdee1c25084bcdf75b10cb42ec0b1c18ee067905ddb492fa6c2166105039ac2"
 metafile = true
 
 [[files]]
+file = "mods/create-train-lights.pw.toml"
+hash = "30bc4dbc5bcea640a66e0bb860b574ceac018aa93fba2a5e7b0cbfe4c952d5b2"
+metafile = true
+
+[[files]]
 file = "mods/create-trainutilities.pw.toml"
 hash = "215fcb8533d9bb90d66881124edcc6ee4b1bd12937f86a72bfb0bac88f8f89cd"
 metafile = true
