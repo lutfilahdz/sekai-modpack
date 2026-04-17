@@ -569,6 +569,11 @@ hash = "e601cb79e15f399fdae5e9a2ec48983a3248a7d3bf4fc2a25a83bb0847b98f75"
 metafile = true
 
 [[files]]
+file = "mods/create-trainutilities.pw.toml"
+hash = "215fcb8533d9bb90d66881124edcc6ee4b1bd12937f86a72bfb0bac88f8f89cd"
+metafile = true
+
+[[files]]
 file = "mods/create_oxidized.pw.toml"
 hash = "a0c0ebf3ab1c147a7196d98ec8eb2afb70454d0cac4ddc556478dd3aa38e8dab"
 metafile = true
