@@ -3,7 +3,7 @@ name: Deploy packwiz pack to GitHub Pages
 on:
   push:
     branches: ["main", "dev"]
-    paths: ['pack/**']
+    paths: ['pack/**', 'archive/**']
 
   workflow_dispatch:
 
@@ -37,6 +37,15 @@ jobs:
           mkdir -p out/main out/dev
           cp -r pack/* out/${{ github.ref_name }}/
           cp -r other/pack/* out/${{ github.ref_name == 'main' && 'dev' || 'main' }}/
+
+          (
+            cd archive
+            zip -r ../out/${{ github.ref_name }}/SekaiModpack.zip .
+          )
+          (
+            cd other/archive
+            zip -r ../../out/${{ github.ref_name == 'main' && 'dev' || 'main' }}/SekaiModpack.zip .
+          )
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

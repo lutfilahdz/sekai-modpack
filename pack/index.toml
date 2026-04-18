@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "config/bcc.json"
-hash = "aa58c0500dff6528c9bc9cbd55393bab0cfcc8d00f0051d6b9e6aac2763a5ecd"
+hash = "d04252b25ac29588776170a918909110dae553671fec183bb66087f0b6fba885"
 
 [[files]]
 file = "config/carryon-common.json"
@@ -107,12 +107,12 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.pw.toml"
-hash = "faab4f2e485aacab5d521795fd63441aedab1928b7c5fd6f17be8fbcade7a0ac"
+hash = "35ef8c5ffb79a4f3023dc51641acad937868c11ef0e65ac1a7afef0a90f18796"
 metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/blinking-ender-eyes.pw.toml"
-hash = "4963c119327192e1df1405aa0d77aa7cd95aec354f785506f1e4cf11dd5c646a"
+hash = "e4a8e0da20b0dc050ae9dd5c85b264932be117a2203e58f488d12d34013e0f73"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/freshly-modded.pw.toml"
-hash = "124ddc33e94633c1e14a1c6eaebee538a27bdfc9f5617f5c9c08d12849ebfe26"
+hash = "df2efbd0601e8109458b9aa18609b7c725fc43966e061568e2a8a1dd9681e9fa"
 metafile = true
 
 [[files]]
@@ -199,17 +199,14 @@ file = "config/paxi/resourcepacks/sekai-modded/pack.png"
 hash = "565ebf57a7863e40ab0496b3d080e63d884bd076bb562f27dbc3bb755eff25c2"
 
 [[files]]
-file = "config/paxi/resourcepacks/semos-animations-lib.pw.toml"
-hash = "5560461ed523fa49ddd3b3d0d115a8398259988bc0b517747440cb8cf596e990"
+file = "config/servercore/config.pw.toml"
+hash = "3e33f297765a3fb84f70ada039bd3f9d9be93d37edd79bbf51dcbfd64e0cc58e"
 metafile = true
 
 [[files]]
-file = "config/servercore/config.yml"
-hash = "5b5145dbeb5d5a22c516110d243bd3e88dcc9c1e362fea8c572481fdb236fad4"
-
-[[files]]
-file = "config/servercore/optimizations.yml"
-hash = "fbb29b9bf5d8f90f58568cfae7f85220d84465d78d6a4dcbfbe3c15ffd172f8d"
+file = "config/servercore/optimizations.pw.toml"
+hash = "f5db22bf68b02e2f5153e4a09d98617e6644879e81a5e109b803ffda30165405"
+metafile = true
 
 [[files]]
 file = "config/serverrules/config.pw.toml"
@@ -669,6 +666,11 @@ hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
 metafile = true
 
 [[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "20fdb4bb9c30b2aa81499f43657c266e3d84fdb4a3b167c7fdbf3309e4316fc7"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "a8aa09f4f156506ed902620637557fb3623084d5d994f7b4f1f01eb4a19916b6"
 metafile = true
@@ -709,6 +711,41 @@ hash = "1fd492cd1c570fd7fd953f4bcc27ae204b4107e1d21a54efc9c7d512cc1b5141"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "aef45a1afd270204f96f05142cd1013146e87428e4ffaef3f54148d7f1836916"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "484792193eb71f6c5dcfac83cabdcc87972702659c31da8a8dfe819bd00c5826"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "f9109bb1aae21525af8da7ed9d062b5a9c3f32a520a4fb5816847e051b64dd34"
+metafile = true
+
+[[files]]
+file = "mods/emi-professions-(emip).pw.toml"
+hash = "5daf4ee8870b5ef4aed32c68d318f926ac63a66666e43b2cc80894602ebb7d48"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "fec1ffa03b4d62e47be25512840490844fc383cf82d2ad35345b2f87a21e8228"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "3172de25ac5002626c4ceac7113665696556a66293af10c099c3a132969144e6"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "71d944c917bf1e4f0f6fac8c39f3b1038becaa039cdf3638982f4cdb58ef99b4"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "b38a80fb1bb72759cebf627d5e160102c6eb2895528d6cb1db096eee092daad2"
 metafile = true
@@ -730,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "f214187db22666c93a2ad97e4657c4a1e627d034dc32c8cac5e6810bd8ad4db1"
+hash = "00d373974e8aada9679b51d05283fd7267d0fccb6bac5f37e8b9b16ac6432848"
 metafile = true
 
 [[files]]
@@ -861,6 +898,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "6516077c98f38a3ec994551eba7ac41cede37a1e07ece8537450710eae583b30"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "960362b1fe6da267bff3411e3d53ca7a597429d49e7bc9d7a13331bb19595e4a"
 metafile = true
 
 [[files]]
@@ -995,7 +1037,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "a410434b8f84091c4fb9bab8b3c8735ed78d2a5ff92b53eae3f66924714dae90"
+hash = "8849fe47eb571bdb6c4a522b8087b0eab8f800fa92eeb4e85cba74473a51ae25"
 metafile = true
 
 [[files]]
@@ -1016,16 +1058,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-beacons-reforged.pw.toml"
 hash = "ac13d81269f031b7cf184bb505ef54aa14b2bce6a5c27f7836ff0b5318b5d094"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "ac7a23bef8a66288e60bb8767df21b76f41b672e8f762ed1aef1f93876eb8689"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-professions-jep.pw.toml"
-hash = "b4d8fbc8ad0bb58c2194116b6c35bacbea824eb30e403fbbf5e5194da9084602"
 metafile = true
 
 [[files]]
@@ -1175,7 +1207,7 @@ metafile = true
 
 [[files]]
 file = "mods/monolib.pw.toml"
-hash = "9e0de5ca33464391d73910e6cfbe90b06f21a691061003d7ad93eb34041046ad"
+hash = "824f457fb2090d9aa7fa134dafa53e6fd4dce92838ccd92e05fb520b5a125e9b"
 metafile = true
 
 [[files]]
@@ -1375,7 +1407,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "0201eb8dce1b66107457141c16049d6ffaf952f506b4e37129a4b4a1b8e12b1c"
+hash = "058f62395b41a3b18121bcd961320cc8fd8460a34a5ccb4f07552e42ff19df4a"
 metafile = true
 
 [[files]]
@@ -1560,7 +1592,12 @@ metafile = true
 
 [[files]]
 file = "mods/tt20.pw.toml"
-hash = "f8382fb7ab96faa147b573619c5da9872fa6abcce25982ac015ca737e7a73339"
+hash = "1cc58361433d589784d73d81a9e9079f0245d16406234ca46f70c7e5da32eb52"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "94b6f14f31abb94be99996b9ae4a595a341d8f97c2d54b879ca4c5a41faafbce"
 metafile = true
 
 [[files]]

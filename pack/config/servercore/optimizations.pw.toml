@@ -1,0 +1,8 @@
+name = "config/servercore/optimizations.yml (server)"
+filename = "optimizations.yml"
+side = "server"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-modpack/main/server-files/config/servercore/optimizations.yml"
+hash-format = "sha512"
+hash = "c5556e93d038a4dd20090edca906cd7064fd32f22175161fcc98bf924df4c2c65dea3bafb383965f3e0860a5da7fbb5bf950cc062af024f3757ec46d2c1ca708"
