@@ -204,12 +204,14 @@ hash = "5560461ed523fa49ddd3b3d0d115a8398259988bc0b517747440cb8cf596e990"
 metafile = true
 
 [[files]]
-file = "config/servercore/config.yml"
-hash = "5b5145dbeb5d5a22c516110d243bd3e88dcc9c1e362fea8c572481fdb236fad4"
+file = "config/servercore/config.pw.toml"
+hash = "3e33f297765a3fb84f70ada039bd3f9d9be93d37edd79bbf51dcbfd64e0cc58e"
+metafile = true
 
 [[files]]
-file = "config/servercore/optimizations.yml"
-hash = "fbb29b9bf5d8f90f58568cfae7f85220d84465d78d6a4dcbfbe3c15ffd172f8d"
+file = "config/servercore/optimizations.pw.toml"
+hash = "f5db22bf68b02e2f5153e4a09d98617e6644879e81a5e109b803ffda30165405"
+metafile = true
 
 [[files]]
 file = "config/serverrules/config.pw.toml"
@@ -1410,7 +1412,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "0201eb8dce1b66107457141c16049d6ffaf952f506b4e37129a4b4a1b8e12b1c"
+hash = "058f62395b41a3b18121bcd961320cc8fd8460a34a5ccb4f07552e42ff19df4a"
 metafile = true
 
 [[files]]
