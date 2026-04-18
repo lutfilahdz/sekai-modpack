@@ -669,6 +669,11 @@ hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
 metafile = true
 
 [[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "20fdb4bb9c30b2aa81499f43657c266e3d84fdb4a3b167c7fdbf3309e4316fc7"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "a8aa09f4f156506ed902620637557fb3623084d5d994f7b4f1f01eb4a19916b6"
 metafile = true
@@ -1561,6 +1566,11 @@ metafile = true
 [[files]]
 file = "mods/tt20.pw.toml"
 hash = "f8382fb7ab96faa147b573619c5da9872fa6abcce25982ac015ca737e7a73339"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "94b6f14f31abb94be99996b9ae4a595a341d8f97c2d54b879ca4c5a41faafbce"
 metafile = true
 
 [[files]]
