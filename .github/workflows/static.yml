@@ -40,11 +40,11 @@ jobs:
 
           (
             cd archive
-            zip -r ../out/${{ github.ref_name }}/pack.zip .
+            zip -r ../out/${{ github.ref_name }}/SekaiModpack.zip .
           )
           (
             cd other/archive
-            zip -r ../../out/${{ github.ref_name == 'main' && 'dev' || 'main' }}/pack.zip .
+            zip -r ../../out/${{ github.ref_name == 'main' && 'dev' || 'main' }}/SekaiModpack.zip .
           )
 
       - name: Setup Pages
