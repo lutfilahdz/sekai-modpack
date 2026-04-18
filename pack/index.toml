@@ -107,12 +107,12 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.pw.toml"
-hash = "faab4f2e485aacab5d521795fd63441aedab1928b7c5fd6f17be8fbcade7a0ac"
+hash = "35ef8c5ffb79a4f3023dc51641acad937868c11ef0e65ac1a7afef0a90f18796"
 metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/blinking-ender-eyes.pw.toml"
-hash = "4963c119327192e1df1405aa0d77aa7cd95aec354f785506f1e4cf11dd5c646a"
+hash = "e4a8e0da20b0dc050ae9dd5c85b264932be117a2203e58f488d12d34013e0f73"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/freshly-modded.pw.toml"
-hash = "124ddc33e94633c1e14a1c6eaebee538a27bdfc9f5617f5c9c08d12849ebfe26"
+hash = "df2efbd0601e8109458b9aa18609b7c725fc43966e061568e2a8a1dd9681e9fa"
 metafile = true
 
 [[files]]
@@ -197,11 +197,6 @@ hash = "e163fa87b25dee78e015829f515405e6409490f0f39d19f67a55a151e8a8cb22"
 [[files]]
 file = "config/paxi/resourcepacks/sekai-modded/pack.png"
 hash = "565ebf57a7863e40ab0496b3d080e63d884bd076bb562f27dbc3bb755eff25c2"
-
-[[files]]
-file = "config/paxi/resourcepacks/semos-animations-lib.pw.toml"
-hash = "5560461ed523fa49ddd3b3d0d115a8398259988bc0b517747440cb8cf596e990"
-metafile = true
 
 [[files]]
 file = "config/servercore/config.pw.toml"
@@ -772,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "f214187db22666c93a2ad97e4657c4a1e627d034dc32c8cac5e6810bd8ad4db1"
+hash = "00d373974e8aada9679b51d05283fd7267d0fccb6bac5f37e8b9b16ac6432848"
 metafile = true
 
 [[files]]
@@ -1042,7 +1037,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "a410434b8f84091c4fb9bab8b3c8735ed78d2a5ff92b53eae3f66924714dae90"
+hash = "8849fe47eb571bdb6c4a522b8087b0eab8f800fa92eeb4e85cba74473a51ae25"
 metafile = true
 
 [[files]]
@@ -1212,7 +1207,7 @@ metafile = true
 
 [[files]]
 file = "mods/monolib.pw.toml"
-hash = "9e0de5ca33464391d73910e6cfbe90b06f21a691061003d7ad93eb34041046ad"
+hash = "824f457fb2090d9aa7fa134dafa53e6fd4dce92838ccd92e05fb520b5a125e9b"
 metafile = true
 
 [[files]]
@@ -1597,7 +1592,7 @@ metafile = true
 
 [[files]]
 file = "mods/tt20.pw.toml"
-hash = "f8382fb7ab96faa147b573619c5da9872fa6abcce25982ac015ca737e7a73339"
+hash = "1cc58361433d589784d73d81a9e9079f0245d16406234ca46f70c7e5da32eb52"
 metafile = true
 
 [[files]]

@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://lutfilahdz.github.io/sekai-modpack/main/client-files/config/paxi/resourcepack_load_order.json"
 hash-format = "sha512"
-hash = "65a33cfd323883949a86644d3a003faa3d029a8ba5a0606927f6bdf5ec7a1217a5bb1f5c1e031b2f4b7b998f7c1fc0b580e0d5f31671293507882451da3cf445"
+hash = "85df8ede4574909d387222a90fe19c4568ec95cf9997505bf59d6a49ae8a9dc4e0801b1d4deaa393aa7b9dbef498b60e0f24d1c973c7ed445bab5da91c4a13bf"
