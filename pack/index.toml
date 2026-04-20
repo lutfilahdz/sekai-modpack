@@ -1551,6 +1551,11 @@ hash = "1bddd2c7698c383126833f6ce562321349a5a9d5ba4e82342c94471e5f7b0694"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+hash = "70f6a98166861713797757383bb8d23d84cfdca39d771a6a4af333d1c08ec706"
+metafile = true
+
+[[files]]
 file = "mods/tool-stats.pw.toml"
 hash = "5fde6bebfcee94c193296988075de903d137c991ea7dafee6f26d49b75deca85"
 metafile = true
