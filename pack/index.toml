@@ -27,6 +27,11 @@ hash = "6409dbfc8556467a2970b90e93fd92cece655cd9c221dbd7a293fac3dbf71e0f"
 metafile = true
 
 [[files]]
+file = "config/diet-client.pw.toml"
+hash = "b3e283a43ef508aaf94f1f6e19938bb26e92307f6ab2d7e807aac5c28a2a648f"
+metafile = true
+
+[[files]]
 file = "config/endermanoverhaul.pw.toml"
 hash = "c6ff54b318c6a83b19a514b3bd22ee65628cb240e6dff9e08870e2d596b38a08"
 metafile = true
@@ -39,6 +44,11 @@ metafile = true
 [[files]]
 file = "config/genshinstrument-client.pw.toml"
 hash = "da147ec41c8c325bbf269347d00257c0e58439aef65d33ffe826ba148bfe5ca6"
+metafile = true
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.pw.toml"
+hash = "4cfa2cc679fc4cd1040ae0383ccb121e66556e6700b5f7ac62ad0c1a83f7a20c"
 metafile = true
 
 [[files]]
@@ -817,7 +827,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
+hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
 metafile = true
 
 [[files]]
@@ -848,6 +858,16 @@ metafile = true
 [[files]]
 file = "mods/farmers-structures.pw.toml"
 hash = "81664854e0699c2bfe8d0eab9bd1917109702288cce899c619f2d601b198edd5"
+metafile = true
+
+[[files]]
+file = "mods/fast-item-frames.pw.toml"
+hash = "079b0f6f75cd47fa7e7a1389656de1eb272a4ff7ba1803e3ec41770c37e16106"
+metafile = true
+
+[[files]]
+file = "mods/fast-paintings.pw.toml"
+hash = "d789f4c9d4d053d7a2810eba08ef663305a886b1c0ef8ee5463ee6e4bd8ac659"
 metafile = true
 
 [[files]]
@@ -1006,6 +1026,11 @@ hash = "e01aa3b603de9bdfbaf3a22b30494ee628a377a2326ff0dabcb7f7787ca63104"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "ce1e5e716166d72f41fc45950db9346934201c3522f333e08de13412d0588141"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
@@ -1138,6 +1163,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "419bd839d19392cc602591a1bd9975e02e4f946f93f161fa793865530628af63"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "cc298019c2d3a47a97e72363b942fe408e5ecb7ff476fe08155793f2f1578317"
 metafile = true
 
 [[files]]

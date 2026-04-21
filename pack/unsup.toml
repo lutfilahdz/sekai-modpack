@@ -36,6 +36,12 @@ description = "Choose whether to use Zoomify, a mod that adds zoom functionality
 side = "client"
 choices = ["zoomify_off", "zoomify_on"]
 
+[flavor_groups.inventory_profiles]
+name = "Inventory Profile Next (IPN)"
+description = "Choose whether to use Inventory Profile Next, a mod that allows you to manage your inventory more efficiently."
+side = "client"
+choices = ["inventory_profiles_off", "inventory_profiles_on"]
+
 [flavor_groups.block_meter]
 name = "Block Meter"
 description = "Choose whether to use Block Meter, a mod that displays information about the block you are looking at."
@@ -133,6 +139,18 @@ flavors = "distant_horizons_on"
 
 [metafile.zoomify]
 flavors = "zoomify_on"
+
+[metafile.inventory-profiles-next]
+flavors = "inventory_profiles_on"
+
+[metafile.libipn]
+flavors = "inventory_profiles_on"
+
+[metafile.inventoryprofiles]
+flavors = "inventory_profiles_on"
+
+[metafile.diet-client]
+flavors = "inventory_profiles_on"
 
 [metafile.blockmeter]
 flavors = "block_meter_on"

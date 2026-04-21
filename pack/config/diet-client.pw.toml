@@ -1,0 +1,8 @@
+name = "config/diet-client.toml (client)"
+filename = "diet-client.toml"
+side = "client"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-modpack/main/client-files/config/diet-client.toml"
+hash-format = "sha512"
+hash = "3e31c34e47b55e9525d6ebc0d6d224f4967eea4bf497176e36ef2f9cb9615c4b82905b6c333411232e610001adadbb32b32bf0773f2f1a49689c84d2f6d524e9"
