@@ -1,0 +1,13 @@
+name = "AcceleratedRendering-reFabricated"
+filename = "acceleratedrendering-1.0.8-1.20.1-alpha-fabric.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hKeZP11p/versions/JL4POWmG/acceleratedrendering-1.0.8-1.20.1-alpha-fabric.3.jar"
+hash-format = "sha512"
+hash = "37fe2bce8300d0458679cfb7de7620998f183605b6f950bd2201ea36901b006295a4e1e744f178675625230d42a115a1d577af666e1a70a88362852e86eaff9b"
+
+[update]
+[update.modrinth]
+mod-id = "hKeZP11p"
+version = "JL4POWmG"

@@ -1,0 +1,13 @@
+name = "BlinkLoad"
+filename = "blinkload-fabric-1.2.1+mc1.20-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2qcrCATG/versions/EpasWjs8/blinkload-fabric-1.2.1%2Bmc1.20-1.20.1.jar"
+hash-format = "sha512"
+hash = "07d5252e391378a0b33c84aca645eb02456e7894c72ee66e3410e4e66672f34d902f62b4036b1e335e2dede620027111d003bf4bd8b3ad02c1ed86e9dce850ab"
+
+[update]
+[update.modrinth]
+mod-id = "2qcrCATG"
+version = "EpasWjs8"
