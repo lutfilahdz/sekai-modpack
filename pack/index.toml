@@ -316,11 +316,6 @@ hash = "9870f77dc7c79097b871ef30cf12c1f3f6f7ca87101c4d4c6584c00bcb5b569d"
 metafile = true
 
 [[files]]
-file = "mods/amecs.pw.toml"
-hash = "dd93fdfa8926f56a46377c9a94f96ef513ab1c21c7cf7d8c32ac305fa0661c97"
-metafile = true
-
-[[files]]
 file = "mods/anti-xray.pw.toml"
 hash = "022933f7c0f9b55861bdf8b60e70a3978947b659b4624b4cd301a4190dd15a47"
 metafile = true
@@ -1208,6 +1203,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "0d438cc5a467aae6a9aa439a4547f990dfbaa4dc4e7bf5dbabf6d6e839411e83"
+metafile = true
+
+[[files]]
+file = "mods/modernkeybinding.pw.toml"
+hash = "6d5af593f6f1a162d980762ab1767616b14ce62e00a5e4aae765fd4842ea789e"
 metafile = true
 
 [[files]]
