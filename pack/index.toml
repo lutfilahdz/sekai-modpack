@@ -19,7 +19,7 @@ hash = "4877aee40f7e40299b9756f638482fd30d3c0ef632bfbf443f8805157b5d5bf7"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "db035283717017bcfb594b0baac1139fc5792d3f51af5ba9b9dabc92b1573284"
+hash = "98c61bdd5b9cc5daf05c1144f6347fda8f0366b42410bcaf32373102927b2272"
 
 [[files]]
 file = "config/creeperoverhaul.pw.toml"

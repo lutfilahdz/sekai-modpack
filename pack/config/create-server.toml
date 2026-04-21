@@ -15,3 +15,7 @@
 		poweredTrainTurningTopSpeed = 83.3333
         # 2.6 km/h × 0.27778 = 0.72 m/s
 		poweredTrainAcceleration = 0.72
+
+[kinetics]
+	[kinetics.contraptions]
+		maxBlocksMoved = 1024
