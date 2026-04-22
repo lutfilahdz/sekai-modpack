@@ -210,7 +210,7 @@ hash = "565ebf57a7863e40ab0496b3d080e63d884bd076bb562f27dbc3bb755eff25c2"
 
 [[files]]
 file = "config/servercore/config.pw.toml"
-hash = "3e33f297765a3fb84f70ada039bd3f9d9be93d37edd79bbf51dcbfd64e0cc58e"
+hash = "6621e62e1303c476d07af8b7ed9b17b7a44a706f5159cf359fdb345aa47a8578"
 metafile = true
 
 [[files]]

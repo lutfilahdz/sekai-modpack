@@ -20,7 +20,7 @@ features:
     # Makes villagers tick less often if they are stuck in a 1x1 space.
     enabled: true
     # Decides the interval in between villager ticks when lobotomized.
-    tick-interval: 20
+    tick-interval: 100
 
 
 # Automatically modifies dynamic settings based on the server performance.
@@ -107,55 +107,55 @@ mob-spawning:
   categories:
     - category: 'MONSTER'
       mobcap: 70
-      spawn-interval: 1
+      spawn-interval: 80
 
     - category: 'CREATURE'
       mobcap: 10
       spawn-interval: 400
 
     - category: 'AMBIENT'
-      mobcap: 15
-      spawn-interval: 1
+      mobcap: 3
+      spawn-interval: 400
 
     - category: 'AXOLOTLS'
       mobcap: 5
-      spawn-interval: 1
+      spawn-interval: 400
 
     - category: 'UNDERGROUND_WATER_CREATURE'
       mobcap: 5
-      spawn-interval: 1
+      spawn-interval: 400
 
     - category: 'WATER_CREATURE'
       mobcap: 5
-      spawn-interval: 1
+      spawn-interval: 400
 
     - category: 'WATER_AMBIENT'
       mobcap: 20
-      spawn-interval: 1
+      spawn-interval: 400
 
     - category: 'GLARES'
       mobcap: 15
-      spawn-interval: 1
+      spawn-interval: 400
 
     - category: 'RASCALS'
       mobcap: 1
-      spawn-interval: 1
+      spawn-interval: 400
 
     - category: 'HYBRID_AQUATIC_FISH'
       mobcap: 16
-      spawn-interval: 1
+      spawn-interval: 400
 
     - category: 'HYBRID_AQUATIC_RIVER_FISH'
       mobcap: 10
-      spawn-interval: 1
+      spawn-interval: 400
 
     - category: 'HYBRID_AQUATIC_CEPHALOPOD'
       mobcap: 4
-      spawn-interval: 1
+      spawn-interval: 400
 
     - category: 'HYBRID_AQUATIC_JELLY'
       mobcap: 4
-      spawn-interval: 1
+      spawn-interval: 400
 
     - category: 'HYBRID_AQUATIC_SHARK'
       mobcap: 8
@@ -163,11 +163,11 @@ mob-spawning:
 
     - category: 'HYBRID_AQUATIC_CRUSTACEAN'
       mobcap: 8
-      spawn-interval: 1
+      spawn-interval: 400
 
     - category: 'HYBRID_AQUATIC_CRITTER'
       mobcap: 8
-      spawn-interval: 1
+      spawn-interval: 400
 
     - category: 'HYBRID_AQUATIC_MINIBOSS'
       mobcap: 4
@@ -179,7 +179,7 @@ mob-spawning:
 
     - category: 'HYBRID_AQUATIC_MAMMAL'
       mobcap: 2
-      spawn-interval: 1
+      spawn-interval: 400
 
 
 # Settings for commands and their formatting.
