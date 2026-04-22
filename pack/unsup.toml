@@ -37,8 +37,8 @@ side = "client"
 choices = ["zoomify_off", "zoomify_on"]
 
 [flavor_groups.inventory_profiles]
-name = "Inventory Profile Next (IPN)"
-description = "Choose whether to use Inventory Profile Next, a mod that allows you to manage your inventory more efficiently."
+name = "Inventory Profiles Next (IPN)"
+description = "Choose whether to use Inventory Profiles Next, a mod that allows you to manage your inventory more efficiently."
 side = "client"
 choices = ["inventory_profiles_off", "inventory_profiles_on"]
 
