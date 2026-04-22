@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "21fdb71e486e3d1143089f3bdc405e30b7d4dabb3e7ef2584730d92b727fdf5a"
+hash = "3f66999d51f9afd06037b659336ba9ea1b7e3352cc010369d8ced539d9aa660d"
 metafile = true
 
 [[files]]
@@ -652,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/deimos.pw.toml"
-hash = "49faa25c5286304a16cb3626bcaa1b321a50f9df4c4c4c44640d0e67f20d9a15"
+hash = "2a4ac9fdb4bb4745c27d9ba21b95040442dcae4a2f09159b81b86362d4c510ac"
 metafile = true
 
 [[files]]
@@ -692,7 +692,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
+hash = "96d64604b948f46b5a9496505eb3c99a1d401ba88fd910c9a8df0c26bda1712d"
 metafile = true
 
 [[files]]
@@ -1282,7 +1282,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "ab7e281c89ea3fcfa92131122027e9e1336e999e7415f87c68eb08235b90b722"
+hash = "ab40f7fc57fecc55e656cd8e00d5c0cebd39d6f8147ddf3f751a0011d1e7f2e7"
 metafile = true
 
 [[files]]
@@ -1447,7 +1447,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "d244f8fd854ab754d3cf588748b327e02f4eb116f4e2118ec9b80a89a932832e"
+hash = "8480f4398a135a4503b7a6a3dde27435deb777e5d7c8fd278bd4a77eb0a8ffa8"
 metafile = true
 
 [[files]]
