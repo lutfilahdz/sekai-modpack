@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "6ff7fedf87eeab27e7cde6415b737d4ceefa4cc2cb78e3f2f3fd5f78d5e15a75"
+hash = "455b28f7b9b1e4500275a73382f4996d89e7bad2c357d23e508d7fc2479849f9"
 metafile = true
 
 [[files]]
@@ -562,12 +562,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-pantographs-and-wires.pw.toml"
-hash = "fc37925f4ff4297b31191a568a8d4f09670264816fe8ce4b8e174d9a049affc4"
+hash = "85b08f06df093aeb41a7ff6c8609b62958b0b1e48c0444d50be3a8ee2a741027"
 metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "30f42bcdc561f8fb7544023795ce9e4017bb17de523b7b9e3940d6d04694bb00"
+hash = "06fb23d97433503d6c298cb0cc6accba342b68350ea644793193ab10360b724f"
 metafile = true
 
 [[files]]
@@ -703,6 +703,11 @@ metafile = true
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "a8aa09f4f156506ed902620637557fb3623084d5d994f7b4f1f01eb4a19916b6"
+metafile = true
+
+[[files]]
+file = "mods/dragonlib.pw.toml"
+hash = "3a07dc15b4e0ea2787dde50efc24f0f4f56ce65ac94a60204651c2d3620aac4d"
 metafile = true
 
 [[files]]
@@ -1792,7 +1797,7 @@ metafile = true
 
 [[files]]
 file = "mods/yes-steve-model.pw.toml"
-hash = "8e32bb5e38d1d1c15ecb41d87df1aa49034b96578aea21256f60ba1b29d68538"
+hash = "c4e5f87ed0a78ba745db60118c8c6227203b5dcbd02279e9150eba68b99de81b"
 metafile = true
 
 [[files]]
