@@ -69,6 +69,10 @@ file = "config/mob-ai-tweaks/general_config.txt"
 hash = "023c3a96b5b61c46f72ab24405d8042592ada51d2b1e7353f1f6fe627b82ec9c"
 
 [[files]]
+file = "config/modernfix-mixins.properties"
+hash = "5257ccf1eb617f126944b1f4f07a6eb160725a2a87b2ac40f24d76d309dd2b5f"
+
+[[files]]
 file = "config/moreculling.pw.toml"
 hash = "5f2d61cb838f9913e41b7e8149c1759c685a7539ab6278a844014e7ef6e3cbf2"
 metafile = true
@@ -348,11 +352,6 @@ metafile = true
 [[files]]
 file = "mods/async-locator.pw.toml"
 hash = "724f61e7275d6a46f035a411271466f6626238883998a8fb8c6558b5756aa42d"
-metafile = true
-
-[[files]]
-file = "mods/asyncparticles.pw.toml"
-hash = "786d07a05c5cc3ae4b2ee78aa95555017a411450a7a0e2328660b9ce3a47943a"
 metafile = true
 
 [[files]]
@@ -1116,11 +1115,6 @@ hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
 metafile = true
 
 [[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "98244dd3cf3bcc56edbc28e83f818a3a9e266b4a01d07d2c9550caf9193453ae"
-metafile = true
-
-[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
 metafile = true
@@ -1298,11 +1292,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
-metafile = true
-
-[[files]]
-file = "mods/mpalladium.pw.toml"
-hash = "2ab59ab43b36dd2f4edb2e98c6ed5bd54e28632e8114b0ba6e131e3a547efbd3"
 metafile = true
 
 [[files]]
@@ -1633,11 +1622,6 @@ metafile = true
 [[files]]
 file = "mods/tiny-item-animations.pw.toml"
 hash = "1bddd2c7698c383126833f6ce562321349a5a9d5ba4e82342c94471e5f7b0694"
-metafile = true
-
-[[files]]
-file = "mods/toadlib.pw.toml"
-hash = "853e563171cf07d427001681d8018f1f1909ab968e3fe912bdfacf7df2ad744c"
 metafile = true
 
 [[files]]
