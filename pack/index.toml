@@ -1650,11 +1650,6 @@ hash = "72c0e1d4d8eb05e6c82c8959885ee5f08b8c7ede63b438e22a7422246679cc46"
 metafile = true
 
 [[files]]
-file = "mods/tramways.pw.toml"
-hash = "9383c0fd9033ae68e361170c7c6ae9586591d1b8d87f86b59ec877227059283c"
-metafile = true
-
-[[files]]
 file = "mods/treechop.pw.toml"
 hash = "d4973af17081ec2f1d5aabad778331459612fc95617cda5fbcafa79ea9384c43"
 metafile = true
