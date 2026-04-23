@@ -5,4 +5,4 @@ side = "server"
 [download]
 url = "https://lutfilahdz.github.io/sekai-modpack/main/server-files/unsup.ini"
 hash-format = "sha512"
-hash = "8be95fa681d683b14a87b7a110f49944c1b24ae95b448a00c9e217ca839c153d72fa1a3723d526736d790061b7d13f3f7772220bd4c418832ce2c5183a63775f"
+hash = "fc7df1b9696675a63adc14747549754b32bb67ba6b10961b9f8e40916fd6f7a4688af1766b7f7b0ee593a1aaf5ba4442eddd4cd2673a87e3484313191352f932"
