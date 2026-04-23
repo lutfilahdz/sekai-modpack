@@ -526,11 +526,6 @@ hash = "79d2d0db0f6cffec9bc3661d9a591ad379e041de1235239dba921f63f452eec7"
 metafile = true
 
 [[files]]
-file = "mods/coroutil.pw.toml"
-hash = "429284603e4c5ca44777cb4ce2455477fcc1eee4dc9a4ae2f759c4895bf332e7"
-metafile = true
-
-[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "ba66179829c0be4a71c29c6cc026514cb2eb81e943f28774590d3b9d4c576d0f"
 metafile = true
@@ -1763,11 +1758,6 @@ metafile = true
 [[files]]
 file = "mods/watermedia.pw.toml"
 hash = "654deede95b671047039067ccb2c7b8044e8b8fe510b48151bbb44a00fa30856"
-metafile = true
-
-[[files]]
-file = "mods/what-are-they-up-to.pw.toml"
-hash = "c709708a11f117743c086f16de67701eb35bfad331826960398bb1e64ea4d35f"
 metafile = true
 
 [[files]]

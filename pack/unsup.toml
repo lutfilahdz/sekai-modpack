@@ -154,6 +154,3 @@ flavors = "inventory_profiles_on"
 
 [metafile.blockmeter]
 flavors = "block_meter_on"
-
-[metafile.what-are-they-up-to]
-flavors = "data_saver_off"
