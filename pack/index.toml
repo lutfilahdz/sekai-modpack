@@ -69,6 +69,10 @@ file = "config/mob-ai-tweaks/general_config.txt"
 hash = "023c3a96b5b61c46f72ab24405d8042592ada51d2b1e7353f1f6fe627b82ec9c"
 
 [[files]]
+file = "config/modernfix-mixins.properties"
+hash = "5257ccf1eb617f126944b1f4f07a6eb160725a2a87b2ac40f24d76d309dd2b5f"
+
+[[files]]
 file = "config/moreculling.pw.toml"
 hash = "5f2d61cb838f9913e41b7e8149c1759c685a7539ab6278a844014e7ef6e3cbf2"
 metafile = true
@@ -1108,11 +1112,6 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
-metafile = true
-
-[[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "98244dd3cf3bcc56edbc28e83f818a3a9e266b4a01d07d2c9550caf9193453ae"
 metafile = true
 
 [[files]]
