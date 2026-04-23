@@ -961,11 +961,6 @@ hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
 metafile = true
 
 [[files]]
-file = "mods/grieflogger.pw.toml"
-hash = "cad90a27c0cdf68a1d0b495ece4d1256c5b0a15a4d3ff97db8aad1ebbbe35019"
-metafile = true
-
-[[files]]
 file = "mods/guard-villagers-(fabricquilt).pw.toml"
 hash = "62cb0a28a1039bd90f1d3534ed52ada9b38a76fd27f98eb44a0ff31493652563"
 metafile = true
@@ -1133,6 +1128,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "be7240c21a4acd8de01d7f6f93be18ca2a233917d32e6f6205f788432525a570"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "3acf17c3380c84a6db100135ad803864eb7f61ad4c5492427381c2129cbb72ac"
 metafile = true
 
 [[files]]
