@@ -48,12 +48,6 @@ description = "Choose whether to use Block Meter, a mod that displays informatio
 side = "both"
 choices = ["block_meter_off", "block_meter_on"]
 
-[flavor_groups.data_saver]
-name = "Data Saver Mode"
-description = "Choose whether to use Data Saver Mode, will disable mods that consume a lot of data, such as:\n- What Are They Up To (Watut)\nRecommended for players with slow or limited internet connections, or those who want to reduce data usage while playing on the server."
-side = "both"
-choices = ["data_saver_off", "data_saver_on"]
-
 [metafile.enhanced-boss-bars]
 flavors = "package_complete"
 [metafile.fusion-connected-textures]
