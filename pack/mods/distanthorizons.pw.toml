@@ -1,6 +1,6 @@
 name = "Distant Horizons"
 filename = "DistantHorizons-3.0.1-b-1.20.1-fabric-forge.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/uCdwusMi/versions/bgsQcD3W/DistantHorizons-3.0.1-b-1.20.1-fabric-forge.jar"

@@ -27,7 +27,7 @@ description = "Sodium for performance optimization, without Iris. Choose this if
 [flavor_groups.distant_horizons]
 name = "Distant Horizons"
 description = "Choose whether to enable Distant Horizons, a mod that adds Level of Detail (LOD) rendering to see much farther with minimal performance impact.\nThe server supports Distant Horizons, so chunks will be downloaded from the server on first join instead of being rendered manually, much more convenient and less demanding.\nWARNING: Will download A LOT OF DATA on first join and may cause temporary high ping."
-side = "both"
+side = "server"
 choices = ["distant_horizons_off", "distant_horizons_on"]
 
 [flavor_groups.zoomify]

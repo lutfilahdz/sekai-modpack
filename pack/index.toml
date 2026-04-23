@@ -692,7 +692,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "96d64604b948f46b5a9496505eb3c99a1d401ba88fd910c9a8df0c26bda1712d"
+hash = "92833b61e3bef325a78ec6d21bcd4a2e07a65758616ceaac2f83bd6084d98064"
 metafile = true
 
 [[files]]
@@ -1882,5 +1882,5 @@ metafile = true
 
 [[files]]
 file = "unsup-server.pw.toml"
-hash = "9b6176116aaa0f143c4b2dad5e0e1ae3075f6c79a7849a6b6b7353549cab660b"
+hash = "4595411ab85447e0721892510b08615d32a8d5e4e5fac94714dd4e31ca6e38e0"
 metafile = true
