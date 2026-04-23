@@ -1,0 +1,8 @@
+name = "config/inventoryprofilesnext/inventoryprofiles.json (client)"
+filename = "inventoryprofiles.json"
+side = "client"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-modpack/main/client-files/config/inventoryprofilesnext/inventoryprofiles.json"
+hash-format = "sha512"
+hash = "d3314dd472cc2834ea22c77f5ef8a579a7d2275071cfcf4995c3601a7843f2b15e054fbec5d4b0424f3a57b30b6cbb4c8edfd5b1c3488c637ac6c9885ac9e6e5"

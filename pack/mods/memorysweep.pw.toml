@@ -1,0 +1,13 @@
+name = "MemorySweep"
+filename = "memorysweep-1.20.1-1.1.2-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3oJ7L0Iq/versions/oHmCWE3S/memorysweep-1.20.1-1.1.2-fabric.jar"
+hash-format = "sha512"
+hash = "2e8a3385bf4c243f6b4a3a3e14c1bbac69f7d351e8bf0a3e7dfc4db36dc10650a4b5b7831967ae38e966dc670a29b101c527768baac2c96be4642d3598ee55ed"
+
+[update]
+[update.modrinth]
+mod-id = "3oJ7L0Iq"
+version = "oHmCWE3S"
