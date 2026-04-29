@@ -599,6 +599,11 @@ hash = "a0c0ebf3ab1c147a7196d98ec8eb2afb70454d0cac4ddc556478dd3aa38e8dab"
 metafile = true
 
 [[files]]
+file = "mods/createschematicchecker.pw.toml"
+hash = "829c3fc09feacd3562f1a7ce1af4090d3697538b8ab2b41c1e478128054312ca"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "22ea62bf986d0de86f7acf09cd7226026e95ad8c1126ac124ca96126927802a3"
 metafile = true
