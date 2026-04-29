@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "config/bcc.json"
-hash = "e1077e288fabde347c2f8632cbd656be59751965edb9abd599b865bc5c0cf15f"
+hash = "fffaac9b4cde0b49844969c555feb98aecd5c36109cf3a9619fd27be9e427f73"
 
 [[files]]
 file = "config/carryon-common.json"
@@ -22,18 +22,8 @@ file = "config/create-server.toml"
 hash = "98c61bdd5b9cc5daf05c1144f6347fda8f0366b42410bcaf32373102927b2272"
 
 [[files]]
-file = "config/creeperoverhaul.pw.toml"
-hash = "6409dbfc8556467a2970b90e93fd92cece655cd9c221dbd7a293fac3dbf71e0f"
-metafile = true
-
-[[files]]
 file = "config/diet-client.pw.toml"
 hash = "b3e283a43ef508aaf94f1f6e19938bb26e92307f6ab2d7e807aac5c28a2a648f"
-metafile = true
-
-[[files]]
-file = "config/endermanoverhaul.pw.toml"
-hash = "c6ff54b318c6a83b19a514b3bd22ee65628cb240e6dff9e08870e2d596b38a08"
 metafile = true
 
 [[files]]
@@ -213,6 +203,10 @@ file = "config/paxi/resourcepacks/sekai-modded/pack.png"
 hash = "565ebf57a7863e40ab0496b3d080e63d884bd076bb562f27dbc3bb755eff25c2"
 
 [[files]]
+file = "config/seasons.json"
+hash = "7715c85e1112c89f453a66750437d30f82b8769d726e7cb2e5917bdc66b934eb"
+
+[[files]]
 file = "config/servercore/config.pw.toml"
 hash = "6621e62e1303c476d07af8b7ed9b17b7a44a706f5159cf359fdb345aa47a8578"
 metafile = true
@@ -331,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "9870f77dc7c79097b871ef30cf12c1f3f6f7ca87101c4d4c6584c00bcb5b569d"
+hash = "a15f63f7e34594773d1bf8223bcae4dc4355107880fa21ec6e91140ba99c2e02"
 metafile = true
 
 [[files]]
@@ -551,12 +545,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "3f66999d51f9afd06037b659336ba9ea1b7e3352cc010369d8ced539d9aa660d"
+hash = "8b75247d13eef261e7bdbdfd1cdb8434bafc3fe974a1bdeea73f133dec1b173b"
 metafile = true
 
 [[files]]
 file = "mods/create-pantographs-and-wires.pw.toml"
 hash = "85b08f06df093aeb41a7ff6c8609b62958b0b1e48c0444d50be3a8ee2a741027"
+metafile = true
+
+[[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "b2a678e1792f590fd624aeb878913cd399b79f228185ce702eca4d980766b02d"
 metafile = true
 
 [[files]]
@@ -600,8 +599,13 @@ hash = "a0c0ebf3ab1c147a7196d98ec8eb2afb70454d0cac4ddc556478dd3aa38e8dab"
 metafile = true
 
 [[files]]
+file = "mods/createschematicchecker.pw.toml"
+hash = "829c3fc09feacd3562f1a7ce1af4090d3697538b8ab2b41c1e478128054312ca"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
-hash = "af83eb1ea0f7a36e4424248c744c1cbebb5045d361e843b873d4d89bf65ad8ad"
+hash = "22ea62bf986d0de86f7acf09cd7226026e95ad8c1126ac124ca96126927802a3"
 metafile = true
 
 [[files]]
@@ -686,7 +690,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "2cba0cff7bd17bd8ed79bbbb54825d1387b96d078ddfb89e2640cbf89f742ddd"
+hash = "f0095efaeebd237f0c9a6c3db60577528cabb02f460d63eea93b9f464554a67d"
 metafile = true
 
 [[files]]
@@ -701,7 +705,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragonlib.pw.toml"
-hash = "3a07dc15b4e0ea2787dde50efc24f0f4f56ce65ac94a60204651c2d3620aac4d"
+hash = "a97f1b6c84565b44243cddfd1c0833c2b514eb8905bd4158d7b079d2539ca636"
 metafile = true
 
 [[files]]
@@ -737,6 +741,11 @@ metafile = true
 [[files]]
 file = "mods/effecttimerplus.pw.toml"
 hash = "1fd492cd1c570fd7fd953f4bcc27ae204b4107e1d21a54efc9c7d512cc1b5141"
+metafile = true
+
+[[files]]
+file = "mods/emi-create-schematics.pw.toml"
+hash = "c19a508c148dbd12a6b9d5b1576d312ae2ba5dbbc300bcc46d7f9aae1b73e81a"
 metafile = true
 
 [[files]]
@@ -796,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "00d373974e8aada9679b51d05283fd7267d0fccb6bac5f37e8b9b16ac6432848"
+hash = "4e319cf84b9e559348c450a4e3a2b9d0cb0e19349855f61db00ec17fd4a70eaa"
 metafile = true
 
 [[files]]
@@ -1071,7 +1080,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemphysic.pw.toml"
-hash = "9cbbbcc1fb90a2b31f649b7f4f717b68e3e96ef1d201698852a3353ad14b105d"
+hash = "59524804429a8b76ff51402efe33eaf648c6bef4bc0499560f1cf1273ec21fc5"
 metafile = true
 
 [[files]]
@@ -1336,7 +1345,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "2e9cdd1ada00cf28e55f2b1fbd8eca6faa696ac6194efdc24f1fb4cdc0a9c6a7"
+hash = "1e713381f6250235057154e547f572956ed1c4bb91c8cc01723227189b8c7444"
 metafile = true
 
 [[files]]
@@ -1436,7 +1445,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "8480f4398a135a4503b7a6a3dde27435deb777e5d7c8fd278bd4a77eb0a8ffa8"
+hash = "60454ae891cff5b858f809215f5d7a7bed365084a279ae704ba8431495ebe306"
 metafile = true
 
 [[files]]
