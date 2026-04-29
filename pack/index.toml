@@ -22,18 +22,8 @@ file = "config/create-server.toml"
 hash = "98c61bdd5b9cc5daf05c1144f6347fda8f0366b42410bcaf32373102927b2272"
 
 [[files]]
-file = "config/creeperoverhaul.pw.toml"
-hash = "6409dbfc8556467a2970b90e93fd92cece655cd9c221dbd7a293fac3dbf71e0f"
-metafile = true
-
-[[files]]
 file = "config/diet-client.pw.toml"
 hash = "b3e283a43ef508aaf94f1f6e19938bb26e92307f6ab2d7e807aac5c28a2a648f"
-metafile = true
-
-[[files]]
-file = "config/endermanoverhaul.pw.toml"
-hash = "c6ff54b318c6a83b19a514b3bd22ee65628cb240e6dff9e08870e2d596b38a08"
 metafile = true
 
 [[files]]
