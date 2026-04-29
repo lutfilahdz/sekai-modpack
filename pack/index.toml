@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "9870f77dc7c79097b871ef30cf12c1f3f6f7ca87101c4d4c6584c00bcb5b569d"
+hash = "a15f63f7e34594773d1bf8223bcae4dc4355107880fa21ec6e91140ba99c2e02"
 metafile = true
 
 [[files]]
@@ -551,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "3f66999d51f9afd06037b659336ba9ea1b7e3352cc010369d8ced539d9aa660d"
+hash = "8b75247d13eef261e7bdbdfd1cdb8434bafc3fe974a1bdeea73f133dec1b173b"
 metafile = true
 
 [[files]]
@@ -601,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "af83eb1ea0f7a36e4424248c744c1cbebb5045d361e843b873d4d89bf65ad8ad"
+hash = "22ea62bf986d0de86f7acf09cd7226026e95ad8c1126ac124ca96126927802a3"
 metafile = true
 
 [[files]]
@@ -686,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "2cba0cff7bd17bd8ed79bbbb54825d1387b96d078ddfb89e2640cbf89f742ddd"
+hash = "f0095efaeebd237f0c9a6c3db60577528cabb02f460d63eea93b9f464554a67d"
 metafile = true
 
 [[files]]
@@ -701,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragonlib.pw.toml"
-hash = "3a07dc15b4e0ea2787dde50efc24f0f4f56ce65ac94a60204651c2d3620aac4d"
+hash = "a97f1b6c84565b44243cddfd1c0833c2b514eb8905bd4158d7b079d2539ca636"
 metafile = true
 
 [[files]]
@@ -796,7 +796,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "00d373974e8aada9679b51d05283fd7267d0fccb6bac5f37e8b9b16ac6432848"
+hash = "4e319cf84b9e559348c450a4e3a2b9d0cb0e19349855f61db00ec17fd4a70eaa"
 metafile = true
 
 [[files]]
@@ -1071,7 +1071,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemphysic.pw.toml"
-hash = "9cbbbcc1fb90a2b31f649b7f4f717b68e3e96ef1d201698852a3353ad14b105d"
+hash = "59524804429a8b76ff51402efe33eaf648c6bef4bc0499560f1cf1273ec21fc5"
 metafile = true
 
 [[files]]
@@ -1336,7 +1336,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "2e9cdd1ada00cf28e55f2b1fbd8eca6faa696ac6194efdc24f1fb4cdc0a9c6a7"
+hash = "1e713381f6250235057154e547f572956ed1c4bb91c8cc01723227189b8c7444"
 metafile = true
 
 [[files]]
@@ -1436,7 +1436,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "8480f4398a135a4503b7a6a3dde27435deb777e5d7c8fd278bd4a77eb0a8ffa8"
+hash = "60454ae891cff5b858f809215f5d7a7bed365084a279ae704ba8431495ebe306"
 metafile = true
 
 [[files]]
