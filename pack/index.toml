@@ -1239,6 +1239,11 @@ hash = "8ccc14f8940a58b493edaa1182d2fcf983caa4c03d5d5d6fe2c781fc8fe8e738"
 metafile = true
 
 [[files]]
+file = "mods/minopp.pw.toml"
+hash = "4957f080380defde08ff83e90483fd2b95ac7d7cf9007b1e71bef59b06c65be8"
+metafile = true
+
+[[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
 hash = "15a6b08a06ae6b4e5bb5afafda241db5114800c57eeea68bb26be6845699960a"
 metafile = true
