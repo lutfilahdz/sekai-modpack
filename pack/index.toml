@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "a15f63f7e34594773d1bf8223bcae4dc4355107880fa21ec6e91140ba99c2e02"
+hash = "e3714f163dd8d1751d186221ad0049dc5719a2d6537ddfbc4e3403f769cffe2c"
 metafile = true
 
 [[files]]
@@ -525,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "bf5126cfccebfe97c55dd58b1c7e0ab5ea26b7956f2c52ba71d4af9bbf6e9730"
+hash = "b2dfb994b81c1abf1dba036c84e560832d726c633cd69d1e3bebbfc105541558"
 metafile = true
 
 [[files]]
@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "8b75247d13eef261e7bdbdfd1cdb8434bafc3fe974a1bdeea73f133dec1b173b"
+hash = "4dce06530bc32cc926f22724fecb85797c8791a76356d851b35aeabecb43ed55"
 metafile = true
 
 [[files]]
@@ -560,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "06fb23d97433503d6c298cb0cc6accba342b68350ea644793193ab10360b724f"
+hash = "bc8b1e41d5cb1dd17be6d90ab91645581b5ca840bc972238d1e7a31be5042035"
 metafile = true
 
 [[files]]
@@ -600,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/createschematicchecker.pw.toml"
-hash = "6e19189489e005ea06a9cda7d7655daf82eb4e1e8ad8b28a509106ac052652a1"
+hash = "16b6d1f172bde2223e268cc1399e3c758fc81440998cc024d4bdba7457cf00d0"
 metafile = true
 
 [[files]]
@@ -690,7 +690,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "f0095efaeebd237f0c9a6c3db60577528cabb02f460d63eea93b9f464554a67d"
+hash = "0cc3ff629b8a360cf7d4b22ae5144a6d46ddcd66905cbf65b1f44ddee31ad3f1"
 metafile = true
 
 [[files]]
@@ -705,7 +705,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragonlib.pw.toml"
-hash = "a97f1b6c84565b44243cddfd1c0833c2b514eb8905bd4158d7b079d2539ca636"
+hash = "e4de0f0b7903dd919031a6302bf2058d5c992a54a3f8f0bc2bf3d05658c95eb9"
 metafile = true
 
 [[files]]
@@ -810,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "58d5f66daafdd9c73e578abfd9dc1e1434269db675c09703e821fc966d3c0570"
+hash = "93685b916f48316555dbdbf7eda859f12cdb95c63bb2c69b3974ac1f4cfa30b8"
 metafile = true
 
 [[files]]
@@ -1085,7 +1085,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "8849fe47eb571bdb6c4a522b8087b0eab8f800fa92eeb4e85cba74473a51ae25"
+hash = "b81cf8cf53cfe7231b0cacf555af00dedf55f0419895af4bde0e77764fbd04d9"
 metafile = true
 
 [[files]]
@@ -1110,7 +1110,7 @@ metafile = true
 
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
-hash = "28e1e39df852ca1db18840a224c8cd09cb51f439cf26db3f704204bb9e8db3e5"
+hash = "ab9fb2e8b069ffd3b155c87fe9ffd6b73bcb1a573f69ee8fdcb5f407b290b12a"
 metafile = true
 
 [[files]]
@@ -1125,7 +1125,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
+hash = "968ebc0ac017432971e093cf7ac83657d2dcf30014d5549402a431a2bd8be95f"
 metafile = true
 
 [[files]]
@@ -1230,22 +1230,22 @@ metafile = true
 
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
-hash = "5b4b410ca9eeb3a30d769e7cdb33c6a0eacc25a6ff2ce48d61fa4124c444b700"
+hash = "9a21eef6c1e0f0ddcaf22670892aef9eae3ae8aa50097dbb74b94dacd406dfaa"
 metafile = true
 
 [[files]]
-file = "mods/mining-quakes.pw.toml"
-hash = "f2cd3541e90bd4bfa08981a0f8425d8723ca312155f6aaf293e5ec97c63c4bbe"
+file = "mods/mining_and_placing_animations.pw.toml"
+hash = "8ccc14f8940a58b493edaa1182d2fcf983caa4c03d5d5d6fe2c781fc8fe8e738"
 metafile = true
 
 [[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
-hash = "78c8f24f9686177298a19e872db2d6ea2083a71274c67140604fb2bf7af9d2cc"
+hash = "15a6b08a06ae6b4e5bb5afafda241db5114800c57eeea68bb26be6845699960a"
 metafile = true
 
 [[files]]
 file = "mods/mob-ai-tweaks.pw.toml"
-hash = "6670d7bae65894018fa15e59e04adb9156214c28f125685cabba5d02b3d70c3d"
+hash = "14c934c199b7f933e3e56c296c84666d7322997d46f8919bdd33ae8d702f7b94"
 metafile = true
 
 [[files]]
@@ -1280,12 +1280,12 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "e4504a53ae99081661200af3420676ed09ed31a9a4a17fb3a2039d6bf13b209e"
+hash = "95f07e920b9da409c32082b553f4900bf52a2481c694f23667c72d6bfd2d8042"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "ab40f7fc57fecc55e656cd8e00d5c0cebd39d6f8147ddf3f751a0011d1e7f2e7"
+hash = "9df70e05075bc6e043d9defcd67e9596235ca7667acba8ea64f2cbe5f27eab0b"
 metafile = true
 
 [[files]]
@@ -1375,12 +1375,12 @@ metafile = true
 
 [[files]]
 file = "mods/particle-effects.pw.toml"
-hash = "8e738f6831799941b6e0abf306a3f8274110bc9ffbf2ecaf5b62cd521fe16441"
+hash = "3dd7b15e828eaa4ce8a123ea1964420d22ce339a77fb549b245ae7e9479d05ef"
 metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "6deab2f4dc17c1286dbb0f7da68d1f0b8b936e788b135c51da0d64369df57b52"
+hash = "41d166680b569e977741c5b2d9410c24402e988dd178894d3982913fa9098876"
 metafile = true
 
 [[files]]
@@ -1495,7 +1495,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "3c08e80abd1ec07fcadde5d820fb44ec9ab964fe60385e1ae368b2eadc5d8b86"
+hash = "c70910870880249b6513a0b3ccfc5db5f5390ed28756c65c3988bfbfb154724e"
 metafile = true
 
 [[files]]
@@ -1760,12 +1760,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "f186401be01f7216a7bbd73c8e3e7cff96ab9db76d19029ee3be92f407b1b207"
+hash = "35ce6bc4ddd617ad5f83cae9328627c6ec7a15847ed67ce6535c4cbbab87ede0"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "9d9ab7248c5a9ed01ce3e23fba5c60139065e31d94452e3179b263ac4be535aa"
+hash = "c6bfd205ab19e32992fd245197ced9cfe8313fd47dee527dc973f413eee221e7"
 metafile = true
 
 [[files]]
