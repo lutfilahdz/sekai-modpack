@@ -564,6 +564,11 @@ hash = "bc8b1e41d5cb1dd17be6d90ab91645581b5ca840bc972238d1e7a31be5042035"
 metafile = true
 
 [[files]]
+file = "mods/create-repair.pw.toml"
+hash = "8c0aa73b611272ed5ad258a4c08b75897515abfb90ef9371f03fff20e4a5480b"
+metafile = true
+
+[[files]]
 file = "mods/create-rustic-structures.pw.toml"
 hash = "3d89047f6b642266a20342ceeceba67101ba5cc7eb6b8fb367d34c18c42447b6"
 metafile = true
