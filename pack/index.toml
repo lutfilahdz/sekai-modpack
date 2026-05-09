@@ -1329,11 +1329,6 @@ hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
 metafile = true
 
 [[files]]
-file = "mods/nyfs-spiders.pw.toml"
-hash = "c9f99ca6c6db28a5788cc556c39886b55433c93aa66a45b57de0ccf075bb66ad"
-metafile = true
-
-[[files]]
 file = "mods/observable.pw.toml"
 hash = "f4e30d7382bed2274ece18518504ebdc13392951b60e2ac1e7dffec6c10f64e9"
 metafile = true
