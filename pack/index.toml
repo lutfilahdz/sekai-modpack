@@ -605,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/createschematicchecker.pw.toml"
-hash = "c65ed916fe9ccf23de9c40501a265922356c88cf44ef59524ac68e3f94f00f53"
+hash = "791515055cd8892b649f12ed917ef6b7d11e0da5808d693f0abb51a3059f627b"
 metafile = true
 
 [[files]]
@@ -1360,12 +1360,12 @@ metafile = true
 
 [[files]]
 file = "mods/pandalib.pw.toml"
-hash = "ff7cba9f585ee04471d6c3fefc2a2117c372bb5c94c8001c6d24c99bd4fb0c9a"
+hash = "8efd80853d966944fceafd975d3326332dab36d1e3d07b5f32fc3200c76be5b2"
 metafile = true
 
 [[files]]
 file = "mods/pandas-falling-trees.pw.toml"
-hash = "ae10e438adf5bf2cbe4cfc183ab247a61f2bf1483028c840d388d9152fc5e49d"
+hash = "8ad040bafa288f1a9a8967baef2335855f06a18a8abc98a7bb37b798af5b908e"
 metafile = true
 
 [[files]]
@@ -1740,12 +1740,22 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "fae1ab4ba09991a134688e5f6b370f94335308216394b78df7ae5c6a61a58cf8"
+hash = "c890e5a6241113a49c30241c8f08cab161ae3880ca0f6f9325aecd4b76adf6a8"
+metafile = true
+
+[[files]]
+file = "mods/watermedia-yt-plugin.pw.toml"
+hash = "79e2fcf85fb4e4e4248844f4ec18daaedcd5a45157222e26383eabb29c99d60e"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "654deede95b671047039067ccb2c7b8044e8b8fe510b48151bbb44a00fa30856"
+hash = "976854e8cb0473236ae4ce6b5b29bb901dc46b20d072bfed79e1f07c64b37095"
+metafile = true
+
+[[files]]
+file = "mods/watervision.pw.toml"
+hash = "1d954e3b9985b3434b38bf84d8a4a615180aa1b0dc2c4088e06f37bfbb879067"
 metafile = true
 
 [[files]]
