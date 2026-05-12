@@ -1235,7 +1235,7 @@ metafile = true
 
 [[files]]
 file = "mods/mining_and_placing_animations.pw.toml"
-hash = "8ccc14f8940a58b493edaa1182d2fcf983caa4c03d5d5d6fe2c781fc8fe8e738"
+hash = "4c7ec795a083a23fd0c8cca6d04dd5bd6b9560614d5a2f6438a878aea774c123"
 metafile = true
 
 [[files]]
