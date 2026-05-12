@@ -490,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "455b28f7b9b1e4500275a73382f4996d89e7bad2c357d23e508d7fc2479849f9"
+hash = "42ea3e3acc2d65f31d70b7f665a201df7a11ad40bcea6e08b4a362b2af02d3d9"
 metafile = true
 
 [[files]]
@@ -605,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/createschematicchecker.pw.toml"
-hash = "c65ed916fe9ccf23de9c40501a265922356c88cf44ef59524ac68e3f94f00f53"
+hash = "091dd40302566fc8453f8c6f0ff27e7e7006d5a3c1d71c0cd35caa30fcdd5628"
 metafile = true
 
 [[files]]
@@ -770,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "fec1ffa03b4d62e47be25512840490844fc383cf82d2ad35345b2f87a21e8228"
+hash = "9f392b5b0f939c8a7b72a0af0100ff62198c4ae280b25a55d58071827ceb4746"
 metafile = true
 
 [[files]]
@@ -805,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "4e319cf84b9e559348c450a4e3a2b9d0cb0e19349855f61db00ec17fd4a70eaa"
+hash = "65c4754081efdfa32071560e11c8016acdf712b6b82e4b263b3cf414477d0fdc"
 metafile = true
 
 [[files]]
@@ -845,17 +845,17 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "ba7e6bcc801252d8fc37d34998b0b47bfe912e30c411b1811fe79d9a183f7ca1"
+hash = "f65adc1e72f8059fa5f643e5c48d297fbde9da4a95d10b00c2dd76bd7df192d7"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "54a806dbb8f15f8acd7a7d1dc528ce6242acfd8567784e96477d3026798718ae"
+hash = "d9f5084f3684add4a72eac5500df626a92e5e36eda54d9527ad1da0a16c2060a"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
+hash = "be62f58a5936f4452b740d3d3196ecfa91cc653783df374535c2a3ee7f4e0d92"
 metafile = true
 
 [[files]]
@@ -1235,7 +1235,7 @@ metafile = true
 
 [[files]]
 file = "mods/mining_and_placing_animations.pw.toml"
-hash = "4c7ec795a083a23fd0c8cca6d04dd5bd6b9560614d5a2f6438a878aea774c123"
+hash = "3b6b9b55cd13754db3d8298c1adaf0cbd86e2bdd5b81869d1d3af428481b5219"
 metafile = true
 
 [[files]]
@@ -1275,7 +1275,7 @@ metafile = true
 
 [[files]]
 file = "mods/monolib.pw.toml"
-hash = "9e0de5ca33464391d73910e6cfbe90b06f21a691061003d7ad93eb34041046ad"
+hash = "fd214f4193f9dd1e42d6b48ebe36b95d963e35e60c2d9965bc7e7fd36b58b483"
 metafile = true
 
 [[files]]
@@ -1290,7 +1290,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "9df70e05075bc6e043d9defcd67e9596235ca7667acba8ea64f2cbe5f27eab0b"
+hash = "bac0e8149a629d9e68d8e120b7d55e1a0c81ccae375982d860d8d6104808a1c1"
 metafile = true
 
 [[files]]
