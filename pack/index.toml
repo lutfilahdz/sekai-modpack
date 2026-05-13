@@ -14,6 +14,11 @@ file = "config/carryon-common.json"
 hash = "1691ffbe4d38b9dbb08f0fd15083dc910ead093dac86438c3b2bc03a44f96678"
 
 [[files]]
+file = "config/craftpresence.pw.toml"
+hash = "2e31d3745ecd3d1ab7bbf3fb96e67aad5844a1634a60eb433c71e5964d5a5c76"
+metafile = true
+
+[[files]]
 file = "config/crash_assistant/config.pw.toml"
 hash = "3faaf5f7c741fc8c90b8833749db6defb4ccc99ff0fa7bde3b30bea31e3fbe0c"
 metafile = true
