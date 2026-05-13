@@ -1,6 +1,6 @@
 name = "WATERMeDIA: Multimedia API"
 filename = "watermedia-2.1.37.jar"
-side = "client"
+side = "both"
 pin = true
 
 [download]
