@@ -1,0 +1,13 @@
+name = "Obscure Tooltips"
+filename = "obscure_tooltips-fabric-1.20.1-3.10.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5vetjDBY/versions/iAUQRr8H/obscure_tooltips-fabric-1.20.1-3.10.0.jar"
+hash-format = "sha512"
+hash = "03051fd5c3c46ecca341fc950898959b66d50ed89ae0aa2eeba4ca989896b517c74753316d2de9709b7e1515b85e3dc5125851a7718972005a9a573a36def2b0"
+
+[update]
+[update.modrinth]
+mod-id = "5vetjDBY"
+version = "iAUQRr8H"

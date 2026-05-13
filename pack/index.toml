@@ -944,6 +944,11 @@ hash = "dfe0fb2bcdb8a356dae8f654710b72ea9c532c7b05afee33186de068df492ffb"
 metafile = true
 
 [[files]]
+file = "mods/fragmentum.pw.toml"
+hash = "6f2d01b3610ae6ebd24ce2fda8cf6d1384f85a34ca81764ae7badf3fc49bf0a0"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "2fcd17a965738c1649d434a0d5f8077321b4bb90a8c9d9d868d220d8bbd5abb3"
 metafile = true
@@ -1336,6 +1341,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
+metafile = true
+
+[[files]]
+file = "mods/obscure-tooltips.pw.toml"
+hash = "fbe15c34264f40ddd71dabfb4cde5b324301931e398523abb368a53c1206a6c0"
 metafile = true
 
 [[files]]
