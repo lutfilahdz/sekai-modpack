@@ -1,0 +1,8 @@
+name = "config/crash_assistant/config.toml (client)"
+filename = "config.toml"
+side = "client"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-modpack/main/client-files/config/crash_assistant/config.toml"
+hash-format = "sha512"
+hash = "c5fe9eaae5dfebd2967a61d07c7f7058488184265255764b20fce8e9d25e6556b55267416b313e5b74482ec51fe964422133b3339bd2b6908e4b930577c73e6d"

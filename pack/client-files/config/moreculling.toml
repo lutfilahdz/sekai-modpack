@@ -1,5 +1,6 @@
 [modCompatibility]
 copycats = false
+minopp = false
 create = false
 createrailwaysnavigator = false
 pantographsandwires = false

@@ -1,6 +1,7 @@
 name = "MonoLib"
 filename = "monolib-fabric-1.20.1-2.1.0.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/9leXt4A5/versions/fks1hD8T/monolib-fabric-1.20.1-2.1.0.jar"

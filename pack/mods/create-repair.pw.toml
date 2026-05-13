@@ -1,0 +1,13 @@
+name = "Create Repair"
+filename = "create_repair-fabric-1.20.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/G3K7UdxY/versions/ZYziWrjj/create_repair-fabric-1.20.1-1.2.1.jar"
+hash-format = "sha512"
+hash = "9e56afef0ab5c424c24654754b8c61d3011dea76ae83fa54227370cabcfe5dd0ae888d6acea49676e951c2592da3a04564088f01274352906e4aa204d6df15dd"
+
+[update]
+[update.modrinth]
+mod-id = "G3K7UdxY"
+version = "ZYziWrjj"
