@@ -1,13 +1,13 @@
 name = "Colorwheel"
-filename = "colorwheel-fabric-1.2.5+mc1.20.1.jar"
+filename = "colorwheel-fabric-1.2.6+mc1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BzHgFoGz/versions/4uq1IaMQ/colorwheel-fabric-1.2.5%2Bmc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/BzHgFoGz/versions/38G61vwS/colorwheel-fabric-1.2.6%2Bmc1.20.1.jar"
 hash-format = "sha512"
-hash = "498cd2df48279c5a11ce55ced856e179ee1e9bfe547699903b4affb7e399ec692a569a291aa04af829757c053e941e0a740afd918177251d2f235d3aeb467b21"
+hash = "ff2805c37631cf8573421da370a7050da3b64072d7516167ec57b7f2f1e0a6859e74bb9613f2a4afed6a7584b5ffe5f71affa3fe2adf2b12c09f4e2b30b3f585"
 
 [update]
 [update.modrinth]
 mod-id = "BzHgFoGz"
-version = "4uq1IaMQ"
+version = "38G61vwS"

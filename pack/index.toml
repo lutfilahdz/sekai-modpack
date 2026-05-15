@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.pw.toml"
-hash = "35ef8c5ffb79a4f3023dc51641acad937868c11ef0e65ac1a7afef0a90f18796"
+hash = "69f7bdbf73281a5cb240447f945898ee453c6a8472c468fabffaf5a6f7c244af"
 metafile = true
 
 [[files]]
@@ -146,12 +146,12 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/fresh-animations.pw.toml"
-hash = "c4acd801de1d2fc6d87a460863b6c0bce61c64c60a22ddfa66e3410bd4ac06b0"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/freshly-modded.pw.toml"
-hash = "df2efbd0601e8109458b9aa18609b7c725fc43966e061568e2a8a1dd9681e9fa"
+hash = "e62582e3f30a4bae1149865fa9c132320f6ae0f0b49e98cb9f978310f80441a6"
 metafile = true
 
 [[files]]
@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "42ea3e3acc2d65f31d70b7f665a201df7a11ad40bcea6e08b4a362b2af02d3d9"
+hash = "b97b7a2cc79524983f494d25e57aef6b20a61e56d268f83ab15c3b5943dbdaa3"
 metafile = true
 
 [[files]]
@@ -845,7 +845,7 @@ metafile = true
 
 [[files]]
 file = "mods/explorify.pw.toml"
-hash = "d93c3c494955dfc44e2590ded2ee8414d582e87f2fca00575f08576ae2197d57"
+hash = "6adce6422e74091638dbd7872270ee58d9a22dc18340580f809cc50c739e0d4f"
 metafile = true
 
 [[files]]
@@ -1365,7 +1365,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "1e713381f6250235057154e547f572956ed1c4bb91c8cc01723227189b8c7444"
+hash = "c6fc14586b636aafe22189a59a3365bca4363e9a00ec4be08c8d5f94f2d80e18"
 metafile = true
 
 [[files]]
