@@ -116,19 +116,25 @@
       "useAsMain": false,
       "isInstance": false,
       "activityType": 0,
+      "statusDisplayType": 0,
       "partyPrivacy": 1,
       "details": "{getFirst(menu.message, dimension.message)}",
-      "gameState": "{getOrDefault(server.message)}",
-      "largeImageKey": "{getFirst(menu.icon, server.icon)}",
-      "largeImageText": "{getFirst(menu.message, server.message)}",
-      "smallImageKey": "{getFirst(player.icon, pack.icon)}",
-      "smallImageText": "{getFirst(custom.player_info_out, pack.name)}",
+      "detailsUrl": "",
+      "gameState": "{getFirst({getOrDefault(server.message)}, {\"Sekai Survival Modded\"})}",
+      "gameStateUrl": "",
+      "appName": "",
+      "largeImageKey": "{getFirst(menu.icon, dimension.icon)}",
+      "largeImageText": "{getFirst(menu.message, dimension.message)}",
+      "largeImageUrl": "",
+      "smallImageKey": "sekai-survival-modded",
+      "smallImageText": "Sekai Survival Modded",
+      "smallImageUrl": "",
       "startTimestamp": "{data.general.time}",
       "endTimestamp": "",
       "buttons": {}
     },
     "dynamicIcons": {
-      "mc.lutfilahdz.com": "https://cdn.lutfilahdz.com/sekai-survival-modded.png"
+      "sekai-survival-modded": "https://cdn.lutfilahdz.com/sekai-survival-modded.png"
     },
     "dynamicVariables": {
       "mods": "{general.mods} Mod(s)",

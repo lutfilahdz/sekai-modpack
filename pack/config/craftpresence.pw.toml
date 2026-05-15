@@ -1,0 +1,8 @@
+name = "config/craftpresence.json (client)"
+filename = "craftpresence.json"
+side = "client"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-modpack/main/client-files/config/craftpresence.json"
+hash-format = "sha512"
+hash = "225b151c5a2b8bafde09543c5bcdaf7112510c5b19ce545d4c9bfe59e7efc2c4d26eee26dde4a4333606ec47653fc4697eb97feed628d30f29195d264992b010"
