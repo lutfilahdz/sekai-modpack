@@ -575,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-repair.pw.toml"
-hash = "8c0aa73b611272ed5ad258a4c08b75897515abfb90ef9371f03fff20e4a5480b"
+hash = "9a4ecbc2bbe7c08aa7723c335f357abe8bb5cc1904f61d5b4054dfa0601f20aa"
 metafile = true
 
 [[files]]
