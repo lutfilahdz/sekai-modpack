@@ -559,6 +559,11 @@ hash = "4dce06530bc32cc926f22724fecb85797c8791a76356d851b35aeabecb43ed55"
 metafile = true
 
 [[files]]
+file = "mods/create-nowheel.pw.toml"
+hash = "cc9259c43a083388380ddc8d03e782b980a5594cbefcf7f7934f0f986bd0f0c2"
+metafile = true
+
+[[files]]
 file = "mods/create-pantographs-and-wires.pw.toml"
 hash = "85b08f06df093aeb41a7ff6c8609b62958b0b1e48c0444d50be3a8ee2a741027"
 metafile = true
