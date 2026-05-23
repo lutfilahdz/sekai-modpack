@@ -964,6 +964,11 @@ hash = "2fcd17a965738c1649d434a0d5f8077321b4bb90a8c9d9d868d220d8bbd5abb3"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "7c4c132e1ffb20c72dfc2b9288cffc457df74417b264b83a007f969b323fecff"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "6516077c98f38a3ec994551eba7ac41cede37a1e07ece8537450710eae583b30"
 metafile = true
@@ -1151,6 +1156,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "be7240c21a4acd8de01d7f6f93be18ca2a233917d32e6f6205f788432525a570"
+metafile = true
+
+[[files]]
+file = "mods/leaderboards.pw.toml"
+hash = "c6f94ef6e39219ed4e0bb613ab5ce39238bfb1c7110b92905b8b5429ad29d4ca"
 metafile = true
 
 [[files]]
