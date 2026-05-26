@@ -704,6 +704,11 @@ hash = "630011e25bd2f05958b2ad715602ac3f6cca0504ee6c793e71828de54e480cbf"
 metafile = true
 
 [[files]]
+file = "mods/ding.pw.toml"
+hash = "a5f3933185d717d0075e6084169e36ee47000d9d89035bd6816912df4c8f30b7"
+metafile = true
+
+[[files]]
 file = "mods/discord-chat-connect.pw.toml"
 hash = "96245c61b1c34e338c2f35534c9c87139430eb019e970b2bd92a697a6317394b"
 metafile = true
@@ -1031,6 +1036,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "f669b069214a8e88d17066ff6715fe131568cd190450ba408b4c2c5479a1a263"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "8317a5b3efefd79c435b77d786f2cfdfcadb91f3d423dd99a897d3f3e5ead799"
 metafile = true
 
 [[files]]
