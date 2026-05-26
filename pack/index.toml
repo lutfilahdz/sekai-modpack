@@ -394,6 +394,11 @@ hash = "331a81a2b1907120a5130e769c93b4495554a9b28208adf6dec60a0dd80068f8"
 metafile = true
 
 [[files]]
+file = "mods/betterdays.pw.toml"
+hash = "df30563a4c917a83bc0aea6e8b50d5e2caaae6bcc1574f0d8b6e10f2e9108336"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a2de85ebe9629568398185b5b9554bcc0c54e322b214d78368485a6074a66279"
 metafile = true
@@ -1496,11 +1501,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "82c3a531c2180cd45f59e433315e31dc886c464a05ea38ea0b82ce1bc033c520"
-metafile = true
-
-[[files]]
-file = "mods/seamless-sleep.pw.toml"
-hash = "957ae9bcd748600e378adc986752d671ecad37c4dfe36e3ac7b405f0c11b69b8"
 metafile = true
 
 [[files]]
