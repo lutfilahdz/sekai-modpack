@@ -42,12 +42,6 @@ description = "Choose whether to use Inventory Profiles Next, a mod that allows 
 side = "client"
 choices = ["inventory_profiles_off", "inventory_profiles_on"]
 
-[flavor_groups.block_meter]
-name = "Block Meter"
-description = "Choose whether to use Block Meter, a mod that displays information about the block you are looking at."
-side = "both"
-choices = ["block_meter_off", "block_meter_on"]
-
 [metafile.enhanced-boss-bars]
 flavors = "package_complete"
 [metafile.fusion-connected-textures]
@@ -145,6 +139,3 @@ flavors = "inventory_profiles_on"
 
 [metafile.diet-client]
 flavors = "inventory_profiles_on"
-
-[metafile.blockmeter]
-flavors = "block_meter_on"
