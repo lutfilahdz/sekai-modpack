@@ -1374,6 +1374,11 @@ hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
 metafile = true
 
 [[files]]
+file = "mods/no-mob-farms.pw.toml"
+hash = "c8c2ab83ce79f15ef072fda28a15df87e09b8bc884bfcfea97f305b7bfd9513e"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
 metafile = true
