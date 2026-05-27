@@ -1,13 +1,13 @@
 name = "Immersive Paintings"
-filename = "immersive_paintings-0.6.11+1.20.1-fabric.jar"
+filename = "immersive_paintings-0.6.13+1.20.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6txNkua3/versions/b4Eb0rf1/immersive_paintings-0.6.11%2B1.20.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/6txNkua3/versions/TOHB3jQz/immersive_paintings-0.6.13%2B1.20.1-fabric.jar"
 hash-format = "sha512"
-hash = "9be52f56f22853847b9f3132e12a026d921002201a78e24305e559054ed5d19b111cb5d7650a6fb1670d990fdaecd1008de70c433d778dfa7da700e0f7b13dac"
+hash = "033119c1bcb7c7538f2adc79bb90925c32b8ffef0c22b5be768af096ac660c219a9bf268d9f7d613521f54a425803ac525498be342b8e902ccfaed352a5544aa"
 
 [update]
 [update.modrinth]
 mod-id = "6txNkua3"
-version = "b4Eb0rf1"
+version = "TOHB3jQz"
