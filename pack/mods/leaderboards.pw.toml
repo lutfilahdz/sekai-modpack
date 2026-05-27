@@ -1,0 +1,13 @@
+name = "Leaderboards"
+filename = "leaderboards-1.20.1-Fabric-2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "12143eacc868179f985479c3fe1c85e0c3384fb2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8070315
+project-id = 1367888

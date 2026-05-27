@@ -1,0 +1,13 @@
+name = "No Mob Farms"
+filename = "nomobfarm-fabric-1.6.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Pqq824CC/versions/DX1CHUE7/nomobfarm-fabric-1.6.6.jar"
+hash-format = "sha512"
+hash = "c4d14d4143f5b81c4e2e15143fcc602c001f77cf0e21df9e683ce34b90209a187bb5a77d2649b5c48302d12a31bd7871dd99eaa76bf22b05c6c0dc2f0f9714e3"
+
+[update]
+[update.modrinth]
+mod-id = "Pqq824CC"
+version = "DX1CHUE7"
