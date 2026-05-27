@@ -145,6 +145,11 @@ hash = "ad0205b106664eebc1defd75c9c90faa9ac28d4598883d336f41816d833c30a4"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/extended-illumina.pw.toml"
+hash = "80fd371f2fa97052559d4bb6f19bed03ade26e46b4651a91f6885ef49cdb1add"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/fresh-ai-tweaks.pw.toml"
 hash = "359cf51446c3a076f3d09cc5bc44d1952aae455141bf6c55f3a4494f80f0796d"
 metafile = true
