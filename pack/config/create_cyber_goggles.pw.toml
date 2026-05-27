@@ -1,0 +1,8 @@
+name = "config/create_cyber_goggles.toml (client)"
+filename = "create_cyber_goggles.toml"
+side = "client"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-modpack/main/client-files/config/create_cyber_goggles.toml"
+hash-format = "sha512"
+hash = "8a1eb2902dec7522e6952a976ea3938ad403df98cfc189a273cabf52d858a2c8f8b22f03b9b2e657190c98a781889cc259ff00a44b0143923e3a54221eedabcc"

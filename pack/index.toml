@@ -32,6 +32,11 @@ file = "config/create-server.toml"
 hash = "db035283717017bcfb594b0baac1139fc5792d3f51af5ba9b9dabc92b1573284"
 
 [[files]]
+file = "config/create_cyber_goggles.pw.toml"
+hash = "54951ce62ca5b84afd87a588dfc6ec8cc99f21924e4e75314c32241268a1c5cf"
+metafile = true
+
+[[files]]
 file = "config/diet-client.pw.toml"
 hash = "b3e283a43ef508aaf94f1f6e19938bb26e92307f6ab2d7e807aac5c28a2a648f"
 metafile = true
@@ -541,6 +546,11 @@ metafile = true
 [[files]]
 file = "mods/create-beamline.pw.toml"
 hash = "1f2d2569877b9ce0bc3f51e47f682d2d2c0dfd5300e440400bb79f80a8afcda7"
+metafile = true
+
+[[files]]
+file = "mods/create-cyber-goggles.pw.toml"
+hash = "bb94947bc4c189d03bbf5ae46a98e9144a6e920aef1a35a62c517c7ed7fd8b85"
 metafile = true
 
 [[files]]
