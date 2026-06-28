@@ -126,12 +126,12 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.pw.toml"
-hash = "69f7bdbf73281a5cb240447f945898ee453c6a8472c468fabffaf5a6f7c244af"
+hash = "31896fc5d38a78c43f86b4100f4e9fcd7db33876b2fac419383d4f1545589541"
 metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/blinking-ender-eyes.pw.toml"
-hash = "e4a8e0da20b0dc050ae9dd5c85b264932be117a2203e58f488d12d34013e0f73"
+hash = "14524a769720820efec18a80b55766d1b30ea276426def9609f790b9ae6ba257"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/enhanced-boss-bars.pw.toml"
-hash = "ad0205b106664eebc1defd75c9c90faa9ac28d4598883d336f41816d833c30a4"
+hash = "8e3a3b85f7857514b3b9dea4e3663e94decc40d3227a8937581afb4a58b19461"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/freshly-modded.pw.toml"
-hash = "e62582e3f30a4bae1149865fa9c132320f6ae0f0b49e98cb9f978310f80441a6"
+hash = "332610aeaaa69f318639be1ebb5aea17a20f2c10e306d1de3bffe2d4232de0dd"
 metafile = true
 
 [[files]]
