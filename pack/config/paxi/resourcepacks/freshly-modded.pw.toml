@@ -1,13 +1,13 @@
 name = "F.M.R.P"
-filename = "Freshly Modded 3.0.2.zip"
+filename = "Freshly Modded 3.0.3.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/u4nhiAdP/versions/h4Cret6t/Freshly%20Modded%203.0.2.zip"
+url = "https://cdn.modrinth.com/data/u4nhiAdP/versions/XRTUXlMK/Freshly%20Modded%203.0.3.zip"
 hash-format = "sha512"
-hash = "d5afca02ae0c6214b3999b3665ecc9c9e3fbb4d827b2076994c656e8051a671b9c3386fb47e79f34739b844e314458afe35bebf1cc7fa126a4fddf30d5c16942"
+hash = "a80fd38acbbeeec781a40f2bba10c2a1f84e569f509e6ac557a190d6558605c51a29560f7ac0ca3c59e0a1d971d59c6549053d083d6347e390447b802fe3104c"
 
 [update]
 [update.modrinth]
 mod-id = "u4nhiAdP"
-version = "h4Cret6t"
+version = "XRTUXlMK"

@@ -1,13 +1,13 @@
 name = "Skin Restorer"
-filename = "skinrestorer-2.7.0+1.20-fabric.jar"
+filename = "skinrestorer-2.8.1+1.20-fabric.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/ghrZDhGW/versions/TwEwBt5C/skinrestorer-2.7.0%2B1.20-fabric.jar"
+url = "https://cdn.modrinth.com/data/ghrZDhGW/versions/xcHSO44j/skinrestorer-2.8.1%2B1.20-fabric.jar"
 hash-format = "sha512"
-hash = "1682e93edcb09ea8cc53fd13f3eece82274dc7f02dbb8d4913841d6e757031a91d4511aa443e661a27b88623053211947e90cc84d5045795eba09dcc31a73320"
+hash = "a790df5da2e68af5eb992ec19436ed162cfe2bcd5a93c3a08d441d28c9b1a76cf204efdee85a39fc90e1ec34d61aad2b75a839c30ff205f24f53d5dc988cdcd0"
 
 [update]
 [update.modrinth]
 mod-id = "ghrZDhGW"
-version = "TwEwBt5C"
+version = "xcHSO44j"

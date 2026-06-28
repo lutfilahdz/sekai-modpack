@@ -1,13 +1,13 @@
 name = "Create: Cyber Goggles"
-filename = "CreateCyberGoggles-1.20.1-7.0.2-Fabric.jar"
+filename = "CreateCyberGoggles-1.20.1-7.1.0-Fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/TlQAWQCY/versions/6w0U0SbG/CreateCyberGoggles-1.20.1-7.0.2-Fabric.jar"
+url = "https://cdn.modrinth.com/data/TlQAWQCY/versions/9sNUzRyC/CreateCyberGoggles-1.20.1-7.1.0-Fabric.jar"
 hash-format = "sha512"
-hash = "06c96c8585b7998384a3e22e5e3470b51ba99d122cf6f4a1915e969e7d06e29c0455764da5767a7fccf2c9c23a5c6de339c7494ccacee1f5636ac34532be4a2d"
+hash = "3c34cf326baa0a8257dc208472b5d6a1f227c1bebe49de801ca57a6c6715253b344cf1aab9d2711b53e9e7067de708f75fd6de49822a24b9bd68311c03a2d30c"
 
 [update]
 [update.modrinth]
 mod-id = "TlQAWQCY"
-version = "6w0U0SbG"
+version = "9sNUzRyC"
