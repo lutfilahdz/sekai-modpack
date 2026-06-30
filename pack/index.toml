@@ -116,13 +116,8 @@ file = "config/paxi/datapacks/sekai/pack.png"
 hash = "565ebf57a7863e40ab0496b3d080e63d884bd076bb562f27dbc3bb755eff25c2"
 
 [[files]]
-file = "config/paxi/datapacks/withering-ai-tweaks.pw.toml"
-hash = "9d6cf25c5870990f434ddb207146d231ba45199b1182691ec69d0b08396b081d"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepack_load_order.pw.toml"
-hash = "31896fc5d38a78c43f86b4100f4e9fcd7db33876b2fac419383d4f1545589541"
+hash = "93137ba0366679651e7f4e8b39f067cb6c1684e08612ba0164ff6543e2caf6a3"
 metafile = true
 
 [[files]]
@@ -146,11 +141,6 @@ hash = "80fd371f2fa97052559d4bb6f19bed03ade26e46b4651a91f6885ef49cdb1add"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/fresh-ai-tweaks.pw.toml"
-hash = "359cf51446c3a076f3d09cc5bc44d1952aae455141bf6c55f3a4494f80f0796d"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/fresh-animations.pw.toml"
 hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
@@ -169,14 +159,6 @@ metafile = true
 file = "config/paxi/resourcepacks/mt-ct-d.pw.toml"
 hash = "f52bcfb58f9988ad6abbcd25b770ec5e82669ccfd7aa80072c3e42ec2f9c458b"
 metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/sekai-modded/assets/minecraft/font/default.json"
-hash = "dde1ab58751b9ea432ec50dfc0c382f9beed0915cc9ec9c65549fec851a37223"
-
-[[files]]
-file = "config/paxi/resourcepacks/sekai-modded/assets/minecraft/textures/font/wither/title.png"
-hash = "0ebeae8053ce0ac4b8373bdebab991bd4f36db1c1d73a339ea51ba3f9d37d3f0"
 
 [[files]]
 file = "config/paxi/resourcepacks/sekai-modded/assets/minecraft/textures/gui/title/background/panorama_0.png"
@@ -1307,11 +1289,6 @@ metafile = true
 [[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
 hash = "7200918dd833883908a2c175fc8905eeb994ec3d0297a986627392c9168ec7c2"
-metafile = true
-
-[[files]]
-file = "mods/mob-ai-tweaks.pw.toml"
-hash = "14c934c199b7f933e3e56c296c84666d7322997d46f8919bdd33ae8d702f7b94"
 metafile = true
 
 [[files]]
