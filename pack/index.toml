@@ -1134,8 +1134,8 @@ hash = "457bc3ffe30b30e57348288acc19319cd1ef15f3b3e07c94faed7e3b58c34629"
 metafile = true
 
 [[files]]
-file = "mods/itemphysic.pw.toml"
-hash = "d75a1d76c281884519ebfdaa165d5ca8804f473bb2f79288d49a5b5ecfe42376"
+file = "mods/itemphysic-lite.pw.toml"
+hash = "969298f31181ad2a23b042c76ce3bc89f8301b840fca0a0a94ee95816c9f3946"
 metafile = true
 
 [[files]]
