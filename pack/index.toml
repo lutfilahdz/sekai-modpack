@@ -61,10 +61,6 @@ file = "config/item_obliterator.json5"
 hash = "aca4c824999dc7b7eb2a0f31b7ab38f6152d4d357f98557ae454b71fa8d23ef4"
 
 [[files]]
-file = "config/itemphysic.json"
-hash = "d2c744a28216518b607fb3b268baca29a382470ae1aa113c5bdf1aa117281483"
-
-[[files]]
 file = "config/kiwi-client.pw.toml"
 hash = "e230ff5cbcceaa24a78cc96f1e4eb70adb9cfb31e7b7888c9282bcd57288b47a"
 metafile = true
