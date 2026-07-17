@@ -433,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "16cfbdf4470e0f8462e20447d4a07cefcee4ed72d1e616c0648c487de949def6"
+hash = "cf9a667564de2e65f87965d4fb22e41824738fd7ffb0ad344189570c88b99d44"
 metafile = true
 
 [[files]]
@@ -518,7 +518,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "32078cdd125f4c4c9d4d06004ccede04483cf0d89a248cf0496b67bec3304c27"
+hash = "a3a87e30e93688966faaed3a8f38d34296b1b08b2ed9470f6180d83fc39230f5"
 metafile = true
 
 [[files]]
@@ -703,7 +703,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "e085b5e9282cff61510903cf9e7bcab22e2c19d8fed31cfb317bb7c9717bec4d"
+hash = "fe326f4571e4563e883c51c9eed627feb03a08213c7b4ded1b34257f1e0ed60f"
 metafile = true
 
 [[files]]
@@ -863,7 +863,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d9f5084f3684add4a72eac5500df626a92e5e36eda54d9527ad1da0a16c2060a"
+hash = "5cbcd9395c1788ed7a1356e392a4483a30d903312faffd9795c6dee9afba3fac"
 metafile = true
 
 [[files]]
@@ -968,7 +968,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "b9bed415e9e9b8eaadba04a09fa7c52be1286fb25ac641afadbab2dda1d99cf3"
+hash = "903213d3d9a59856869eea96185de72779fd90243b277892d1fb139610a8a946"
 metafile = true
 
 [[files]]
@@ -1043,7 +1043,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d00804e18277945dda73f59796c1932862ceb96aac073a92b7a66ef92b4cf3bd"
+hash = "51b79a1eacb4f15f1626c802137c95b0a4316fefb540e6ec31cf81118b91c20b"
 metafile = true
 
 [[files]]
@@ -1113,7 +1113,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "afd8124610f1a4a137064eaf4d9b4d1164912d53adfc22728f0d16b869f59b57"
+hash = "f79e3bcc454b880352499fa676ac641fff89aef7b6b1a91593e3cb23c1bae62a"
 metafile = true
 
 [[files]]
@@ -1128,7 +1128,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e4251ea9bd89454c17954d98b424e1087fba4b4bb6d4f136d63abf8962eecf22"
+hash = "499ca1ffb68e2b16672ea1ea42108c3bf58a2d8c39bf8988e5f5f2bead70aa78"
 metafile = true
 
 [[files]]
@@ -1313,7 +1313,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "95f07e920b9da409c32082b553f4900bf52a2481c694f23667c72d6bfd2d8042"
+hash = "f8f334d1da1c8f61867668298d17d43cdeaf7ae4e3631f89eb2f1a916f5353ff"
 metafile = true
 
 [[files]]
@@ -1383,7 +1383,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "d536c01087ca79d02b66600eb379c925bf59b393655e22ebf71ef4374cc50959"
+hash = "008ca16d9087746b90b5a672a1e703c31de73fe649c34064b12519523a58d61a"
 metafile = true
 
 [[files]]
@@ -1538,7 +1538,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "43e96ba8a49b55ec50c3e2316ad5661f981d7927d1bf7c36e3aa733daccddfb4"
+hash = "ea73052b864facde2539830d7b5b67a712039b1cc756d6dd94edea3dcbbb4037"
 metafile = true
 
 [[files]]
@@ -1798,12 +1798,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "e59b2284b134d2a2b7628e06b67e922772daa770b837c3b7ae71dbaefcee9d4b"
+hash = "27c15c41714ade0d4a5b5c101daaeb1313964718d8cdae71a889f55bf7a2d485"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "9ab6b96bbd937f4148daee8917862ef9337dd5fc600906bb564ab7ab726ed83c"
+hash = "0a2f75b607680f498133e71557084be2a89b5b876388ef9caa40fb4cc566bdff"
 metafile = true
 
 [[files]]
