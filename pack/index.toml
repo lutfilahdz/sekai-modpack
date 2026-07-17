@@ -307,11 +307,6 @@ hash = "c631326a0c1333d1664315857d460cb3e1d5f3a54a75b8e6ac65944e93d2e455"
 metafile = true
 
 [[files]]
-file = "mods/allow-portal-guis.pw.toml"
-hash = "f32ef43a8b795217612fea8f8e2d87f7ed0c85d9a726e564c6286ad4135d2a83"
-metafile = true
-
-[[files]]
 file = "mods/almanac.pw.toml"
 hash = "6317bd1e6013059a52574d7002e744cd1d662ba345d019d75e37d384fd6060b0"
 metafile = true
@@ -1549,11 +1544,6 @@ metafile = true
 [[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "43e96ba8a49b55ec50c3e2316ad5661f981d7927d1bf7c36e3aa733daccddfb4"
-metafile = true
-
-[[files]]
-file = "mods/smooth-gui.pw.toml"
-hash = "a5bd6775f59d8374224e325b6811492a9ab48c65be5aecb2747612a9b7bf3da5"
 metafile = true
 
 [[files]]
