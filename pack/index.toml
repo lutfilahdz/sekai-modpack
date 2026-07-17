@@ -1262,11 +1262,6 @@ hash = "5d31750ce5fbe3b691850f5d57f7a7251b15a340af46895bc88061e16a9facf6"
 metafile = true
 
 [[files]]
-file = "mods/memorysweep.pw.toml"
-hash = "23e0e41a60f7816500651f2e5160d71d1445fdeddaff2bb4721813538f41b80b"
-metafile = true
-
-[[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
 hash = "9a21eef6c1e0f0ddcaf22670892aef9eae3ae8aa50097dbb74b94dacd406dfaa"
 metafile = true
