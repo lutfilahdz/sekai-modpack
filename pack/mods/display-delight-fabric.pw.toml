@@ -1,0 +1,13 @@
+name = "Display Delight Fabric"
+filename = "display-delight-1.6.3-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jK2xMxSG/versions/O2weK21x/display-delight-1.6.3-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "857c6e1b45ba8c54819cf2907e96b9f6ad84af784b3bf18d3affe72e8e922c4cc17d793ab1c5e5f2e91b821f2c0dfe75c5457a19837702849625fc1c71aacd2e"
+
+[update]
+[update.modrinth]
+mod-id = "jK2xMxSG"
+version = "O2weK21x"

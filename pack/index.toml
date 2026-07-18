@@ -537,6 +537,11 @@ hash = "8967141c407b288dbf1e54d452372013f81a90e77930266dea0a0118fd13bd9f"
 metafile = true
 
 [[files]]
+file = "mods/create-diesel-generators-fabric-restitched.pw.toml"
+hash = "bce23f20ecf7977dde68ce9686c6d1df00ae69299493ab4cdd07025aa4c40329"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
 metafile = true
@@ -699,6 +704,11 @@ metafile = true
 [[files]]
 file = "mods/discord-chat-connect.pw.toml"
 hash = "51aae49b298f426bd5a3ebcb53311a860861e49a367649264848a44ccdcde208"
+metafile = true
+
+[[files]]
+file = "mods/display-delight-fabric.pw.toml"
+hash = "6cb219248fc4d96629423d2b1cd53b419ca97d802395a09ebd20ae2d8de79b80"
 metafile = true
 
 [[files]]
