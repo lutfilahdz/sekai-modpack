@@ -663,7 +663,7 @@ metafile = true
 
 [[files]]
 file = "mods/delightful-creators.pw.toml"
-hash = "541a5b9aa01cff808c7a3347abb51beccfecca2565626964074cc59b310c0c71"
+hash = "703af3adbaad75fc3403f5c509da4ce7846275560677e352ef5ea6cc02685097"
 metafile = true
 
 [[files]]
@@ -868,7 +868,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
+hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
 metafile = true
 
 [[files]]
@@ -1308,7 +1308,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-structure-lib.pw.toml"
-hash = "7b185dc1fe5cc7d852041ad56d7a3167ab3b4f27e97368b34c9b0297216831db"
+hash = "5bb7986ea6d391df8bd3649ab51f792bad584d0473ae4576b4c38803f2a36440"
 metafile = true
 
 [[files]]
@@ -1793,7 +1793,7 @@ metafile = true
 
 [[files]]
 file = "mods/wits.pw.toml"
-hash = "a2040008497c6e04280f6e6413098a9d46b41ee51df4486c4915578b9b9d1f60"
+hash = "d5d348ad723497bbcc933d2eb1fcf4c597e7c86e08393d395cd2581098766d2c"
 metafile = true
 
 [[files]]
