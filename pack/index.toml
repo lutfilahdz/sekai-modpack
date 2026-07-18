@@ -1018,12 +1018,12 @@ metafile = true
 
 [[files]]
 file = "mods/hybrid-aquatic.pw.toml"
-hash = "bdc2ffec4ec1ac56c72f7a84a442ed21804c9abca6f643ed705e84cc6398a03f"
+hash = "7e22f75479a71837c7b5c3ac48dec41b916d562024055bb9ece869035dde3161"
 metafile = true
 
 [[files]]
 file = "mods/hybrid-delights.pw.toml"
-hash = "d8e4fc4c2baea0367638401c3d28d7aa1c91c26a49cb2adc5db897a40b50cc39"
+hash = "76bed8e7e5c74c8922e19b0b5447c1763deb5ef08b9ba3d87670ac377b9863f4"
 metafile = true
 
 [[files]]

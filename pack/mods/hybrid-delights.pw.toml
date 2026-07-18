@@ -1,6 +1,7 @@
 name = "Hybrid Delights"
 filename = "[1.20.1] Hybrid Delights 1.1.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/WR49BBCu/versions/nyYS5l4Z/%5B1.20.1%5D%20Hybrid%20Delights%201.1.jar"
