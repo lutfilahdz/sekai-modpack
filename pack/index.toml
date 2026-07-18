@@ -437,11 +437,6 @@ hash = "cf9a667564de2e65f87965d4fb22e41824738fd7ffb0ad344189570c88b99d44"
 metafile = true
 
 [[files]]
-file = "mods/chatwalk.pw.toml"
-hash = "935e3fc9ea41b56a257336a04ea6c2b47fa3b8dacc69c25286d262aebd6198ca"
-metafile = true
-
-[[files]]
 file = "mods/chefs-delight.pw.toml"
 hash = "8d2e29579e022c0eb9d2ba081e610d089375d801563d582cedbd5caefde0c372"
 metafile = true
