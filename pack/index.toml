@@ -652,6 +652,11 @@ hash = "c8f03e91197b0660d584180dd0794916969e5f800158a3ec80b66b7164eb1d28"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+hash = "119642cc64a5790f42738939121ea5a08100eb0c3867d7f64ead1a4d0eb8a163"
+metafile = true
+
+[[files]]
 file = "mods/danger-close.pw.toml"
 hash = "dc11bda9d648d2d7269da84cbaf05209a46ea424cade426b7caae97eea00c54a"
 metafile = true
@@ -1624,11 +1629,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "caa507edc23c21df56cda8b40d30d74eaa999b19bf2fe4e2b53cf9a256e1ac76"
-metafile = true
-
-[[files]]
-file = "mods/swingthrough.pw.toml"
-hash = "7512ad9cbcbe6f6b1abf4f6b9911636c9cef8bb966792a2f8ece795e08dbda4c"
 metafile = true
 
 [[files]]
