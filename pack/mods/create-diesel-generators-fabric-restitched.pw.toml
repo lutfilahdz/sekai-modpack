@@ -1,0 +1,13 @@
+name = "Create: Diesel Generators [Fabric Restitched]"
+filename = "createdieselgenerators-fabric-restitched-rel7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zMna5NU5/versions/7Ev8fVWv/createdieselgenerators-fabric-restitched-rel7.jar"
+hash-format = "sha512"
+hash = "086665630fba4b531a078a3f2b08b3f3919ed39f338b162f64c63101904a9c9dd8d2857b08192ff9a4e4907ca63562675da4a95f3a34bd634d6134e7af57e019"
+
+[update]
+[update.modrinth]
+mod-id = "zMna5NU5"
+version = "7Ev8fVWv"

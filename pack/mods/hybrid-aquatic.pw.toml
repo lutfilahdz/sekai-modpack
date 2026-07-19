@@ -1,6 +1,7 @@
 name = "Hybrid Aquatic"
 filename = "[1.20.1-Fabric] Hybrid Aquatic 1.5.4.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/HH4FjUqN/versions/ilV3D2yr/%5B1.20.1-Fabric%5D%20Hybrid%20Aquatic%201.5.4.jar"

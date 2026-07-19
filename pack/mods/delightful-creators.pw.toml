@@ -1,13 +1,13 @@
 name = "Delightful Creators"
-filename = "delightful-creators-1.5-1.20.x.jar"
+filename = "delightful-creators-1.6-1.20.x.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jmJ87gsb/versions/pypf2sxy/delightful-creators-1.5-1.20.x.jar"
+url = "https://cdn.modrinth.com/data/jmJ87gsb/versions/NQYn2veF/delightful-creators-1.6-1.20.x.jar"
 hash-format = "sha512"
-hash = "0b4ad7ad9efa031fa76076d7d81e3de6d7f30d8993e0cc612831d8f626d321aafd0c336d473fe5ac3f89e271a412486f1031c40f850bac70119f1c2eb722f601"
+hash = "1cc3384274893aac62be02e360b95a650b15fad823a5f045772d1e4c91ee4b279e099e35ae6764cff611361b0a50ed035802732eecbf6d667e9ee16235121cd4"
 
 [update]
 [update.modrinth]
 mod-id = "jmJ87gsb"
-version = "pypf2sxy"
+version = "NQYn2veF"
