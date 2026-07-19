@@ -1,0 +1,13 @@
+name = "AsyncParticles"
+filename = "AsyncParticles-20.1.2.0+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/c3onkd5k/versions/V2FtZSTv/AsyncParticles-20.1.2.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "2582a4af89817a095f01849179eb3b3f738b1df478feff8041799a20872e356b59a358b4e4288b4666f9df84f7d62d500034905caf5db43d2022c45055e8943c"
+
+[update]
+[update.modrinth]
+mod-id = "c3onkd5k"
+version = "V2FtZSTv"

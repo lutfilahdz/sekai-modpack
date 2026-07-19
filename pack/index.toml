@@ -342,6 +342,11 @@ hash = "724f61e7275d6a46f035a411271466f6626238883998a8fb8c6558b5756aa42d"
 metafile = true
 
 [[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "6a567f7c1c465aae2acb7fdbac4ec9569da45518f8df275f9bdd8ccff6c331b3"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "b8c29dac6fb7c1cf18ca53b7a96c6c4854307999b77a751e803bdd9650a125e0"
 metafile = true
@@ -1054,6 +1059,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "51b79a1eacb4f15f1626c802137c95b0a4316fefb540e6ec31cf81118b91c20b"
+metafile = true
+
+[[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "0fb754a6e66172625e7a4d3a0825634dd724fd75353a97178b10f41985c62c7b"
 metafile = true
 
 [[files]]
