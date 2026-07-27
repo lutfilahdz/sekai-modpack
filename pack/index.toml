@@ -1557,11 +1557,6 @@ hash = "ea73052b864facde2539830d7b5b67a712039b1cc756d6dd94edea3dcbbb4037"
 metafile = true
 
 [[files]]
-file = "mods/smooth-scroll.pw.toml"
-hash = "f985288dc5af3c5fde96f303509839f1836c2a9716c321eb7910b90563413aa3"
-metafile = true
-
-[[files]]
 file = "mods/smooth-swapping.pw.toml"
 hash = "e015878053e1a5bd2874eeda7fdf8447f1e1a110e8ceaab4fde9c38449468796"
 metafile = true
