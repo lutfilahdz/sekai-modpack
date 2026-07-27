@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "config/bcc.json"
-hash = "9315efafc883650738b0024b6cffe8636bf9af89bcf483e13cf48f8cdae3cf20"
+hash = "d1d2c844e1d913f8b9b709a74f8e16cd2f6bb1471c89e71367fc311a7ca72827"
 
 [[files]]
 file = "config/carryon-common.json"
@@ -39,6 +39,11 @@ metafile = true
 [[files]]
 file = "config/diet-client.pw.toml"
 hash = "b3e283a43ef508aaf94f1f6e19938bb26e92307f6ab2d7e807aac5c28a2a648f"
+metafile = true
+
+[[files]]
+file = "config/emi.pw.toml"
+hash = "1de8d816c5020a85ff6310e5f4a74b66d1349bb2d435ab3d026bdd55015d1c5e"
 metafile = true
 
 [[files]]
@@ -136,6 +141,11 @@ hash = "8e3a3b85f7857514b3b9dea4e3663e94decc40d3227a8937581afb4a58b19461"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/even-better-enchants.pw.toml"
+hash = "c787950c5bdbff78bc2ef218554f1486fc81f747d7abd4a29fba5286229b225a"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/extended-illumina.pw.toml"
 hash = "80fd371f2fa97052559d4bb6f19bed03ade26e46b4651a91f6885ef49cdb1add"
 metafile = true
@@ -225,8 +235,8 @@ hash = "c437df961808e241296cbfc9bfd1f03ee560b43554058a2adf4645af277f1e74"
 metafile = true
 
 [[files]]
-file = "config/tide.json"
-hash = "b062dbf1ffdcc8a3eed51e6853d4e59e7fe4ec81594487881d75e42eeef05bff"
+file = "config/tide.json5"
+hash = "e4dd99acf6250b949843192b03065c8d53e5de09a2eaac0501baf7ad95c5ce43"
 
 [[files]]
 file = "config/universal-graves/models/default.pw.toml"
@@ -287,11 +297,6 @@ hash = "0a2edb39ff2b27d1fa33f9f651c83b9babea2caf6fecf61054ca05238f0e4fcd"
 metafile = true
 
 [[files]]
-file = "mods/accrelatedrendering-refabricated.pw.toml"
-hash = "fecd6cb2e9d5f1e1c4d0c77f0be0347c4d225b5611d314173d47b05b725ac63e"
-metafile = true
-
-[[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
 hash = "3b87f6113f1304c82ad4efedbf049c239548be6e642acd63d82020504f5b0953"
 metafile = true
@@ -343,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "6a567f7c1c465aae2acb7fdbac4ec9569da45518f8df275f9bdd8ccff6c331b3"
+hash = "24404c5ec658b3718d682fdf8ffbe19314317bab3bd2ba60ced6a64ec43c67bc"
 metafile = true
 
 [[files]]
@@ -462,6 +467,11 @@ hash = "d226ea199a740bff4e07877a952dc6972273fb92fcddd258a8989bfbede63a8d"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "d2e1ad62031e3700de73a87957a4acca747436a4135da695705cb5d293aa0890"
+metafile = true
+
+[[files]]
 file = "mods/clickthrough.pw.toml"
 hash = "2c8098a9ca0e6b4d786f0cbba13fea2d55558b0b5f383b2a8115a52564564c0a"
 metafile = true
@@ -544,6 +554,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
+metafile = true
+
+[[files]]
+file = "mods/create-framed.pw.toml"
+hash = "2b4b390195a9a61f54e20dd7438d05e0382d7e52be87b96bee48a456548cc8bd"
 metafile = true
 
 [[files]]
@@ -787,6 +802,11 @@ hash = "ee24d491b72287316c389f6e82b5551df00fc4afee02d22599320c818d0ac720"
 metafile = true
 
 [[files]]
+file = "mods/emi-plus-backport.pw.toml"
+hash = "a8510497f79d54eb786a840551f511d015cc0f3540a4710ec72c7ff01a40b263"
+metafile = true
+
+[[files]]
 file = "mods/emi-professions-(emip).pw.toml"
 hash = "5daf4ee8870b5ef4aed32c68d318f926ac63a66666e43b2cc80894602ebb7d48"
 metafile = true
@@ -968,7 +988,7 @@ metafile = true
 
 [[files]]
 file = "mods/fragmentum.pw.toml"
-hash = "6debf46da7e4c1f6b03f1c900ee79d2bad6b920bb23013a5f3f97365fc830104"
+hash = "77cefdee0e11fd22a8de11f02763cbfe06ee5b0edadac151cda51b61749927e3"
 metafile = true
 
 [[files]]
@@ -983,7 +1003,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "903213d3d9a59856869eea96185de72779fd90243b277892d1fb139610a8a946"
+hash = "6817efbb9e11307a0760e6969cf37f66a281fb55a733f782264eae276c34d311"
 metafile = true
 
 [[files]]
@@ -1133,7 +1153,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "f79e3bcc454b880352499fa676ac641fff89aef7b6b1a91593e3cb23c1bae62a"
+hash = "72d0ac89f34cf67add6b6b2d6fa07b5254ddad8410455fb35592ed04625e64bf"
 metafile = true
 
 [[files]]
@@ -1143,12 +1163,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
+hash = "4da3ad4943ca6cb4534f85bd75211de869e0b77a71edc8bd774470849a91b7fa"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "499ca1ffb68e2b16672ea1ea42108c3bf58a2d8c39bf8988e5f5f2bead70aa78"
+hash = "aa6e9043c99d119693db80b83077fa1ebb86495cfee1c1958e8a204fa78dbfc1"
 metafile = true
 
 [[files]]
@@ -1403,7 +1423,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "f37ae8d0b42563b240f51238a3e8eab0b4d01ca02c642d528777be88f9c18fdc"
+hash = "31ab417e4be177e7c52fe55cf01c2b196ed41547e24b79be19ea74d28f1987a3"
 metafile = true
 
 [[files]]
@@ -1548,7 +1568,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c8d42937782f0d394d97d2a459c610d23c086840a96da81c8731b998e34256bd"
+hash = "5e084c0b52b899abe81ce62f9d53c34612e32a5c5bd2524f0d3349c5bbf1de9d"
 metafile = true
 
 [[files]]

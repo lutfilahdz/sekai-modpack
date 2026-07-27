@@ -1,0 +1,9 @@
+{
+	"general": {
+		"crateWeight": 1.0,
+		"crateQuality": 0.25
+	},
+	"journal": {
+		"giveJournal": false
+	}
+}

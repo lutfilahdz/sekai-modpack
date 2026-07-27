@@ -1,0 +1,8 @@
+name = "config/emi.css (client)"
+filename = "emi.css"
+side = "client"
+
+[download]
+url = "https://lutfilahdz.github.io/sekai-modpack/main/client-files/config/emi.css"
+hash-format = "sha512"
+hash = "6c2d6f8d4a3046188a5f7bfacc52b6b49566e1809111a35bdb16cf885d5463f807637aaa3a4aaebc93e80ac99a284f494b5f1e9f901e0a80bc3feed44b890a5f"
