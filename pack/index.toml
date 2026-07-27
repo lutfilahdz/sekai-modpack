@@ -225,8 +225,8 @@ hash = "c437df961808e241296cbfc9bfd1f03ee560b43554058a2adf4645af277f1e74"
 metafile = true
 
 [[files]]
-file = "config/tide.json"
-hash = "b062dbf1ffdcc8a3eed51e6853d4e59e7fe4ec81594487881d75e42eeef05bff"
+file = "config/tide.json5"
+hash = "e4dd99acf6250b949843192b03065c8d53e5de09a2eaac0501baf7ad95c5ce43"
 
 [[files]]
 file = "config/universal-graves/models/default.pw.toml"
