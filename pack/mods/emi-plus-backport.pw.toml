@@ -1,0 +1,13 @@
+name = "EMI++ Forked"
+filename = "emixx-fabric-1.5.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/N9WucjHL/versions/mFgv5Bdl/emixx-fabric-1.5.1.jar"
+hash-format = "sha512"
+hash = "743dec3efca0f7f7aca00c4b7188d113652f00715e87f6b0a326e6bbfc716c6c4c7b3cc40713065557b67547a4a26a2a900faf0b7fd8c46194ea41ea4c0607fe"
+
+[update]
+[update.modrinth]
+mod-id = "N9WucjHL"
+version = "mFgv5Bdl"

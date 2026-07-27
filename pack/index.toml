@@ -42,6 +42,11 @@ hash = "b3e283a43ef508aaf94f1f6e19938bb26e92307f6ab2d7e807aac5c28a2a648f"
 metafile = true
 
 [[files]]
+file = "config/emi.pw.toml"
+hash = "1de8d816c5020a85ff6310e5f4a74b66d1349bb2d435ab3d026bdd55015d1c5e"
+metafile = true
+
+[[files]]
 file = "config/enhanced_bes.pw.toml"
 hash = "507bcf61e5bca5eadbdd1ad21aa2a0055c7fcb02ef0c8c8d7ab56bf29558c354"
 metafile = true
@@ -779,6 +784,11 @@ metafile = true
 [[files]]
 file = "mods/emi-ores.pw.toml"
 hash = "ee24d491b72287316c389f6e82b5551df00fc4afee02d22599320c818d0ac720"
+metafile = true
+
+[[files]]
+file = "mods/emi-plus-backport.pw.toml"
+hash = "a8510497f79d54eb786a840551f511d015cc0f3540a4710ec72c7ff01a40b263"
 metafile = true
 
 [[files]]
