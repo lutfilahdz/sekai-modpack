@@ -287,11 +287,6 @@ hash = "0a2edb39ff2b27d1fa33f9f651c83b9babea2caf6fecf61054ca05238f0e4fcd"
 metafile = true
 
 [[files]]
-file = "mods/accrelatedrendering-refabricated.pw.toml"
-hash = "fecd6cb2e9d5f1e1c4d0c77f0be0347c4d225b5611d314173d47b05b725ac63e"
-metafile = true
-
-[[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
 hash = "3b87f6113f1304c82ad4efedbf049c239548be6e642acd63d82020504f5b0953"
 metafile = true
