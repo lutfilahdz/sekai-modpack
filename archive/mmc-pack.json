@@ -42,13 +42,13 @@
                     "uid": "net.fabricmc.intermediary"
                 }
             ],
-            "cachedVersion": "0.18.4",
+            "cachedVersion": "0.19.3",
             "uid": "net.fabricmc.fabric-loader",
-            "version": "0.18.4"
+            "version": "0.19.3"
         },
         {
             "cachedName": "unsup",
-            "cachedVersion": "1.2.0",
+            "cachedVersion": "1.2.7",
             "uid": "com.unascribed.unsup"
         }
     ],
