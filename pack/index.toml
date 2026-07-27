@@ -141,6 +141,11 @@ hash = "8e3a3b85f7857514b3b9dea4e3663e94decc40d3227a8937581afb4a58b19461"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/even-better-enchants.pw.toml"
+hash = "c787950c5bdbff78bc2ef218554f1486fc81f747d7abd4a29fba5286229b225a"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/extended-illumina.pw.toml"
 hash = "80fd371f2fa97052559d4bb6f19bed03ade26e46b4651a91f6885ef49cdb1add"
 metafile = true
@@ -462,6 +467,11 @@ hash = "d226ea199a740bff4e07877a952dc6972273fb92fcddd258a8989bfbede63a8d"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "d2e1ad62031e3700de73a87957a4acca747436a4135da695705cb5d293aa0890"
+metafile = true
+
+[[files]]
 file = "mods/clickthrough.pw.toml"
 hash = "2c8098a9ca0e6b4d786f0cbba13fea2d55558b0b5f383b2a8115a52564564c0a"
 metafile = true
@@ -544,6 +554,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
+metafile = true
+
+[[files]]
+file = "mods/create-framed.pw.toml"
+hash = "2b4b390195a9a61f54e20dd7438d05e0382d7e52be87b96bee48a456548cc8bd"
 metafile = true
 
 [[files]]
