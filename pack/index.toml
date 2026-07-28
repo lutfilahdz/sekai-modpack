@@ -772,11 +772,6 @@ hash = "5af1714d668d18cf7c500218ad61a9e904fbfce74884c5ae5364434a6c9dc43f"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "c9102ad224c1496927d326707ee2cd2a2cfd6f278f05e23a19aa45395306daf6"
-metafile = true
-
-[[files]]
 file = "mods/effect-descriptions.pw.toml"
 hash = "c91720d3164541d28a3d625742aaf2184aff474a65a522878d98e1ad12b761ec"
 metafile = true
@@ -1404,6 +1399,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
+metafile = true
+
+[[files]]
+file = "mods/obe.pw.toml"
+hash = "01377f7449db8a62a9fff06105d023d1a9f54a1f5d59904c34a5ee5b5ff8929d"
 metafile = true
 
 [[files]]
