@@ -627,6 +627,11 @@ hash = "a0c0ebf3ab1c147a7196d98ec8eb2afb70454d0cac4ddc556478dd3aa38e8dab"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "97fa95db99748805bfb5dd844fee528d6fb67c492e6366681ef657bbc7820a5f"
+metafile = true
+
+[[files]]
 file = "mods/createschematicchecker.pw.toml"
 hash = "791515055cd8892b649f12ed917ef6b7d11e0da5808d693f0abb51a3059f627b"
 metafile = true
@@ -1474,11 +1479,6 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8293786ca23e23e7dd04d60d666f34145a00229a5959f7a1962995654cacdf1f"
-metafile = true
-
-[[files]]
-file = "mods/power-grid.pw.toml"
-hash = "4dd885a9ca3f9a3f20ff2b13d4e4cf04dee51e364b09c4996fcfe0c63a84ccd1"
 metafile = true
 
 [[files]]
