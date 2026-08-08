@@ -1,6 +1,7 @@
 name = "Tide 2"
 filename = "tide-fabric-1.20.1-2.1.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/die1AF7i/versions/yw7J8dpU/tide-fabric-1.20.1-2.1.jar"
