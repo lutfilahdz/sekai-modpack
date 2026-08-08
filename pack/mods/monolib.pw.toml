@@ -1,13 +1,13 @@
 name = "MonoLib"
-filename = "monolib-fabric-1.20.1-4.0.2.jar"
+filename = "monolib-fabric-1.20.1-4.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9leXt4A5/versions/Cggv1Swz/monolib-fabric-1.20.1-4.0.2.jar"
+url = "https://cdn.modrinth.com/data/9leXt4A5/versions/1s2VdvAV/monolib-fabric-1.20.1-4.1.0.jar"
 hash-format = "sha512"
-hash = "9fadecd70a40fda5b356818be24c40e4cb577f4de14d1f33f04471def8ce4b828a55d7b151c1d98917035778d03ce4b23b5d29958e79adf65c34f48889974150"
+hash = "b22fc7b5bc95d3c7547c8b271a86999600bec6a94e816bf41ca4afe86deeb578b91064514813cd51cf9d798d937957a627c982389d0c2125eb15b19a079e9a52"
 
 [update]
 [update.modrinth]
 mod-id = "9leXt4A5"
-version = "Cggv1Swz"
+version = "1s2VdvAV"
