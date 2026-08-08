@@ -757,11 +757,6 @@ hash = "a0231bdd8723f272f8aa09c57c331eaa3abca78a5a4fb00fdfe0c9fca11920bf"
 metafile = true
 
 [[files]]
-file = "mods/dripsounds.pw.toml"
-hash = "0c9f3108c7acc23323000945b285604bff97253183376b0557fb2d877cf7cd5d"
-metafile = true
-
-[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "a3a5120e8cd41a3ac7d2283714525c9c67b93a8718583c90b604770b2b379059"
 metafile = true
@@ -1279,11 +1274,6 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "62b5f6133f799c95d48314eef3e353b8689477f075e9f604a2566de03d593563"
-metafile = true
-
-[[files]]
-file = "mods/make_bubbles_pop.pw.toml"
-hash = "f531a8ee70e9d78ee62a84e3fd18088070dcf8f2cee2384a8aabed16dbfafe6c"
 metafile = true
 
 [[files]]
