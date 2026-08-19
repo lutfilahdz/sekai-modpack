@@ -352,6 +352,11 @@ hash = "c25ea899790c30faf5b9d14fdc7d46d6b5a096e28ee0c91533a229e31b883f2f"
 metafile = true
 
 [[files]]
+file = "mods/aures-farmers-structures.pw.toml"
+hash = "343b6153b944c3f6daf72d56cf2f4c24e6c6666db4a43b88c54e381c52e428fd"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "b8c29dac6fb7c1cf18ca53b7a96c6c4854307999b77a751e803bdd9650a125e0"
 metafile = true
@@ -924,11 +929,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "17bd69adb3f550e1b52dd2424dc41b5ea4658771ee209be2af9d0b5f0a0d6781"
-metafile = true
-
-[[files]]
-file = "mods/farmers-structures.pw.toml"
-hash = "81664854e0699c2bfe8d0eab9bd1917109702288cce899c619f2d601b198edd5"
 metafile = true
 
 [[files]]
