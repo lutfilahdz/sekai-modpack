@@ -63,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "aca4c824999dc7b7eb2a0f31b7ab38f6152d4d357f98557ae454b71fa8d23ef4"
+hash = "cdd4bbd2cf8636a8344cc8e8b24d3ead44139cb1b3bf1b80408304f96075994c"
 
 [[files]]
 file = "config/kiwi-client.pw.toml"
