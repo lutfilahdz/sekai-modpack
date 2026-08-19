@@ -1427,6 +1427,11 @@ hash = "ef0c8813eef47e8ffdce023dfee08152a5099817960dce86623b9a21e8b14be2"
 metafile = true
 
 [[files]]
+file = "mods/paginatedadvancements.pw.toml"
+hash = "1dbd3b2969118cf3bf47efd9eac2838abb815efce4d33ea47091f20b42ebfd24"
+metafile = true
+
+[[files]]
 file = "mods/pandalib.pw.toml"
 hash = "8efd80853d966944fceafd975d3326332dab36d1e3d07b5f32fc3200c76be5b2"
 metafile = true
