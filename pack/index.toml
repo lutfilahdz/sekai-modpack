@@ -1423,7 +1423,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "67826fd54cb3d4df4508bb825c153da40d7def567126fb9ef6159c1c91dd0ba0"
+hash = "ef0c8813eef47e8ffdce023dfee08152a5099817960dce86623b9a21e8b14be2"
 metafile = true
 
 [[files]]
