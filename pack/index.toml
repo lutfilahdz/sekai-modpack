@@ -1747,6 +1747,11 @@ hash = "aaf2bb354facfb4b9a40fbb3b901453d5edd142113a3cb7ef64868f2f1bcfb6d"
 metafile = true
 
 [[files]]
+file = "mods/unplugged-afk.pw.toml"
+hash = "ec837463f5d0e154ab99e63c3eba3b23de41bf4e6f7ff53618148640ba0421c4"
+metafile = true
+
+[[files]]
 file = "mods/village-healthcare.pw.toml"
 hash = "25d8753ab887d03addb3d254228eb5e33819c70cb1f3b8290319ba3a1ecfe9cd"
 metafile = true
