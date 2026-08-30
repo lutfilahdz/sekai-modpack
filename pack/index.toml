@@ -523,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "7a2f11b7d5574ba34993d279c2ddd0866451de9524edf9fa232b8e9c27b57458"
+hash = "79d2d0db0f6cffec9bc3661d9a591ad379e041de1235239dba921f63f452eec7"
 metafile = true
 
 [[files]]
