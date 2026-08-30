@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "config/bcc.json"
-hash = "0997049b2d5fc7a86ebaf2db2f7eb5fcb45f0507963916bb140e3c9cf6286bca"
+hash = "08538d7f4a3e5d03d9989f2c4b1773f93860155fdc3d49e8beb2b37bcc9dfd28"
 
 [[files]]
 file = "config/carryon-common.json"
@@ -523,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "7a2f11b7d5574ba34993d279c2ddd0866451de9524edf9fa232b8e9c27b57458"
+hash = "e612d1302c9db300a02a6e800376158d57e054b58afdea20238e91934b7835bb"
 metafile = true
 
 [[files]]
