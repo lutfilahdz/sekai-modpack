@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "config/bcc.json"
-hash = "b71c7f4f9395278d9a8bf89f01d9a0d52dca8d9e0d877a9c5b6d0bef93ef400f"
+hash = "0997049b2d5fc7a86ebaf2db2f7eb5fcb45f0507963916bb140e3c9cf6286bca"
 
 [[files]]
 file = "config/carryon-common.json"
@@ -1764,6 +1764,11 @@ metafile = true
 [[files]]
 file = "mods/villagersplus.pw.toml"
 hash = "54f10e9a7f2bf8542904fde49294fd188ae9b01b00dd2902971f93c1a15e58cf"
+metafile = true
+
+[[files]]
+file = "mods/villagerstradingplus.pw.toml"
+hash = "ce0859ecd9d138b5fec021784d3b06aa0cb7601f95144e501566244fd95cc5e3"
 metafile = true
 
 [[files]]
