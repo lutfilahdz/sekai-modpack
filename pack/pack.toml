@@ -9,7 +9,7 @@ hash-format = "sha256"
 hash = "8159b15d95f7618742ccf24fa17becac8797d640c18868e530f803e7ca6b22c6"
 
 [versions]
-fabric = "0.19.3"
+fabric = "0.19.5"
 minecraft = "1.20.1"
 unsup = "1.2.7"
 
