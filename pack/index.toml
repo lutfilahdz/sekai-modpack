@@ -1767,6 +1767,11 @@ hash = "54f10e9a7f2bf8542904fde49294fd188ae9b01b00dd2902971f93c1a15e58cf"
 metafile = true
 
 [[files]]
+file = "mods/villagerstradingplus.pw.toml"
+hash = "ce0859ecd9d138b5fec021784d3b06aa0cb7601f95144e501566244fd95cc5e3"
+metafile = true
+
+[[files]]
 file = "mods/villagertradefix.pw.toml"
 hash = "ab959678cf2202308a61f2123236baece525b631dbb58469c95ad39f9ee2f0ef"
 metafile = true
