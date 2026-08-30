@@ -1,0 +1,13 @@
+name = "Unplugged AFK"
+filename = "unplugged_afk-v0.2.5-mc1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/VlR3taCz/versions/IQS801Qu/unplugged_afk-v0.2.5-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "e99c9954516f0cbe6e13bb7e43bd574d9f67fbae63518f3fd7b94839546b32fba734d17d62f6a7aaa71aa2ac941be7f4c7978325eaa06d5f75a7088c1dc7a07c"
+
+[update]
+[update.modrinth]
+mod-id = "VlR3taCz"
+version = "IQS801Qu"
