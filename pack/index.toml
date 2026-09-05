@@ -627,6 +627,11 @@ hash = "6487dfa756a8d78dd484d599f7db11773b98e59ce36dbc9e2e942a517955668a"
 metafile = true
 
 [[files]]
+file = "mods/create-trainsounds.pw.toml"
+hash = "74f51dbaca018930efd92254281f92bdf2d086a37f25fc81698ce1e9895ce9ea"
+metafile = true
+
+[[files]]
 file = "mods/create-trainutilities.pw.toml"
 hash = "161c3db1ed13e71c2c4403d9c87810de4be9a278b8c17bbd567fbfe31a6f6935"
 metafile = true
