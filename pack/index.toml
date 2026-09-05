@@ -542,6 +542,11 @@ hash = "1f2d2569877b9ce0bc3f51e47f682d2d2c0dfd5300e440400bb79f80a8afcda7"
 metafile = true
 
 [[files]]
+file = "mods/create-cobblestone.pw.toml"
+hash = "3fefc450459fcf62123a9a8b7bcc5733707d054bca3e025ada5bf5c767dc3798"
+metafile = true
+
+[[files]]
 file = "mods/create-cyber-goggles.pw.toml"
 hash = "a3be903f60f3919e06d07c07bb4d2ce8b9b352c7282d475527a1649c276b800a"
 metafile = true
