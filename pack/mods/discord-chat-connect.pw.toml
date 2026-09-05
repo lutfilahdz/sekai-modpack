@@ -1,13 +1,13 @@
 name = "Discord & Chat Images"
-filename = "discord_chat_mod-fabric-quilt-1.20.1-2.7.0.jar"
+filename = "discord_chat_mod-fabric-quilt-1.20.1-2.8.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yIWYj2mo/versions/SKnMwX5V/discord_chat_mod-fabric-quilt-1.20.1-2.7.0.jar"
+url = "https://cdn.modrinth.com/data/yIWYj2mo/versions/6gYvhomx/discord_chat_mod-fabric-quilt-1.20.1-2.8.0.jar"
 hash-format = "sha512"
-hash = "f753c3b7b4acf33b580bd5c11c5268313f88df175187535704b65767abf739dd69c00b68c2cf6a5fb2bc42970d5273ff42535882dd1e0fb62c0f1a8810039b97"
+hash = "34aff4723af45eb5784e07f39c05161b80ce4b8dd7608d9c07aab2366d80918146212dbfc83cba2a7627bb11f9d0c3ada0871e0ddd6541b96d51f2b491075f5b"
 
 [update]
 [update.modrinth]
 mod-id = "yIWYj2mo"
-version = "SKnMwX5V"
+version = "6gYvhomx"

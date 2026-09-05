@@ -348,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "95d2fd8c5fc136c37f24ec88c8d04d854784de967dc15de807c1d57294ad205f"
+hash = "fad815c999c503a0cc8bd699e5bd73ad8f60f7938d0261e78c0bddb1ff23b984"
 metafile = true
 
 [[files]]
@@ -743,7 +743,7 @@ metafile = true
 
 [[files]]
 file = "mods/discord-chat-connect.pw.toml"
-hash = "51aae49b298f426bd5a3ebcb53311a860861e49a367649264848a44ccdcde208"
+hash = "1d2601effcdcd91eb7542eb3875dd9acbee88089c8dbee9aacadb4ff89c9ca4e"
 metafile = true
 
 [[files]]
@@ -812,11 +812,6 @@ hash = "ee24d491b72287316c389f6e82b5551df00fc4afee02d22599320c818d0ac720"
 metafile = true
 
 [[files]]
-file = "mods/emi-plus-backport.pw.toml"
-hash = "c9b26e8f7251e0cd0a8981110edb65ac74bc6c1ce57eca0e756d5c9d5a94c71f"
-metafile = true
-
-[[files]]
 file = "mods/emi-professions-(emip).pw.toml"
 hash = "5daf4ee8870b5ef4aed32c68d318f926ac63a66666e43b2cc80894602ebb7d48"
 metafile = true
@@ -858,7 +853,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "65c4754081efdfa32071560e11c8016acdf712b6b82e4b263b3cf414477d0fdc"
+hash = "cf60b86757655bfb8bd49a59975caecea566938c9a446575ed62dca9b077d32d"
 metafile = true
 
 [[files]]
@@ -868,7 +863,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "eaaad20ae01c067df4c0d97d944bdb9b22b33fbe339709f284d60ab91a43d622"
+hash = "04f19d2bdf2812a1183353350e808a6c6cb7ce129c70a1aed3a084d0313e648c"
 metafile = true
 
 [[files]]
@@ -908,7 +903,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5cbcd9395c1788ed7a1356e392a4483a30d903312faffd9795c6dee9afba3fac"
+hash = "f42dcc815231697e3d5038e7e34e2ef6637a7bf3e2fe077e4eafb0488f871b9a"
 metafile = true
 
 [[files]]
@@ -1003,7 +998,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "521adeaf4b962d9ce73eba110eb4ba350a829c1ac0d564f7c62d65ce531ed468"
+hash = "6bd6a4f99645ab633e0deb42c82653499da777c54800fb3c853049e5f3ff7d32"
 metafile = true
 
 [[files]]
@@ -1168,7 +1163,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "7c5dfe2cfaf91a78d4803ad0c95c121092ce06d65befa25898d3acaf9d537952"
+hash = "61291bc3a7ff634de1d423def8208604c6fecd04b6a673c6c6a37a092887c34e"
 metafile = true
 
 [[files]]
@@ -1348,7 +1343,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "f8f334d1da1c8f61867668298d17d43cdeaf7ae4e3631f89eb2f1a916f5353ff"
+hash = "0c6e8d2806a777d5a34485d9811477d2552fd24bc0298da0316099507688b0a9"
 metafile = true
 
 [[files]]
@@ -1403,7 +1398,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "74f5f0f775bd0be8b2cccafa71a0fba308c819e2a7080eecacdf8041339e7396"
+hash = "baf9c2924212c62edf0424ab234b8e0cb6721bf2fa65616a900456ee2d6b8ef9"
 metafile = true
 
 [[files]]
@@ -1443,7 +1438,7 @@ metafile = true
 
 [[files]]
 file = "mods/pandalib.pw.toml"
-hash = "8efd80853d966944fceafd975d3326332dab36d1e3d07b5f32fc3200c76be5b2"
+hash = "8b11b94a5bde4ddcce29e364633e3e309c85ca19f31e0683a6d14972dfae3847"
 metafile = true
 
 [[files]]
@@ -1522,6 +1517,11 @@ hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
 metafile = true
 
 [[files]]
+file = "mods/reliable-emi.pw.toml"
+hash = "877a970096e68bf00a8e5bc5539f3739fe66c04741384b8cfefd90c46f9b774e"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "0f5632326ea397207e74d06c953dcdbe71238da948e6c0ad26f42557ccb6287d"
 metafile = true
@@ -1568,7 +1568,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "0be55b277946be6b178bbe559bed59ffa9689f0e36cec3a317b87f5a376bb72f"
+hash = "93ae0b9eb663ff8fa3bcaf7d7635f6f199a3020744f7514044305a7dffa18561"
 metafile = true
 
 [[files]]
