@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/freshly-modded.pw.toml"
-hash = "05aae9aa3967c800e77e06e1615898e5462db8ae13ec234839d56384d203d76c"
+hash = "332610aeaaa69f318639be1ebb5aea17a20f2c10e306d1de3bffe2d4232de0dd"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/mt-ct-d.pw.toml"
-hash = "f174a35face3fb2b23881900f7b3fe1a59312e5c55e9675a84e56f6bc3c7975a"
+hash = "f52bcfb58f9988ad6abbcd25b770ec5e82669ccfd7aa80072c3e42ec2f9c458b"
 metafile = true
 
 [[files]]
