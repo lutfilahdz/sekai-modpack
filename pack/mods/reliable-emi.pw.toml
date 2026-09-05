@@ -1,13 +1,13 @@
 name = "Reliable EMI (REMI)"
-filename = "remi-fabric-1.20.1-4.6.7.jar"
+filename = "remi-fabric-1.20.1-4.6.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/N9WucjHL/versions/5g9TiVvs/remi-fabric-1.20.1-4.6.7.jar"
+url = "https://cdn.modrinth.com/data/N9WucjHL/versions/U1dYWVRc/remi-fabric-1.20.1-4.6.8.jar"
 hash-format = "sha512"
-hash = "a6481ada60a31a7e882d338d0361c234d1d45fa4c8df31de953e6f368578807af4739887938c9526b5608ff6bbc82de6cdb86c8a853cbce301bf03018372082c"
+hash = "30626ab9e0a9453fdc87b546ea9c8cd1aca9998fadb7fb05acb33a5bee235c03ac73d40430952fe04d5928b0a1a9e1a044d91b547fb3a86fdc9bee9c360bd61b"
 
 [update]
 [update.modrinth]
 mod-id = "N9WucjHL"
-version = "5g9TiVvs"
+version = "U1dYWVRc"
