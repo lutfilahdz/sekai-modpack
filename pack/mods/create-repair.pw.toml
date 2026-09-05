@@ -1,14 +1,13 @@
 name = "Create Repair"
-filename = "create_repair-fabric-1.20.1-1.2.0.jar"
+filename = "create_repair-fabric-1.20.1-1.3.0.jar"
 side = "both"
-pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/G3K7UdxY/versions/ttBcEhta/create_repair-fabric-1.20.1-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/G3K7UdxY/versions/vad6B14j/create_repair-fabric-1.20.1-1.3.0.jar"
 hash-format = "sha512"
-hash = "fed14ca0a9a1e5ad6a2f32ee0fac6bd43c1d3a845ad687fe31ed1303c504ee93ff961bd7b87d3e8e8985c32aa3d3a7b84f2d4e58e9fe62f5493907fe5a990ebd"
+hash = "4cd94c325a73d0a8022875bea28e0c872cd802fed5955696bf7a62bb4f7a687d21670df16d8f1c281cd1254f03165f1bc0fd90e5029bf7aabce7ae087b5b75d3"
 
 [update]
 [update.modrinth]
 mod-id = "G3K7UdxY"
-version = "ttBcEhta"
+version = "vad6B14j"

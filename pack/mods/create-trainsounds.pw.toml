@@ -1,0 +1,13 @@
+name = "Create: TrainSounds"
+filename = "TrainSounds-1.0.0-C6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xb4SxqNe/versions/YlRBW8iR/TrainSounds-1.0.0-C6.jar"
+hash-format = "sha512"
+hash = "b8096d000357ff573b762aedf1a06f1ddb6c41dcbeafee99daab9d80ff3df92488aa0b5bb88c4b975f1f2ec506e7893e965c54e59337e2e82b6bd7bf97a627cb"
+
+[update]
+[update.modrinth]
+mod-id = "xb4SxqNe"
+version = "YlRBW8iR"

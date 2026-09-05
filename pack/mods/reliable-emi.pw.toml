@@ -1,6 +1,7 @@
-name = "EMI++ Forked"
+name = "Reliable EMI (REMI)"
 filename = "emixx-fabric-1.5.3.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/N9WucjHL/versions/g0fQgHWc/emixx-fabric-1.5.3.jar"
