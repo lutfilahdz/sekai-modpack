@@ -1513,7 +1513,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-emi.pw.toml"
-hash = "7228ada50f6984cac2d604311c3564640b3a2eea3f32c9ee234bc2f097cba7db"
+hash = "27c4dbbb2fbbab19e8d085beeac765923d02982acae868b74be54259f183389d"
 metafile = true
 
 [[files]]
