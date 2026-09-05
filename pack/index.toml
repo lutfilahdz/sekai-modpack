@@ -172,27 +172,27 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/sekai-modded/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "49946c38eb27ca37dffda4c284d328fa308bee4daef88b9e35d1a0322f420e2d"
+hash = "1f6df76b9644087489c64138515c436685d24c86ab2d7022816bb57f06b97e25"
 
 [[files]]
 file = "config/paxi/resourcepacks/sekai-modded/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "afaa0a8e9fe367f409dc758cd545de5a06b6563419778e0ad00a2320aebe0de0"
+hash = "78d94949fa28b52e30b45a8ba1290b42b15568e76609d34aa8e281ffaa352b30"
 
 [[files]]
 file = "config/paxi/resourcepacks/sekai-modded/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "98deeba94e8dab8857e6d7d9ed643c48682d5f0adb09feeb37d4802dfd0346f9"
+hash = "5ddd56cc243216bffc9379f6ffadb0d5e443fe6c73f304ec9470a75e08194d6f"
 
 [[files]]
 file = "config/paxi/resourcepacks/sekai-modded/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "917bafd2bba1b77d7452ceab6ff38f1cdf2dad255715bffb47d20a92797019b1"
+hash = "6bad710e3dfb861fa4c5cc21f56ef46f5083cdf844c1d978e42bdce71b76cfc6"
 
 [[files]]
 file = "config/paxi/resourcepacks/sekai-modded/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "a56d16b54fd49f02c137334f3375bffa049f44a5598a0fea4e3df40ec992f777"
+hash = "602f94f7c10cd89a5f291942f5a9a83b16b06b05ff8d8455c16830fd3dde37c6"
 
 [[files]]
 file = "config/paxi/resourcepacks/sekai-modded/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "24baf0165661781cffbcc203196768c424bcbe6a6d4c2df6fd41e049dc3fe026"
+hash = "a7dcdcc5fc001292194f38fa48efeaf394891abb66695588504aa7dba75a438b"
 
 [[files]]
 file = "config/paxi/resourcepacks/sekai-modded/assets/minecraft/textures/gui/title/edition.png"
