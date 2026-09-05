@@ -122,7 +122,7 @@ hash = "565ebf57a7863e40ab0496b3d080e63d884bd076bb562f27dbc3bb755eff25c2"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.pw.toml"
-hash = "93137ba0366679651e7f4e8b39f067cb6c1684e08612ba0164ff6543e2caf6a3"
+hash = "d9f8de4c55c5913125712cf9eb3627433df2591b14df4e80c0e449a9877fd70f"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/freshly-modded.pw.toml"
-hash = "332610aeaaa69f318639be1ebb5aea17a20f2c10e306d1de3bffe2d4232de0dd"
+hash = "05aae9aa3967c800e77e06e1615898e5462db8ae13ec234839d56384d203d76c"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/mt-ct-d.pw.toml"
-hash = "f52bcfb58f9988ad6abbcd25b770ec5e82669ccfd7aa80072c3e42ec2f9c458b"
+hash = "f174a35face3fb2b23881900f7b3fe1a59312e5c55e9675a84e56f6bc3c7975a"
 metafile = true
 
 [[files]]
