@@ -893,7 +893,7 @@ metafile = true
 
 [[files]]
 file = "mods/extrasoundsforge.pw.toml"
-hash = "f6098d59b00654edbf43dfebe84640e1a1a423109d06ffbf871cd62427318f33"
+hash = "3f81721b70786507c1b6939f9706ea7e6c166b97535ad95f39df3b5f0efe6541"
 metafile = true
 
 [[files]]
@@ -1158,7 +1158,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "62ea5b84615a22964cdd3f2a969674adffe0596926540d8778dd32e8cdf57212"
+hash = "edae9a7c9b73aadf42b15ed8be424252b4e68b6fa68e71c4f1a323e6be712e9d"
 metafile = true
 
 [[files]]
