@@ -1,13 +1,13 @@
 name = "Create: Nowheel"
-filename = "nowheel-1.0.6+1.20.1fabric.jar"
+filename = "nowheel-2.0.0+1.20.1fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/c47YxuuI/versions/NRFdWq70/nowheel-1.0.6%2B1.20.1fabric.jar"
+url = "https://cdn.modrinth.com/data/c47YxuuI/versions/wECOI4Ln/nowheel-2.0.0%2B1.20.1fabric.jar"
 hash-format = "sha512"
-hash = "58cc8174add2fb8e501fa0068e2e6e30780b946a66264a0539ab0a5d9986ab619caeee8ba80e8c9f2c5fe1a108761c0d6c2320129ea7dfc84555c47124ba5d84"
+hash = "cf41cdbf21fec720e0b76d5361b22b936c6d8572d25787eb7da4d329b7c72aa7ad6f6364d3b54836dbbbe595bc3e7363ff85f93beff35ad0595671dc67939868"
 
 [update]
 [update.modrinth]
 mod-id = "c47YxuuI"
-version = "NRFdWq70"
+version = "wECOI4Ln"
