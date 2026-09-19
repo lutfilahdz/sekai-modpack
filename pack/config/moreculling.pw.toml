@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://lutfilahdz.github.io/sekai-modpack/main/client-files/config/moreculling.toml"
 hash-format = "sha512"
-hash = "d786ea4e4de60911e58f160402cbfa710b70b740624ad9fc8de4e7e7f8f91a66ac878956585948bb4e158569f0adea71884a0743ec04bbde262bcfd7176d887e"
+hash = "c207b6cd6603855ba4120622bb2d1efa2b08faa20a29fa1e62b7e29c229e7ac715471f96e88e4a4b745b14c6053fd9ff47f92790eb84bda1b28f190f89350bb4"

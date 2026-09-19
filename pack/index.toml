@@ -80,7 +80,7 @@ hash = "5257ccf1eb617f126944b1f4f07a6eb160725a2a87b2ac40f24d76d309dd2b5f"
 
 [[files]]
 file = "config/moreculling.pw.toml"
-hash = "ef5bc9a4c3012b163e19a8477e27447af186ff42683e83c27191b192072ddff1"
+hash = "381605d54d83db671c5075faa27a59ddea69d2d3302c6ee36efe3705b44b601d"
 metafile = true
 
 [[files]]

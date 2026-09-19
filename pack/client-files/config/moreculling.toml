@@ -1,3 +1,5 @@
+useBlockStateCulling = false
+
 [modCompatibility]
 copycats = false
 minopp = false
