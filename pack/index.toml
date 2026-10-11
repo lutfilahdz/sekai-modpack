@@ -1,0 +1,837 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/asyncparticles/client-asyncparticles-json.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/client-create-cyber-goggles.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/client-item_description.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/client-particle-core-config-toml.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/client-sodium-extra-options.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/client-supplementaries-client.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/crash_assistant/client-crash_assistant.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/create-server.toml"
+
+[[files]]
+file = "config/create_connected-common.toml"
+
+[[files]]
+file = "config/jei/client/default/client-jei.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/quark-common.toml"
+
+[[files]]
+file = "config/railways-server.toml"
+
+[[files]]
+file = "config/reliable_remover/client-removal-json.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/reliable_remover/server-removal-json.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/server-eclipticseasons.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/server-ragdoll-corpse-common.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/servercore/server-config-yml.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/servercore/server-optimizations-yml.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+
+[[files]]
+file = "config/terralith.json"
+
+[[files]]
+file = "config/tide/tide_server.json"
+
+[[files]]
+file = "config/xaero/minimap/client-cfg.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/xaero/minimap/server_profiles/default.cfg"
+
+[[files]]
+file = "config/xaero/world-map/client-cfg.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/xaero/world-map/server_profiles/default.cfg"
+
+[[files]]
+file = "kubejs/config/client-json.pw.toml"
+metafile = true
+
+[[files]]
+file = "kubejs/config/client-packicon.pw.toml"
+metafile = true
+
+[[files]]
+file = "kubejs/server_scripts/block_restrictions.js"
+
+[[files]]
+file = "kubejs/server_scripts/contraption_block_restriction.js"
+
+[[files]]
+file = "mods/aero_cam_sync.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/alltheleaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/asyncparticles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/azimuth-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/backport-copper-age.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-advanced-tooltips.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-biome-blend.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-village.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bl4cks-sit.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/blocks-bogies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-transmission-linkage.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-aeroworks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-collision-crashfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-cyber-goggles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-drill-drain.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-dup-fix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-electro-energetics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-framed.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-more-configs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-nowheel.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-picky-wheels.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-randomize-filters.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-tracks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/createlazytick.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/createschematicchecker.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cut-through.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/discord-chat-connect.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/display-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-woodland-mansion-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ecliptic-seasons-bundles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ecliptic-seasons-multimod-patch.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ecliptic-seasons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi-enchanting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/enders-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/endrem.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/foodvariations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gensokyo-delight-youkais-feasts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-ruined-portals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-underwater-ruins.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/item-descriptions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-addon-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bakery-farmcharm-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-brewery-farmcharm-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight-farmcharm-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-farm-charm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-herbalbrews.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-vinery.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lever-drugster.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/library-ferret.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lodestonelib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/measurements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mech-trowel.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/miners-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mmr-moogs-mineshafts-reimagined.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/my-nethers-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nofun-dnt.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/obe.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/oceans-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pandalib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pandas-falling-trees.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/passable-foliage.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/platform.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/reds-blahaj-fork.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/reliable-emi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/reliable-recipes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/reliable-remover.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rustic-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sable-cleanup.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sable-fix-mod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sable-quota.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sable-ragdoll-corpse.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sable-ragdolls.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sablecat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/some-assembly-required.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sparsestructures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/stellarity-lite.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/strut-your-stuff.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/terralith-biome-saplings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tide.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/vb-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/villages-and-pillages.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mt-ct-d.pw.toml"
+metafile = true

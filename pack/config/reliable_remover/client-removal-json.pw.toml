@@ -1,0 +1,8 @@
+name = "removals.json (client)"
+filename = "removals.json"
+side = "client"
+
+[download]
+url = "https://sekai.lutfilahdz.com/client-files/config/reliable_remover/removals.json"
+hash-format = "sha512"
+hash = "bedeb2671371b6df389a8a5e92123843a21ea61efc14138773e38d346ff6acd507470d08ee05a0c53cf3310de09626640e0213a44cabc1859ab97f49716cd319"

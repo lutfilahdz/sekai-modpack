@@ -1,0 +1,135 @@
+name: Release
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'pack/**'
+      - 'scripts/**'
+      - 'archive/**'
+      - '.github/workflows/release.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: read
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: "1.22.1"
+          check-latest: true
+          cache: true
+
+      - name: Install Packwiz
+        run: go install github.com/packwiz/packwiz@latest
+
+      - name: Calculate Release Version
+        id: version
+        run: |
+          VERSION="$(sed -n 's/^version = "\([^"]*\)"$/\1/p' pack/pack.toml | head -n 1)"
+
+          if [ -z "$VERSION" ]; then
+            echo "ERROR: Could not read version from pack/pack.toml"
+            exit 1
+          fi
+
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+          echo "Release version: $VERSION"
+
+      - name: Build Release Modrinth Pack
+        run: |
+          cd pack
+
+          packwiz mr export
+
+          mkdir -p output
+          rm -f output/*.mrpack
+
+          GENERATED_MRPACK="$(find . -maxdepth 1 -type f -name '*.mrpack' -print -quit)"
+
+          if [ -z "$GENERATED_MRPACK" ]; then
+            echo "ERROR: packwiz did not generate an .mrpack file"
+            exit 1
+          fi
+
+          mv -- "$GENERATED_MRPACK" output/
+
+          echo "Modrinth pack created: pack/output/$(basename "$GENERATED_MRPACK")"
+
+      - name: Build Release Pack ZIP
+        run: |
+          if [ ! -d "archive" ]; then
+            echo "ERROR: archive directory not found"
+            exit 1
+          fi
+
+          mkdir -p pack/output
+          rm -f pack/output/modpack.zip
+
+          cd archive
+          zip -r ../pack/output/modpack.zip .
+
+          echo "ZIP pack created: pack/output/modpack.zip"
+
+      - name: Get Pull Request Description
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_SHA: ${{ github.sha }}
+        run: |
+          PR_BODY="$(gh api \
+            --header 'Accept: application/vnd.github+json' \
+            "repos/$GITHUB_REPOSITORY/commits/$GITHUB_SHA/pulls" \
+            --jq '.[0].body // empty')"
+
+          if [ -n "$PR_BODY" ]; then
+            printf '%s\n' "$PR_BODY" > release-notes.md
+          else
+            printf 'Release generated from commit `%s`.\n' "$GITHUB_SHA" > release-notes.md
+          fi
+
+      - name: Create GitHub Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          VERSION: ${{ steps.version.outputs.version }}
+        run: |
+          TAG="v$VERSION"
+          MRPACK="$(find pack/output -maxdepth 1 -type f -name '*.mrpack' -print -quit)"
+          ZIP="pack/output/modpack.zip"
+
+          if [ -z "$MRPACK" ]; then
+            echo "ERROR: No .mrpack file found in pack/output"
+            exit 1
+          fi
+
+          if [ ! -f "$ZIP" ]; then
+            echo "ERROR: Pack ZIP not found"
+            exit 1
+          fi
+
+          if git rev-parse "$TAG" >/dev/null 2>&1; then
+            echo "ERROR: Release tag $TAG already exists"
+            exit 1
+          fi
+
+          git tag "$TAG" "$GITHUB_SHA"
+          git push origin "refs/tags/$TAG"
+
+          gh release create "$TAG" \
+            "$MRPACK" \
+            "$ZIP" \
+            --title "SEKAI Modpack $VERSION" \
+            --notes-file release-notes.md \
+            --target "$GITHUB_SHA"
