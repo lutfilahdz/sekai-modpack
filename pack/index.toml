@@ -53,6 +53,10 @@ file = "config/reliable_remover/server-removal-json.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/server-createmoreconfigs.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/server-eclipticseasons.pw.toml"
 metafile = true
 

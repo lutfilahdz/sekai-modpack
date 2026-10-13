@@ -1,0 +1,4 @@
+sBend_targetT = 6
+slope_turnSize = 6
+straightAscend_minHDistance = 9
+turn_minTurnSize = 21
