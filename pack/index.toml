@@ -61,10 +61,6 @@ file = "config/server-eclipticseasons.pw.toml"
 metafile = true
 
 [[files]]
-file = "config/server-ragdoll-corpse-common.pw.toml"
-metafile = true
-
-[[files]]
 file = "config/servercore/server-config-yml.pw.toml"
 metafile = true
 
@@ -153,6 +149,10 @@ file = "mods/badoptimizations.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/baguettelib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/better-advanced-tooltips.pw.toml"
 metafile = true
 
@@ -186,6 +186,14 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/corpse-x-curios-api-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
 metafile = true
 
 [[files]]
@@ -662,10 +670,6 @@ metafile = true
 
 [[files]]
 file = "mods/sable-quota.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/sable-ragdoll-corpse.pw.toml"
 metafile = true
 
 [[files]]
