@@ -621,6 +621,10 @@ file = "mods/quark.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ragdoll-reactions.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled.pw.toml"
 metafile = true
 
@@ -669,11 +673,19 @@ file = "mods/sable-ragdoll-corpse.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/sable-ragdoll-revival.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/sable-ragdolls.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sableragdoll-patch.pw.toml"
 metafile = true
 
 [[files]]
