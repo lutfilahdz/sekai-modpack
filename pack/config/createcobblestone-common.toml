@@ -1,0 +1,12 @@
+[common]
+	generatorStress = 16
+	outputPerSecondPerRpm = 1.0
+	maxGeneratorStorage = 64
+	breakTime = 2.0
+
+	[common.generatorsEnabled]
+		cobblestoneGeneratorEnabled = true
+		basaltGeneratorEnabled = true
+		stoneGeneratorEnabled = true
+		limestoneGeneratorEnabled = false
+		scoriaGeneratorEnabled = false

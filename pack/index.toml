@@ -35,6 +35,9 @@ file = "config/create-server.toml"
 file = "config/create_connected-common.toml"
 
 [[files]]
+file = "config/createcobblestone-common.toml"
+
+[[files]]
 file = "config/jei/client/default/client-jei.pw.toml"
 metafile = true
 
@@ -206,6 +209,10 @@ metafile = true
 
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-cobblestone.pw.toml"
 metafile = true
 
 [[files]]
