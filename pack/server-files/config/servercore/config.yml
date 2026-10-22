@@ -1,40 +1,70 @@
 features:
   prevent-moving-into-unloaded-chunks: true
-  item-merge-radius: 4.5
+  item-merge-radius: 2
+  lobotomize-villagers:
+    enabled: true
+
+breeding-cap:
+  enabled: true
+  villagers:
+    limit: 16
+
+  animals:
+    limit: 24
 
 mob-spawning:
+  zombie-reinforcements:
+    enforce-mobcap: true
+    additional-capacity: 24
+
+  nether-portal-randomticks:
+    enforce-mobcap: true
+    additional-capacity: 24
+
+  monster-spawners:
+    enforce-mobcap: true
+    additional-capacity: 24
+
+  infested:
+    enforce-mobcap: true
+    additional-capacity: 24
+
   categories:
     - category: "MONSTER"
-      mobcap: 50
-      spawn-interval: 4
+      mobcap: 40
+      spawn-interval: 5
       despawn-distance: 128
 
     - category: "CREATURE"
-      mobcap: 8
+      mobcap: 5
       spawn-interval: 400
       despawn-distance: 128
 
     - category: "AMBIENT"
-      mobcap: 2
-      spawn-interval: 400
+      mobcap: 5
+      spawn-interval: 100
       despawn-distance: 128
 
     - category: "AXOLOTLS"
-      mobcap: 1
-      spawn-interval: 400
+      mobcap: 3
+      spawn-interval: 20
       despawn-distance: 128
 
     - category: "UNDERGROUND_WATER_CREATURE"
-      mobcap: 5
-      spawn-interval: 200
+      mobcap: 3
+      spawn-interval: 5
       despawn-distance: 128
 
     - category: "WATER_CREATURE"
-      mobcap: 5
-      spawn-interval: 200
+      mobcap: 3
+      spawn-interval: 5
       despawn-distance: 128
 
     - category: "WATER_AMBIENT"
       mobcap: 10
-      spawn-interval: 200
+      spawn-interval: 5
       despawn-distance: 64
+
+activation-range:
+  enabled: true
+  use-vertical-range: true
