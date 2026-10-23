@@ -45,6 +45,9 @@ metafile = true
 file = "config/quark-common.toml"
 
 [[files]]
+file = "config/ragdoll_reactions-server.toml"
+
+[[files]]
 file = "config/railways-server.toml"
 
 [[files]]
