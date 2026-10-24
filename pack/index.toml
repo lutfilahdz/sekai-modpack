@@ -355,6 +355,10 @@ file = "mods/dynamic-fps.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-nutrition.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ecliptic-seasons-bundles.pw.toml"
 metafile = true
 
@@ -416,10 +420,6 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/foodvariations.pw.toml"
 metafile = true
 
 [[files]]
