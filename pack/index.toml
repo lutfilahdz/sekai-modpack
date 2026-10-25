@@ -351,6 +351,10 @@ file = "mods/display-delight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/drive-by-sable.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
 metafile = true
 
