@@ -151,6 +151,10 @@ file = "mods/asyncparticles.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/azimuth-api.pw.toml"
 metafile = true
 
@@ -184,6 +188,10 @@ metafile = true
 
 [[files]]
 file = "mods/blocks-bogies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
 metafile = true
 
 [[files]]
@@ -643,6 +651,10 @@ file = "mods/ragdoll-reactions.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled-chipped.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled.pw.toml"
 metafile = true
 
@@ -660,6 +672,10 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
 metafile = true
 
 [[files]]
