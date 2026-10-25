@@ -251,6 +251,10 @@ file = "mods/create-diesel-generators.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-dragons-plus.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-drill-drain.pw.toml"
 metafile = true
 
@@ -260,6 +264,10 @@ metafile = true
 
 [[files]]
 file = "mods/create-electro-energetics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
 metafile = true
 
 [[files]]
