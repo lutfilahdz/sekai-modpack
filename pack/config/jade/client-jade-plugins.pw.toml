@@ -1,0 +1,8 @@
+name = "plugins.json (client)"
+filename = "plugins.json"
+side = "client"
+
+[download]
+url = "https://sekai.lutfilahdz.com/client-files/config/jade/plugins.json"
+hash-format = "sha512"
+hash = "9be0a2e081c980aaf0813597b6897354f2486c5b09360365a78c6995e0a9eb22a3f0faef828a656dbf09d631d740e1e21220f1667824f9c488bfb1d5686173ed"

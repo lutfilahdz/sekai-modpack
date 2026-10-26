@@ -1,0 +1,8 @@
+name = "createmoreconfigs-server.toml (server)"
+filename = "createmoreconfigs-server.toml"
+side = "server"
+
+[download]
+url = "https://sekai.lutfilahdz.com/server-files/config/createmoreconfigs-server.toml"
+hash-format = "sha512"
+hash = "0abe05caee6be15c9536b6f6d3dc2ea18658abaca027ca81065c5e4823fecffa168a11ce903d5484142a28b4cea5ea121c5c822a7857adb35d51aa2ef6e54cd8"

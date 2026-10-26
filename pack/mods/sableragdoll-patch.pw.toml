@@ -1,0 +1,13 @@
+name = "Sable: Ragdoll - Patch"
+filename = "sable_player_ragdoll_patch-1.21.1-1.9.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4q2Q9rk1/versions/BHDjulA9/sable_player_ragdoll_patch-1.21.1-1.9.1.jar"
+hash-format = "sha512"
+hash = "601ba9decddfcf187a721b832d6483406d5f865ea1522edea50ee7b4eb7d55962620f974ca0c586a347c4fa63f91f0989b147ad78aee3cc5ce4ce7589f98aad2"
+
+[update]
+[update.modrinth]
+mod-id = "4q2Q9rk1"
+version = "BHDjulA9"

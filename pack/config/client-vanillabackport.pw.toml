@@ -1,0 +1,8 @@
+name = "vanillabackport-client.toml (client)"
+filename = "vanillabackport-client.toml"
+side = "client"
+
+[download]
+url = "https://sekai.lutfilahdz.com/client-files/config/vanillabackport-client.toml"
+hash-format = "sha512"
+hash = "2572ef29b024cfb39fa75d4b6af88e81132a5584886908fa42258d400608687f142ff5993bd37bae138ac36d0e5b3e6fb3119931f2c59189fbaf76be30044152"

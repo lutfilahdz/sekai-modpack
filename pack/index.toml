@@ -13,6 +13,10 @@ file = "config/client-item_description.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/client-moreculling.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/client-particle-core-config-toml.pw.toml"
 metafile = true
 
@@ -22,6 +26,10 @@ metafile = true
 
 [[files]]
 file = "config/client-supplementaries-client.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/client-vanillabackport.pw.toml"
 metafile = true
 
 [[files]]
@@ -35,6 +43,13 @@ file = "config/create-server.toml"
 file = "config/create_connected-common.toml"
 
 [[files]]
+file = "config/createcobblestone-common.toml"
+
+[[files]]
+file = "config/jade/client-jade-plugins.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/jei/client/default/client-jei.pw.toml"
 metafile = true
 
@@ -42,14 +57,16 @@ metafile = true
 file = "config/quark-common.toml"
 
 [[files]]
+file = "config/ragdoll_reactions-server.toml"
+
+[[files]]
 file = "config/railways-server.toml"
 
 [[files]]
-file = "config/reliable_remover/client-removal-json.pw.toml"
-metafile = true
+file = "config/reliable_remover/removals.json"
 
 [[files]]
-file = "config/reliable_remover/server-removal-json.pw.toml"
+file = "config/server-createmoreconfigs.pw.toml"
 metafile = true
 
 [[files]]
@@ -109,7 +126,15 @@ file = "kubejs/server_scripts/block_restrictions.js"
 file = "kubejs/server_scripts/contraption_block_restriction.js"
 
 [[files]]
+file = "mods/aero-player-tilt.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/aero_cam_sync.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
 metafile = true
 
 [[files]]
@@ -137,11 +162,11 @@ file = "mods/asyncparticles.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/azimuth-api.pw.toml"
+file = "mods/athena-ctm.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/backport-copper-age.pw.toml"
+file = "mods/azimuth-api.pw.toml"
 metafile = true
 
 [[files]]
@@ -170,6 +195,10 @@ metafile = true
 
 [[files]]
 file = "mods/blocks-bogies.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
 metafile = true
 
 [[files]]
@@ -205,6 +234,10 @@ file = "mods/create-bits-n-bobs.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-cobblestone.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-collision-crashfix.pw.toml"
 metafile = true
 
@@ -229,6 +262,10 @@ file = "mods/create-diesel-generators.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-dragons-plus.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-drill-drain.pw.toml"
 metafile = true
 
@@ -241,11 +278,19 @@ file = "mods/create-electro-energetics.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-framed.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/create-jetpack.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-liquid-fuel.pw.toml"
 metafile = true
 
 [[files]]
@@ -317,6 +362,10 @@ file = "mods/display-delight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/drive-by-sable.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
 metafile = true
 
@@ -334,6 +383,10 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-nutrition.pw.toml"
 metafile = true
 
 [[files]]
@@ -398,10 +451,6 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/foodvariations.pw.toml"
 metafile = true
 
 [[files]]
@@ -617,6 +666,14 @@ file = "mods/quark.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ragdoll-reactions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled-chipped.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled.pw.toml"
 metafile = true
 
@@ -634,6 +691,10 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
 metafile = true
 
 [[files]]
@@ -665,6 +726,10 @@ file = "mods/sable-ragdoll-corpse.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/sable-ragdoll-revival.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/sable-ragdolls.pw.toml"
 metafile = true
 
@@ -673,7 +738,7 @@ file = "mods/sable.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sablecat.pw.toml"
+file = "mods/sableragdoll-patch.pw.toml"
 metafile = true
 
 [[files]]
@@ -758,6 +823,10 @@ metafile = true
 
 [[files]]
 file = "mods/tide.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tiny-takeover-backport.pw.toml"
 metafile = true
 
 [[files]]
