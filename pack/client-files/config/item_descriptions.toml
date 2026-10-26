@@ -1,0 +1,13 @@
+display_always = true
+
+[block_descriptions]
+	show_always = true
+
+[entity_descriptions]
+	show_always = true
+
+[enchantment_descriptions]
+	display_always = true
+
+[effect_descriptions]
+	display_always = true
