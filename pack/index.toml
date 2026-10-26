@@ -25,6 +25,10 @@ file = "config/client-supplementaries-client.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/client-vanillabackport.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/crash_assistant/client-crash_assistant.pw.toml"
 metafile = true
 
@@ -807,6 +811,10 @@ metafile = true
 
 [[files]]
 file = "mods/tide.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tiny-takeover-backport.pw.toml"
 metafile = true
 
 [[files]]
