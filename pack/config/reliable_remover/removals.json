@@ -6,7 +6,14 @@
             "sophisticatedcore:ender_linker",
             "createlazytick:clock",
             "supplementaries:wrench",
-            "supplementaries:slingshot"
+            "supplementaries:slingshot",
+            "chipped:watering_can",
+            "chipped:alchemy_book",
+            "chipped:saw",
+            "chipped:needles",
+            "chipped:chisel",
+            "chipped:multimeter",
+            "sophisticatedcore:xp_bucket"
         ],
         "blocks": [
             "createdeco:white_shipping_container",
@@ -27,8 +34,18 @@
             "createdeco:black_shipping_container",
             "farm_and_charm:fertilized_farmland",
             "supplementaries:cage",
-            "supplementaries:pulley_block"
+            "supplementaries:pulley_block",
+            "chipped:botanist_workbench",
+            "chipped:glassblower",
+            "chipped:carpenters_table",
+            "chipped:loom_table",
+            "chipped:mason_table",
+            "chipped:alchemy_bench",
+            "chipped:tinkering_table"
         ],
-        "fluids": "electroenergetics:plant_oil"
+        "fluids": [
+            "electroenergetics:plant_oil",
+            "sophisticatedcore:xp_still"
+        ]
     }
 ]
