@@ -13,6 +13,10 @@ file = "config/client-item_description.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/client-moreculling.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/client-particle-core-config-toml.pw.toml"
 metafile = true
 

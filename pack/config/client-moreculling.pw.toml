@@ -1,0 +1,8 @@
+name = "moreculling.toml (client)"
+filename = "moreculling.toml"
+side = "client"
+
+[download]
+url = "https://sekai.lutfilahdz.com/client-files/config/moreculling.toml"
+hash-format = "sha512"
+hash = "6a046e61c9a13d05ac3603fa0517e612cff3f5d400495e972cce004029df536a2f8420f629e1722e389f1aa7eac540fb43e2ca7428391c0df5790de2d0e49d0c"
