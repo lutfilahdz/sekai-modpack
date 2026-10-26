@@ -126,6 +126,10 @@ file = "kubejs/server_scripts/block_restrictions.js"
 file = "kubejs/server_scripts/contraption_block_restriction.js"
 
 [[files]]
+file = "mods/aero-player-tilt.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/aero_cam_sync.pw.toml"
 metafile = true
 
