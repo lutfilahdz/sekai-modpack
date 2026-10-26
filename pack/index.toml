@@ -46,6 +46,10 @@ file = "config/create_connected-common.toml"
 file = "config/createcobblestone-common.toml"
 
 [[files]]
+file = "config/jade/client-jade-plugins.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/jei/client/default/client-jei.pw.toml"
 metafile = true
 
