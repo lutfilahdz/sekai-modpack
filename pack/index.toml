@@ -726,10 +726,6 @@ file = "mods/sable-ragdoll-corpse.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sable-ragdoll-revival.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/sable-ragdolls.pw.toml"
 metafile = true
 
