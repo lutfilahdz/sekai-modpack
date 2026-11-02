@@ -29,7 +29,7 @@ Install [Git](https://git-scm.com/) and [packwiz](https://packwiz.infra.link/ins
 | `pack/kubejs/`        | KubeJS scripts and resources.                                  |
 | `pack/client-files/`  | Source files intended for clients.                             |
 | `pack/server-files/`  | Source files intended for dedicated servers.                   |
-| `archive/`            | Files packaged into `modpack.zip`.                             |
+| `instance/`           | Files packaged into `instance.zip`.                            |
 | `build.sh`            | Vercel build script.                                           |
 | `public/`             | Generated deployment output; do not commit.                    |
 
@@ -131,4 +131,4 @@ If it has not been enabled yet, maintainers should add it and commit a normal `p
 
 With this mode enabled, contributors use ordinary `packwiz refresh`. File additions and removals still change the index, but edits no longer require internal file-hash changes in Git. Download hashes inside `.pw.toml` remain necessary.
 
-Vercel runs `bash build.sh` from the repository root and publishes `public/`. The script copies `pack/`, runs `packwiz refresh --build` on that copy, and creates `modpack.zip` from `archive/`. Full internal hashes belong in the build output; do not commit that output back to the source branch.
+Vercel runs `bash build.sh` from the repository root and publishes `public/`. The script copies `pack/`, runs `packwiz refresh --build` on that copy, and creates `instance.zip` from `instance/`. Full internal hashes belong in the build output; do not commit that output back to the source branch.

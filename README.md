@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./archive/sekai-modpack.png" alt="SEKAI Modpack Logo" width="256" />
+  <img src="./instance/sekai-modpack.png" alt="SEKAI Modpack Logo" width="256" />
 
 ![GitHub deployments](https://img.shields.io/github/deployments/lutfilahdz/sekai-modpack/Production?style=for-the-badge&label=deployment&labelColor=441B39&color=FFA0D3)
 ![GitHub last commit](https://img.shields.io/github/last-commit/lutfilahdz/sekai-modpack?style=for-the-badge&labelColor=441B39&color=FFA0D3)
@@ -21,7 +21,7 @@
 3. **Paste the following URL** into the Local file or link to a direct download field:
 
 ```
-https://sekai.lutfilahdz.com/modpack.zip
+https://sekai.lutfilahdz.com/instance.zip
 ```
 
 4. Click OK to import the modpack.

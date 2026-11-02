@@ -7,7 +7,7 @@ on:
     paths:
       - 'pack/**'
       - 'scripts/**'
-      - 'archive/**'
+      - 'instance/**'
       - '.github/workflows/release.yml'
   workflow_dispatch:
 
@@ -68,20 +68,40 @@ jobs:
 
           echo "Modrinth pack created: pack/output/$(basename "$GENERATED_MRPACK")"
 
-      - name: Build Release Pack ZIP
+      - name: Build Release CurseForge Pack
         run: |
-          if [ ! -d "archive" ]; then
-            echo "ERROR: archive directory not found"
+          cd pack
+
+          packwiz cf export
+
+          mkdir -p output
+          rm -f output/*.zip
+
+          GENERATED_CF="$(find . -maxdepth 1 -type f -name '*.zip' -print -quit)"
+
+          if [ -z "$GENERATED_CF" ]; then
+            echo "ERROR: packwiz did not generate a CurseForge .zip file"
+            exit 1
+          fi
+
+          mv -- "$GENERATED_CF" output/
+
+          echo "CurseForge pack created: pack/output/$(basename "$GENERATED_CF")"
+
+      - name: Build Release Instance Pack
+        run: |
+          if [ ! -d "instance" ]; then
+            echo "ERROR: instance directory not found"
             exit 1
           fi
 
           mkdir -p pack/output
-          rm -f pack/output/modpack.zip
+          rm -f pack/output/instance.zip
 
-          cd archive
-          zip -r ../pack/output/modpack.zip .
+          cd instance
+          zip -r ../pack/output/instance.zip .
 
-          echo "ZIP pack created: pack/output/modpack.zip"
+          echo "ZIP pack created: pack/output/instance.zip"
 
       - name: Get Pull Request Description
         env:
@@ -107,15 +127,21 @@ jobs:
         run: |
           TAG="v$VERSION"
           MRPACK="$(find pack/output -maxdepth 1 -type f -name '*.mrpack' -print -quit)"
-          ZIP="pack/output/modpack.zip"
+          CFPACK="$(find pack/output -maxdepth 1 -type f -name '*.zip' ! -name 'instance.zip' -print -quit)"
+          ZIP="pack/output/instance.zip"
 
           if [ -z "$MRPACK" ]; then
             echo "ERROR: No .mrpack file found in pack/output"
             exit 1
           fi
 
+          if [ -z "$CFPACK" ]; then
+            echo "ERROR: No CurseForge .zip file found in pack/output"
+            exit 1
+          fi
+
           if [ ! -f "$ZIP" ]; then
-            echo "ERROR: Pack ZIP not found"
+            echo "ERROR: Instance ZIP not found"
             exit 1
           fi
 
@@ -129,6 +155,7 @@ jobs:
 
           gh release create "$TAG" \
             "$MRPACK" \
+            "$CFPACK" \
             "$ZIP" \
             --title "SEKAI Modpack $VERSION" \
             --notes-file release-notes.md \
