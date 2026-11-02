@@ -111,6 +111,43 @@ git diff
 
 Stage only the intended source changes. Exclude generated `public/` output, exported archives, logs, and test worlds.
 
+## Commit messages
+
+Start every commit message with a capitalized verb describing the change. Keep the first line short and specific.
+
+| Verb        | When to use                               | Example                                                 |
+| ----------- | ----------------------------------------- | ------------------------------------------------------- |
+| `Add`       | Introduce something new.                  | `Add Chipped mod`                                       |
+| `Remove`    | Remove something existing.                | `Remove Copper Age Backport`                            |
+| `Replace`   | Swap one thing for another.               | `Replace Food Variations with Dynamic Nutrition`        |
+| `Update`    | Upgrade to a newer version.               | `Update Item Descriptions to 2.8.0`                     |
+| `Downgrade` | Roll back to an older version.            | `Downgrade JEI to 19.64.0.455`                          |
+| `Fix`       | Fix something that is broken.             | `Fix Copycats using Glass not connecting properly`      |
+| `Enable`    | Turn on a feature or config option.       | `Enable voice chat proximity mode`                      |
+| `Disable`   | Turn off a feature or config option.      | `Disable Item Descriptions on Jade tooltip`             |
+| `Configure` | Set up or change config files or options. | `Configure ServerCore mob cap limits`                   |
+| `Bump`      | Increment a version number.               | `Bump pack version to 1.1.0`                            |
+| `Refactor`  | Restructure without changing behavior.    | `Refactor build script to handle dynamic URL rewriting` |
+| `Merge`     | Combine multiple things into one.         | `Merge Reliable Remover configs into one`               |
+| `Revert`    | Undo a previous commit.                   | `Revert "Add Drive-By-Sable mod"`                       |
+
+For bulk mod updates, list each mod and its version range after the summary:
+
+```
+Update 5 mods
+- ModernFix to 5.27.27
+- Simple Voice Chat to 2.6.26
+- ...
+```
+
+When a change needs extra context (reason, side effects, workaround), add it after the first line separated by a blank line:
+
+```
+Downgrade JEI to 19.64.0.455
+JEI 19.70.0.460 crashes when joining a world (VerifyError in
+SmithingCategoryExtension.setOutput). Pinned until fixed.
+```
+
 Push your branch and open a pull request targeting **`dev`**. Include:
 
 - What changed and why.
