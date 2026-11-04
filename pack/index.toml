@@ -482,10 +482,6 @@ file = "mods/immediatelyfast.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/interiors.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/item-descriptions.pw.toml"
 metafile = true
 
