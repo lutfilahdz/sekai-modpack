@@ -43,6 +43,12 @@ file = "config/create-server.toml"
 file = "config/create_connected-common.toml"
 
 [[files]]
+file = "config/create_dragons_plus-common.toml"
+
+[[files]]
+file = "config/create_dragons_plus-server.toml"
+
+[[files]]
 file = "config/createcobblestone-common.toml"
 
 [[files]]

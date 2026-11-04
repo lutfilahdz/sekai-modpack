@@ -1,0 +1,6 @@
+[recipes]
+	enableBulkColoring = false
+	enableBulkSanding = false
+
+[dyeFluid]
+	dyeFluidBlockContactConsumesSource = true
