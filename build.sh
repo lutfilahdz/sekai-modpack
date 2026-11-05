@@ -37,4 +37,4 @@ else
 fi
 
 (cd public && "$PACKWIZ_TMP/packwiz" refresh --build)
-(cd archive && zip -r ../public/modpack.zip .)
+(cd instance && zip -r ../public/instance.zip .)
