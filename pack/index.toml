@@ -5,6 +5,10 @@ file = "config/asyncparticles/client-asyncparticles-json.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/client-aero_cam_sync.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/client-create-cyber-goggles.pw.toml"
 metafile = true
 
