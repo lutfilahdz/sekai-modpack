@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://sekai.lutfilahdz.com/client-files/config/aero_cam_sync-client.toml"
 hash-format = "sha512"
-hash = "48691303b0a97f7e4efd50e5a27543d1a6176774e2e625aaef78e28cb9169e4e38de8bc95feb84f858e035f63c045cc0c0ad47b9a26076b25f9c1aeb95b06fc6"
+hash = "107e04519fa5f98c2a0fb5ed1128a19206b799875a55dc610fc35bb380cb8454b5d7bfaf4e643e25a9089939759d1a63b851e0aa10f102b3de8587d14714aca7"
