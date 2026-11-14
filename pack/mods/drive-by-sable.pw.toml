@@ -1,13 +1,13 @@
 name = "Drive-By-Sable"
-filename = "drivebysable-r2.0.4.jar"
+filename = "drivebysable-r2.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rrNGnYXg/versions/JOu5h38h/drivebysable-r2.0.4.jar"
+url = "https://cdn.modrinth.com/data/rrNGnYXg/versions/AExueGLn/drivebysable-r2.1.0.jar"
 hash-format = "sha512"
-hash = "e9673ddc1353398fafe90be7bb1044e6c8928eef27ba7a3ea9a649ca225558da27770ccab6490cc9447782fc02872d070c10948d1c37b92f59590211b4ac2567"
+hash = "d10ad712bdbfdd67884c44ec395ae9efc270f6774239d82dd33c3a043ac5caff079f82a54ed3f8fe8f8d7fa496450d0fdb3f9b3c851d8a888dcfd26b7dd5b0de"
 
 [update]
 [update.modrinth]
 mod-id = "rrNGnYXg"
-version = "JOu5h38h"
+version = "AExueGLn"
