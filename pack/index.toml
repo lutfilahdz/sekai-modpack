@@ -748,10 +748,6 @@ file = "mods/sable.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sableragdoll-patch.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 metafile = true
 
