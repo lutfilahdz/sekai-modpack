@@ -5,6 +5,14 @@ file = "config/asyncparticles/client-asyncparticles-json.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/client-aero_cam_sync.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/client-aero_player_tilt.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/client-create-cyber-goggles.pw.toml"
 metafile = true
 
@@ -737,10 +745,6 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/sableragdoll-patch.pw.toml"
 metafile = true
 
 [[files]]

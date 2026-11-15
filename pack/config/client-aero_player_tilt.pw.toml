@@ -1,0 +1,8 @@
+name = "aero_player_tilt-client.toml (client)"
+filename = "aero_player_tilt-client.toml"
+side = "client"
+
+[download]
+url = "https://sekai.lutfilahdz.com/client-files/config/aero_player_tilt-client.toml"
+hash-format = "sha512"
+hash = "a681997925b64950528c17073fb15145ae09972512bf15e60afcc485ef61ccbb65e7afe7cb83bd622f431434c250498acee1f076ce576465bd2585cec2efb4bc"

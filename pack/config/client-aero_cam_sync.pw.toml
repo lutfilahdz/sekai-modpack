@@ -1,0 +1,8 @@
+name = "aero_cam_sync-client.toml (client)"
+filename = "aero_cam_sync-client.toml"
+side = "client"
+
+[download]
+url = "https://sekai.lutfilahdz.com/client-files/config/aero_cam_sync-client.toml"
+hash-format = "sha512"
+hash = "107e04519fa5f98c2a0fb5ed1128a19206b799875a55dc610fc35bb380cb8454b5d7bfaf4e643e25a9089939759d1a63b851e0aa10f102b3de8587d14714aca7"
